@@ -36,8 +36,6 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
     });
   };
 
-  const today = new Date().toISOString().split('T')[0];
-
   const validate = () => {
     if (!form.fullName.trim()) return 'Please enter your full name.';
     if (!form.travelStartDate && !form.travelEndDate) return 'Please add your preferred travel dates.';

@@ -3,12 +3,24 @@ import { Resend } from 'resend';
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export default async (request, context) => {
+  console.log('Function invoked, method:', request.method);
+
   if (request.method !== 'POST') {
     return new Response('Method not allowed', { status: 405 });
   }
 
+  if (!process.env.RESEND_API_KEY) {
+    console.error('RESEND_API_KEY is missing');
+    return new Response(JSON.stringify({ success: false, error: 'Server configuration error: missing API key' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
+
   try {
     const body = await request.json();
+    console.log('Request body received:', JSON.stringify(body));
+
     const {
       fullName,
       travelStartDate,
@@ -24,6 +36,8 @@ export default async (request, context) => {
     const travelDatesText = travelEndDate
       ? `${travelStartDate} to ${travelEndDate}`
       : travelStartDate;
+
+    console.log('Attempting to send email via Resend for:', fullName);
 
     const html = `
       <!DOCTYPE html>
@@ -123,6 +137,8 @@ export default async (request, context) => {
       html,
       replyTo: email,
     });
+
+    console.log('Email sent successfully:', JSON.stringify(data));
 
     return new Response(JSON.stringify({ success: true, data }), {
       status: 200,

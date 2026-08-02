@@ -138,7 +138,6 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
           />
         </label>
       </div>
-      </div>
 
       <label className="checkbox-field">
         <input

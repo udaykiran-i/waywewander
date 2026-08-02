@@ -37,7 +37,7 @@ function AnimatedRoutes() {
     <>
       <ScrollManager />
       <Layout>
-        <AnimatePresence mode="wait">
+        <AnimatePresence>
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Home />} />
             <Route path="/trips" element={<Trips />} />

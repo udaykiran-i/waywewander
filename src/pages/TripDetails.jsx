@@ -8,7 +8,8 @@ import {
   FaTruck,
   FaUtensils,
 } from 'react-icons/fa';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useParams, useLocation } from 'react-router-dom';
+import { useEffect } from 'react';
 import PageTransition from '../components/PageTransition.jsx';
 import Seo from '../components/Seo.jsx';
 import CallbackForm from '../components/forms/CallbackForm.jsx';
@@ -18,8 +19,20 @@ import NotFound from './NotFound.jsx';
 
 export default function TripDetails() {
   const { slug } = useParams();
+  const { hash } = useLocation();
   const trip = trips.find((item) => item.slug === slug);
   const [openDay, setOpenDay] = useState(1);
+
+  useEffect(() => {
+    if (hash) {
+      const target = document.querySelector(hash);
+      if (target) {
+        setTimeout(() => {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 300);
+      }
+    }
+  }, [hash]);
 
   if (!trip) {
     return <NotFound />;

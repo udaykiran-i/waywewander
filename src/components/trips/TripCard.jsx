@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaMapMarkerAlt, FaStar, FaClock } from 'react-icons/fa';
+import { FaMapMarkerAlt, FaClock } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 export default function TripCard({ trip }) {
@@ -17,9 +17,6 @@ export default function TripCard({ trip }) {
           </span>
         </div>
         <div className="trip-card__meta">
-          <span>
-            <FaStar /> {trip.rating}
-          </span>
           <span>
             <FaClock /> {trip.duration}
           </span>

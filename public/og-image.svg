@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="70" y="70" width="1060" height="490" rx="24" fill="#0F172A"/>
+  <path d="M70 425L285 205L420 350L522 250L710 455L840 330L1130 560H70V425Z" fill="#0EA5E9"/>
+  <path d="M70 485L250 315L385 435L510 335L705 520L840 400L1130 560H70V485Z" fill="#14B8A6" opacity="0.95"/>
+  <circle cx="950" cy="170" r="56" fill="#F59E0B"/>
+  <text x="120" y="190" fill="#FFFFFF" font-size="78" font-family="Montserrat, Arial, sans-serif" font-weight="800">WayWeWander</text>
+  <text x="124" y="256" fill="#E0F2FE" font-size="34" font-family="Poppins, Arial, sans-serif" font-weight="500">Travel Beyond Boundaries.</text>
+</svg>

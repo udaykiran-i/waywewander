@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="WayWeWander designs premium adventure, luxury, honeymoon, family, weekend, domestic, and international travel experiences."
+    />
+    <meta name="theme-color" content="#0EA5E9" />
+    <meta property="og:title" content="WayWeWander | Travel Beyond Boundaries" />
+    <meta
+      property="og:description"
+      content="Premium curated trips, expert planning, and destination-first itineraries for travelers who want more than a checklist."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/og-image.svg" />
+    <meta property="og:url" content="https://waywewander.com/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="WayWeWander | Travel Beyond Boundaries" />
+    <meta
+      name="twitter:description"
+      content="Discover polished, JSON-managed travel itineraries and request a personal callback from a WayWeWander expert."
+    />
+    <meta name="twitter:image" content="/og-image.svg" />
+    <link rel="canonical" href="https://waywewander.com/" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>WayWeWander | Travel Beyond Boundaries</title>
+  </head>
+  <body>
+    <form name="callback" netlify netlify-honeypot="bot-field" hidden>
+      <input type="text" name="fullName" />
+      <input type="text" name="travelDates" />
+      <input type="email" name="email" />
+      <input type="tel" name="mobile" />
+      <input type="checkbox" name="whatsappSame" />
+      <input type="tel" name="whatsapp" />
+      <textarea name="message"></textarea>
+      <input type="text" name="trip" />
+      <input type="text" name="sourcePage" />
+    </form>
+    <form name="newsletter" netlify netlify-honeypot="bot-field" hidden>
+      <input type="email" name="email" />
+      <input type="text" name="sourcePage" />
+    </form>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

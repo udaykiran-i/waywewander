@@ -1,12 +1,10 @@
 import { useState } from 'react';
 import {
   FaBed,
-  FaCalendarAlt,
   FaChevronDown,
   FaCloudSun,
   FaMapMarkerAlt,
   FaMountain,
-  FaStar,
   FaTruck,
   FaUtensils,
 } from 'react-icons/fa';
@@ -16,7 +14,6 @@ import Seo from '../components/Seo.jsx';
 import CallbackForm from '../components/forms/CallbackForm.jsx';
 import TripCard from '../components/trips/TripCard.jsx';
 import trips from '../data/trips.json';
-import { formatPrice } from '../utils/formatters.js';
 import NotFound from './NotFound.jsx';
 
 export default function TripDetails() {
@@ -60,20 +57,10 @@ export default function TripDetails() {
             <a className="btn btn--primary" href="#callback">
               Book Now
             </a>
-            <a className="btn btn--light" href="#itinerary">
+            <button className="btn btn--light" type="button" onClick={() => document.getElementById('itinerary')?.scrollIntoView({ behavior: 'smooth', block: 'start' })}>
               View Itinerary
-            </a>
+            </button>
           </div>
-        </div>
-      </section>
-
-      <section className="section section--compact">
-        <div className="container trip-summary-bar">
-          <span>
-            <FaStar /> {trip.rating} from {trip.reviewsCount} travelers
-          </span>
-          <span>{formatPrice(trip.price)} per person</span>
-          <span>{trip.seatsLeft} seats left</span>
         </div>
       </section>
 
@@ -91,9 +78,6 @@ export default function TripDetails() {
           </article>
 
           <aside className="booking-card">
-            <span>Starting from</span>
-            <strong>{formatPrice(trip.price)}</strong>
-            <p>Available dates: {trip.travelDates.join(', ')}</p>
             <a className="btn btn--primary btn--wide" href="#callback">
               Request Callback
             </a>
@@ -162,7 +146,7 @@ export default function TripDetails() {
       <section className="section">
         <div className="container split-layout">
           <div>
-            <span className="eyebrow">FAQs and reviews</span>
+            <span className="eyebrow">FAQs</span>
             <h2>Know before you go</h2>
             <div className="faq-list">
               {trip.faq.map((item) => (
@@ -172,20 +156,6 @@ export default function TripDetails() {
                 </details>
               ))}
             </div>
-          </div>
-          <div className="review-stack">
-            {trip.reviews.map((review) => (
-              <article className="testimonial-card" key={review.name}>
-                <span className="rating-line">
-                  {Array.from({ length: review.rating }).map((_, index) => (
-                    <FaStar key={`${review.name}-${index}`} />
-                  ))}
-                </span>
-                <p>{review.text}</p>
-                <strong>{review.name}</strong>
-                <span>{review.location}</span>
-              </article>
-            ))}
           </div>
         </div>
       </section>
@@ -221,9 +191,8 @@ export default function TripDetails() {
       )}
 
       <div className="mobile-booking-bar">
-        <span>{formatPrice(trip.price)}</span>
         <a className="btn btn--primary" href="#callback">
-          Book Now
+          Request Callback
         </a>
       </div>
     </PageTransition>

@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
-import { FaCalendarAlt, FaClock, FaMapMarkerAlt, FaStar, FaUsers } from 'react-icons/fa';
+import { FaMapMarkerAlt, FaStar } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import { formatPrice } from '../../utils/formatters.js';
 
 export default function TripCard({ trip }) {
   return (
@@ -23,18 +22,6 @@ export default function TripCard({ trip }) {
         <h2>{trip.title}</h2>
         <p>{trip.shortDescription}</p>
 
-        <div className="trip-facts" aria-label={`${trip.title} quick facts`}>
-          <span>
-            <FaClock /> {trip.duration}
-          </span>
-          <span>
-            <FaCalendarAlt /> {trip.travelDates[0]}
-          </span>
-          <span>
-            <FaUsers /> {trip.seatsLeft} seats left
-          </span>
-        </div>
-
         <ul className="chip-list" aria-label={`${trip.title} highlights`}>
           {trip.highlights.slice(0, 3).map((highlight) => (
             <li key={highlight}>{highlight}</li>
@@ -42,7 +29,6 @@ export default function TripCard({ trip }) {
         </ul>
 
         <div className="trip-card__footer">
-          <strong>{formatPrice(trip.price)}</strong>
           <div>
             <Link className="btn btn--ghost" to={`/trip/${trip.slug}`}>
               View Itinerary

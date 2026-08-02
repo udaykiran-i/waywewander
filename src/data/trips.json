@@ -138,5 +138,134 @@
         "answer": "Only permits specifically mentioned in the inclusions are covered. Other attraction entry tickets and optional activities are payable directly."
       }
     ]
+  },
+  {
+    "id": "trip-kerala-weekend-escape",
+    "slug": "kerala-weekend-escape",
+    "title": "Kerala Weekend Escape",
+    "location": "Kochi • Munnar • Alleppey",
+    "categories": ["Domestic", "Family", "Weekend", "Honeymoon"],
+    "price": 12999,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": ["19 Sep 2026", "17 Oct 2026"],
+    "seatsLeft": 10,
+    "rating": 4.8,
+    "reviewsCount": 0,
+    "shortDescription": "A refreshing Kerala getaway featuring misty hills, scenic waterfalls, lush tea plantations, and an unforgettable overnight houseboat experience in Alleppey.",
+    "heroImage": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944",
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    ],
+    "highlights": [
+      "Explore Munnar's tea gardens and mountain viewpoints",
+      "Relax aboard a traditional Alleppey houseboat",
+      "Visit iconic waterfalls and scenic landscapes",
+      "Private transfers with comfortable premium stays"
+    ],
+    "overview": "Perfect for travelers with limited time, this four-day Kerala escape combines the cool hills of Munnar with the tranquil backwaters of Alleppey. Journey through picturesque waterfalls, tea plantations, and breathtaking viewpoints before unwinding aboard a deluxe houseboat. Carefully planned with comfortable accommodations, seamless transportation, and authentic local experiences, this itinerary offers the perfect blend of nature, relaxation, and culture.",
+    "pickupLocation": "Kochi International Airport (COK) or Ernakulam Railway Station",
+    "accommodation": "2 nights in a premium 3-star/4-star hotel in Munnar and 1 night aboard a deluxe AC houseboat in Alleppey on twin/triple sharing basis.",
+    "transportation": "Private air-conditioned sedan/SUV with experienced driver for all sightseeing and transfers.",
+    "meals": "Breakfast from Day 2 onwards and all meals during the Alleppey houseboat stay (Lunch, Dinner & Breakfast).",
+    "difficulty": "Easy",
+    "altitude": "Approx. 1,600 m (Munnar)",
+    "weather": "Munnar enjoys cool temperatures between 12°C-24°C, while Alleppey remains warm and tropical at 24°C-33°C throughout most of the year.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Kochi & Journey to Munnar",
+        "morning": "Arrive at Kochi Airport or Railway Station before beginning your scenic drive into Kerala's highlands.",
+        "afternoon": "Stop at beautiful waterfalls and enjoy panoramic views as you travel through spice plantations and winding mountain roads.",
+        "evening": "Check into your hotel in Munnar and spend a relaxed evening exploring nearby cafés or local markets.",
+        "hotel": "Premium Hotel, Munnar",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2"
+      },
+      {
+        "day": 2,
+        "title": "Discover the Best of Munnar",
+        "morning": "After breakfast, visit Eravikulam National Park and admire the rolling tea estates surrounding the region.",
+        "afternoon": "Continue to Mattupetty Dam, Echo Point, Kundala Lake, Blossom Park, and other scenic attractions.",
+        "evening": "Return to the hotel and enjoy a peaceful evening amidst the cool mountain weather.",
+        "hotel": "Premium Hotel, Munnar",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944"
+      },
+      {
+        "day": 3,
+        "title": "Munnar to Alleppey Houseboat Experience",
+        "morning": "Check out after breakfast and drive towards the enchanting backwaters of Alleppey.",
+        "afternoon": "Board your deluxe houseboat and enjoy a freshly prepared lunch while cruising through peaceful canals, paddy fields, and village landscapes.",
+        "evening": "Witness a spectacular sunset over the backwaters before enjoying dinner and an overnight stay aboard the houseboat.",
+        "hotel": "Deluxe AC Houseboat",
+        "mealsIncluded": "Breakfast, Lunch, Dinner",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+      },
+      {
+        "day": 4,
+        "title": "Return to Kochi & Departure",
+        "morning": "Enjoy breakfast onboard before disembarking from the houseboat.",
+        "afternoon": "Drive back to Kochi with an optional stop at Fort Kochi or Marine Drive if your departure schedule allows.",
+        "evening": "Transfer to Kochi Airport or Railway Station for your onward journey.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      }
+    ],
+    "inclusions": [
+      "Airport/Railway Station pickup and drop",
+      "Private AC sedan/SUV for all transfers and sightseeing",
+      "2 nights accommodation in Munnar",
+      "1 night deluxe AC houseboat stay in Alleppey",
+      "Breakfast from Day 2 onwards",
+      "Lunch, Dinner, and Breakfast during the houseboat stay",
+      "Experienced professional driver",
+      "Sightseeing as per itinerary",
+      "All applicable hotel taxes",
+      "24×7 customer support"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Meals not specifically mentioned",
+      "Personal expenses such as shopping, beverages, and laundry",
+      "Adventure activities and optional water sports",
+      "Entry tickets and camera fees",
+      "Travel and medical insurance",
+      "Expenses due to weather, roadblocks, or itinerary changes",
+      "Anything not mentioned under inclusions"
+    ],
+    "packingList": [
+      "Comfortable cotton clothing",
+      "Light jacket for Munnar",
+      "Comfortable walking shoes",
+      "Umbrella or rain jacket",
+      "Sunscreen and sunglasses",
+      "Mosquito repellent",
+      "Personal medicines",
+      "Government-issued ID proof",
+      "Power bank and mobile charger",
+      "Reusable water bottle",
+      "Small backpack for sightseeing"
+    ],
+    "faq": [
+      {
+        "question": "Is this trip suitable for a long weekend?",
+        "answer": "Yes. This itinerary is designed for travelers looking to experience Kerala's highlights within four days."
+      },
+      {
+        "question": "Does the package include the Alleppey houseboat stay?",
+        "answer": "Yes. One overnight stay aboard a deluxe AC houseboat with meals is included."
+      },
+      {
+        "question": "Can families with children join this trip?",
+        "answer": "Absolutely. The itinerary is family-friendly and suitable for couples, children, and senior citizens."
+      },
+      {
+        "question": "Will we visit Fort Kochi?",
+        "answer": "Fort Kochi sightseeing is optional on the final day and depends on your departure timing."
+      }
+    ]
   }
 ]

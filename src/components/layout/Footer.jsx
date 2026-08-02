@@ -2,7 +2,6 @@ import { FaInstagram, FaWhatsapp } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 // import trips from '../../data/trips.json';
 import { brand, navLinks } from '../../data/siteContent.js';
-import NewsletterForm from '../forms/NewsletterForm.jsx';
 
 export default function Footer() {
   // const popularTrips = trips.slice(0, 4);
@@ -79,7 +78,6 @@ export default function Footer() {
               <a href={brand.instagramUrl}>Instagram: @{brand.instagramHandle}</a>
             </li>
           </ul>
-          <NewsletterForm />
         </section>
       </div>
 

@@ -43,6 +43,12 @@ The following sections are currently commented out and can be uncommented when y
 ### 6. `src/pages/Home.jsx` (testimonials section)
 - Lines 116-130: Testimonials section (Trusted by travelers who care about details) — commented out until real testimonials are available
 
+### 7. Newsletter (removed)
+- `src/components/forms/NewsletterForm.jsx` — removed
+- `src/components/layout/Footer.jsx` — newsletter form removed from footer contact section
+- `index.html` — hidden newsletter form removed
+- `src/styles/global.css` — newsletter CSS removed
+
 ### How to Restore Trips
 1. Uncomment the imports and JSX sections listed above
 2. Add/edit trip data in `src/data/trips.json`

@@ -695,12 +695,6 @@ p {
   align-items: start;
 }
 
-.callback-form,
-.newsletter-form {
-  display: grid;
-  gap: 16px;
-}
-
 .callback-form {
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -1127,8 +1121,7 @@ textarea {
   gap: 10px;
 }
 
-.social-links a,
-.newsletter-form button {
+.social-links a {
   display: grid;
   width: 40px;
   height: 40px;
@@ -1160,20 +1153,6 @@ textarea {
 
 .footer-list a:hover {
   color: var(--primary);
-}
-
-.newsletter-form {
-  margin-top: 20px;
-}
-
-.newsletter-form > div {
-  display: grid;
-  grid-template-columns: 1fr 40px;
-  gap: 8px;
-}
-
-.newsletter-form p {
-  font-size: 0.86rem;
 }
 
 .footer-bottom {

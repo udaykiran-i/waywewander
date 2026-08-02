@@ -32,7 +32,7 @@ export default function TripCard({ trip }) {
 
         <div className="trip-card__footer">
           <div>
-            <Link className="btn btn--ghost" to={`/trip/${trip.slug}#itinerary`}>
+            <Link className="btn btn--ghost" to={`/trip/${trip.slug}`}>
               View Itinerary
             </Link>
             <Link className="btn btn--primary" to={`/contact#callback`}>

@@ -75,15 +75,17 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
         body: JSON.stringify(payload),
       });
 
-      if (!response.ok) {
-        throw new Error('Form submission failed');
+      const result = await response.json();
+
+      if (!response.ok || !result.success) {
+        throw new Error(result.error || 'Form submission failed');
       }
 
       setStatus('success');
       setForm(initialForm);
-    } catch {
+    } catch (err) {
       setStatus('error');
-      setError('We could not submit this right now. Please try again or contact us on WhatsApp.');
+      setError(err.message || 'We could not submit this right now. Please try again or contact us on WhatsApp.');
     }
   };
 

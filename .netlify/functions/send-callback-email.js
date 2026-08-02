@@ -129,8 +129,10 @@ export default async (request, context) => {
       headers: { 'Content-Type': 'application/json' },
     });
   } catch (error) {
+    const errorMessage = error?.message || 'Failed to send email';
+    console.error('Email send error:', errorMessage, error);
     return new Response(
-      JSON.stringify({ success: false, error: error.message || 'Failed to send email' }),
+      JSON.stringify({ success: false, error: errorMessage }),
       {
         status: 500,
         headers: { 'Content-Type': 'application/json' },

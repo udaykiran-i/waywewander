@@ -774,5 +774,141 @@
         "answer": "October to June offers the most pleasant weather for sightseeing, while the monsoon season transforms the hills into lush green landscapes with spectacular waterfalls."
       }
     ]
+  },
+  {
+    "id": "trip-ooty-kodaikanal",
+    "slug": "ooty-kodaikanal",
+    "title": "Ooty & Kodaikanal Grand Escape",
+    "location": "Ooty • Kodaikanal, Tamil Nadu",
+    "categories": ["Domestic", "Family", "Honeymoon", "Weekend"],
+    "price": 13999,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 12,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "Experience two of South India's most beautiful hill stations with scenic lakes, tea gardens, waterfalls, pine forests, and breathtaking mountain viewpoints.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Explore Ooty's gardens, lakes and tea estates",
+      "Witness panoramic views from Doddabetta Peak",
+      "Visit Pillar Rocks, Pine Forest & Guna Caves",
+      "Enjoy boating at Kodai Lake and walk along Coaker's Walk"
+    ],
+    "overview": "Discover the finest hill stations of Tamil Nadu on this carefully crafted four-day getaway. Begin your journey in Ooty, the Queen of Hill Stations, where lush tea plantations, colonial charm, and misty mountains create unforgettable memories. Continue to the serene landscapes of Kodaikanal, renowned for its pine forests, sparkling lake, dramatic viewpoints, and pleasant climate. Ideal for honeymooners, families, photographers, and nature lovers, this itinerary combines scenic beauty, relaxation, and local experiences into one unforgettable holiday.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Junction Railway Station",
+    "accommodation": "2 Nights in a premium hotel in Ooty and 1 Night in a premium hotel in Kodaikanal on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller for all transfers and sightseeing.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "Ooty - 2,240 m | Kodaikanal - 2,133 m",
+    "weather": "Cool and pleasant throughout the year with temperatures ranging between 10°C and 24°C. Evenings remain chilly, especially during winter.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Explore Ooty",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and enjoy a scenic drive through the Nilgiri Hills to Ooty. Check into your hotel and freshen up before sightseeing.",
+        "afternoon": "Visit the Government Botanical Garden followed by the famous Government Rose Garden. Stroll through beautifully maintained flower beds and enjoy the pleasant hill weather.",
+        "evening": "Enjoy boating at Ooty Lake and explore Charing Cross Market for homemade chocolates, Nilgiri tea, spices, and handicrafts before returning to the hotel.",
+        "hotel": "Premium Hotel, Ooty",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 2,
+        "title": "Discover the Best of Ooty",
+        "morning": "After breakfast, visit Doddabetta Peak for panoramic views of the Nilgiri Hills. Continue to the Tea Factory & Museum to experience tea manufacturing and enjoy fresh tea tasting.",
+        "afternoon": "Visit Pine Forest, Shooting Point, Pykara Lake and Pykara Waterfalls. Optional boating is available at Pykara Lake.",
+        "evening": "Return to Ooty and enjoy free time exploring cafés or shopping before dinner.",
+        "hotel": "Premium Hotel, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      },
+      {
+        "day": 3,
+        "title": "Journey to Kodaikanal",
+        "morning": "After breakfast, check out and drive through scenic mountain roads towards Kodaikanal. En route enjoy picturesque valley views and lush countryside.",
+        "afternoon": "Upon arrival, visit Silver Cascade Falls, Bryant Park, and the famous Coaker's Walk overlooking the Palani Hills.",
+        "evening": "Spend your evening boating or cycling around Kodai Lake before exploring the local market known for handmade chocolates, eucalyptus oil, and souvenirs.",
+        "hotel": "Premium Hotel, Kodaikanal",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+      },
+      {
+        "day": 4,
+        "title": "Kodaikanal Sightseeing & Departure",
+        "morning": "After breakfast, visit Green Valley View, Pillar Rocks, Guna Caves (Devil's Kitchen), Pine Forest, and Moir Point while enjoying breathtaking views of the surrounding valleys.",
+        "afternoon": "Visit Kurinji Andavar Temple and Shenbaganur Museum (time permitting) before beginning your return journey to Coimbatore.",
+        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of Tamil Nadu's hill stations.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport/Railway Station",
+      "Private AC vehicle for all transfers and sightseeing",
+      "2 Nights accommodation in Ooty",
+      "1 Night accommodation in Kodaikanal",
+      "Daily breakfast",
+      "3 Dinners",
+      "Experienced professional driver",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "Driver allowance",
+      "Sightseeing as per itinerary",
+      "24×7 customer support"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Lunch throughout the tour",
+      "Boating charges at Ooty and Kodai Lake",
+      "Entry tickets to monuments and attractions",
+      "Toy Train tickets",
+      "Adventure activities",
+      "Horse riding charges",
+      "Travel insurance",
+      "Camera fees",
+      "Personal expenses",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued photo ID",
+      "Warm jacket or sweater",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Reusable water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for shopping and local expenses"
+    ],
+    "faq": [
+      {
+        "question": "Which hill station is colder, Ooty or Kodaikanal?",
+        "answer": "Both enjoy pleasant weather year-round, but Ooty is generally slightly cooler, especially during winter mornings and nights."
+      },
+      {
+        "question": "Is boating included in the package?",
+        "answer": "No. Boating at Ooty Lake, Pykara Lake, and Kodai Lake is optional and can be booked directly at the respective locations."
+      },
+      {
+        "question": "Is this package suitable for honeymoon couples?",
+        "answer": "Yes. This itinerary is one of the most popular honeymoon packages, combining romantic lakes, scenic viewpoints, peaceful walks, and comfortable accommodations."
+      },
+      {
+        "question": "Can the itinerary be customized?",
+        "answer": "Absolutely. Attractions such as Coonoor, Avalanche Lake, Dolphin's Nose, Berijam Lake, Mannavanur, or the Nilgiri Mountain Railway can be added based on your preferences and available travel time."
+      }
+    ]
   }
 ]

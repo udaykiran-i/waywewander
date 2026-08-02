@@ -4,7 +4,7 @@ import trips from '../../data/trips.json';
 import { brand, navLinks } from '../../data/siteContent.js';
 
 export default function Footer() {
-  const popularTrips = trips.slice(0, 5);
+  const popularTrips = trips.slice(0, 6);
 
   return (
     <footer className="site-footer">

@@ -46,7 +46,7 @@ The following trip sections are currently active and displaying content:
 - Featured trips section is active, showing first 4 trips from `src/data/trips.json`
 
 ### 3. `src/components/layout/Footer.jsx`
-- Popular Trips section is active, showing first 4 trips from `src/data/trips.json`
+- Popular Trips section is active, showing first 6 trips from `src/data/trips.json`
 
 ## Current Trips
 
@@ -55,6 +55,16 @@ The following trips are currently active in `src/data/trips.json`:
 1. **Kerala Highlands & Backwaters Escape** (`kerala-highlands-backwaters`) — 5 Days / 4 Nights
 2. **Kerala Weekend Escape** (`kerala-weekend-escape`) — 4 Days / 3 Nights
 3. **Gokarna & Dandeli Adventure Escape** (`gokarna-dandeli-adventure`) — 3 Days / 2 Nights
+4. **Coorg & Chikmagalur Explorer** (`coorg-chikmagalur-explorer`) — 3 Days / 2 Nights
+5. **Coorg Weekend Escape** (`coorg-weekend-escape`) — 2 Days / 1 Night
+6. **Ooty Weekend Escape** (`ooty-weekend-escape`) — 2 Days / 1 Night
+7. **Ooty Explorer** (`ooty-explorer`) — 3 Days / 2 Nights
+8. **Ooty & Coonoor Escape** (`ooty-coonoor-escape`) — 3 Days / 2 Nights
+9. **Kodaikanal Weekend Escape** (`kodaikanal-weekend`) — 3 Days / 2 Nights
+10. **Coimbatore & Ooty Delight** (`coimbatore-ooty`) — 3 Days / 2 Nights
+11. **Coimbatore & Kodaikanal Retreat** (`coimbatore-kodaikanal`) — 4 Days / 3 Nights
+12. **Ooty & Kodaikanal Grand Escape** (`ooty-kodaikanal`) — 4 Days / 3 Nights
+13. **Complete Tamil Nadu Hills Expedition** (`complete-tamil-nadu-hills`) — 5 Days / 4 Nights
 
 ## Adding Trips
 

@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import PageTransition from '../components/PageTransition.jsx';
 import Seo from '../components/Seo.jsx';
 import CallbackForm from '../components/forms/CallbackForm.jsx';
-// import TripCard from '../components/trips/TripCard.jsx';
-// import trips from '../data/trips.json';
+import TripCard from '../components/trips/TripCard.jsx';
+import trips from '../data/trips.json';
 import {
   blogPreviews,
   brand,
@@ -15,7 +15,7 @@ import {
   whyChoose,
 } from '../data/siteContent.js';
 
-// const featuredTrips = trips.slice(0, 4);
+const featuredTrips = trips.slice(0, 4);
 
 export default function Home() {
   return (
@@ -59,7 +59,6 @@ export default function Home() {
       </section>
       */}
 
-      {/* COMMENTED OUT FOR FUTURE USE - Uncomment when adding custom itineraries
       <section className="section" id="featured-trips">
         <div className="container section-heading">
           <span className="eyebrow">Featured departures</span>
@@ -77,14 +76,6 @@ export default function Home() {
           <Link className="btn btn--secondary" to="/trips">
             View All Trips <FaArrowRight />
           </Link>
-        </div>
-      </section>
-      */}
-      <section className="section" id="featured-trips">
-        <div className="container section-heading">
-          <span className="eyebrow">Featured departures</span>
-          <h2>We are working on it, let's travel soon !!</h2>
-          <p>Exciting custom itineraries are on the way. Check back soon!</p>
         </div>
       </section>
 

@@ -7,21 +7,13 @@ import trips from '../data/trips.json';
 import { tripCategories } from '../data/siteContent.js';
 import { tripMatches } from '../utils/formatters.js';
 
-const budgetOptions = [
-  { label: 'Any budget', value: '' },
-  { label: 'Under Rs. 40,000', value: 'under-40000' },
-  { label: 'Rs. 40,000 - Rs. 75,000', value: '40000-75000' },
-  { label: 'Above Rs. 75,000', value: 'above-75000' },
-];
-
 export default function Trips() {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState('');
-  const [budget, setBudget] = useState('');
 
   const filteredTrips = useMemo(
-    () => trips.filter((trip) => tripMatches(trip, { query, category, budget })),
-    [budget, category, query],
+    () => trips.filter((trip) => tripMatches(trip, { query, category })),
+    [category, query],
   );
 
   return (
@@ -50,14 +42,6 @@ export default function Trips() {
               onChange={(event) => setQuery(event.target.value)}
             />
           </label>
-
-          <select value={budget} onChange={(event) => setBudget(event.target.value)} aria-label="Budget">
-            {budgetOptions.map((option) => (
-              <option key={option.value} value={option.value}>
-                {option.label}
-              </option>
-            ))}
-          </select>
 
           <select
             value={category}
@@ -97,7 +81,6 @@ export default function Trips() {
           </div>
         </div>
 
-        {/* COMMENTED OUT FOR FUTURE USE - Uncomment when adding custom itineraries
         {filteredTrips.length > 0 ? (
           <div className="container trip-grid">
             {filteredTrips.map((trip) => (
@@ -107,14 +90,9 @@ export default function Trips() {
         ) : (
           <div className="container empty-state">
             <h2>No exact match yet</h2>
-            <p>Try a wider budget or clear the category filter to see more routes.</p>
+            <p>Try a wider search or clear the category filter to see more routes.</p>
           </div>
         )}
-        */}
-        <div className="container empty-state">
-          <h2>We are working on it, let's travel soon !!</h2>
-          <p>Exciting custom itineraries are on the way. Check back soon!</p>
-        </div>
       </section>
     </PageTransition>
   );

@@ -17,45 +17,36 @@ npm run build
 
 ## Commented Code for Future Use
 
-The following sections are currently commented out and can be uncommented when you are ready to add custom itineraries:
+The following sections are currently commented out and can be uncommented when you are ready:
 
-### 1. `src/pages/Trips.jsx`
-- Lines 5-6: `TripCard` and `trips` imports
-- Lines 22-25: `filteredTrips` useMemo (kept active but rendering is commented)
-- Lines 102-113: Trip grid rendering and empty state — replaced with "We are working on it, let's travel soon !!" placeholder
-
-### 2. `src/pages/Home.jsx`
-- Lines 6-7: `TripCard` and `trips` imports
-- Line 18: `featuredTrips` constant
-- Lines 60-78: Featured trips section (trip grid + View All Trips button) — replaced with placeholder
-
-### 3. `src/components/layout/Footer.jsx`
-- Line 3: `trips` import
-- Line 8: `popularTrips` constant
-- Lines 54-60: Popular Trips links in footer — replaced with placeholder text
-
-### 4. `src/pages/Home.jsx` (stats section)
+### 1. `src/pages/Home.jsx` (stats section)
 - Lines 49-58: Travel stats grid (120+ Curated journeys, 8.5K+ Happy travelers, 4.9 Average rating, 60+ Expert partners) — commented out until real stats are available
 
-### 5. `src/pages/About.jsx` (stats section)
+### 2. `src/pages/About.jsx` (stats section)
 - Lines 61-70: Travel stats grid in About page — commented out until real stats are available
 
-### 6. `src/pages/Home.jsx` (testimonials section)
+### 3. `src/pages/Home.jsx` (testimonials section)
 - Lines 116-130: Testimonials section (Trusted by travelers who care about details) — commented out until real testimonials are available
 
-### 7. Newsletter (removed)
+### 4. Newsletter (removed)
 - `src/components/forms/NewsletterForm.jsx` — removed
 - `src/components/layout/Footer.jsx` — newsletter form removed from footer contact section
 - `index.html` — hidden newsletter form removed
 - `src/styles/global.css` — newsletter CSS removed
 
-### How to Restore Trips
-1. Uncomment the imports and JSX sections listed above
-2. Add/edit trip data in `src/data/trips.json`
-3. Ensure each trip has a unique `slug` and `id`
-4. The `TripDetails` page at `src/pages/TripDetails.jsx` is already set up to render individual trip pages
+## Active Trip Sections
 
-Trip content is managed in `src/data/trips.json`. Add or edit trips there to update catalogue cards and dynamic itinerary pages without changing component code.
+The following trip sections are currently active and displaying content:
+
+### 1. `src/pages/Trips.jsx`
+- Trip grid is active, showing all itineraries from `src/data/trips.json`
+- Budget filter removed — only search and category filters remain
+
+### 2. `src/pages/Home.jsx`
+- Featured trips section is active, showing first 4 trips from `src/data/trips.json`
+
+### 3. `src/components/layout/Footer.jsx`
+- Popular Trips section is active, showing first 4 trips from `src/data/trips.json`
 
 ## Adding Trips
 

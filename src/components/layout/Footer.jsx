@@ -1,10 +1,10 @@
 import { FaInstagram, FaWhatsapp } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-// import trips from '../../data/trips.json';
+import trips from '../../data/trips.json';
 import { brand, navLinks } from '../../data/siteContent.js';
 
 export default function Footer() {
-  // const popularTrips = trips.slice(0, 4);
+  const popularTrips = trips.slice(0, 4);
 
   return (
     <footer className="site-footer">
@@ -50,7 +50,6 @@ export default function Footer() {
 
         <section>
           <h2>Popular Trips</h2>
-          {/* COMMENTED OUT FOR FUTURE USE - Uncomment when adding custom itineraries
           <ul className="footer-list">
             {popularTrips.map((trip) => (
               <li key={trip.id}>
@@ -58,8 +57,6 @@ export default function Footer() {
               </li>
             ))}
           </ul>
-          */}
-          <p style={{ fontStyle: 'italic', color: '#64748b' }}>We are working on it, let's travel soon !!</p>
         </section>
 
         <section>

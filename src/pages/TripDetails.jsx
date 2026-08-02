@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import {
   FaBed,
+  FaCalendarAlt,
   FaChevronDown,
   FaCloudSun,
   FaMapMarkerAlt,
@@ -27,9 +28,7 @@ export default function TripDetails() {
     if (hash) {
       const target = document.querySelector(hash);
       if (target) {
-        setTimeout(() => {
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 300);
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }
   }, [hash]);
@@ -70,9 +69,9 @@ export default function TripDetails() {
             <a className="btn btn--primary" href="#callback">
               Book Now
             </a>
-            <button className="btn btn--light" type="button" onClick={() => document.getElementById('itinerary')?.scrollIntoView({ behavior: 'smooth', block: 'start' })}>
+            <a className="btn btn--light" href="#itinerary">
               View Itinerary
-            </button>
+            </a>
           </div>
         </div>
       </section>

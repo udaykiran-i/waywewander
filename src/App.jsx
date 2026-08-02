@@ -19,7 +19,7 @@ function ScrollManager() {
       if (target) {
         window.setTimeout(() => {
           target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }, 80);
+        }, 300);
       }
       return;
     }

@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaMapMarkerAlt, FaStar } from 'react-icons/fa';
+import { FaMapMarkerAlt, FaStar, FaClock } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 export default function TripCard({ trip }) {
@@ -15,8 +15,13 @@ export default function TripCard({ trip }) {
           <span>
             <FaMapMarkerAlt /> {trip.location}
           </span>
+        </div>
+        <div className="trip-card__meta">
           <span>
             <FaStar /> {trip.rating}
+          </span>
+          <span>
+            <FaClock /> {trip.duration}
           </span>
         </div>
         <h2>{trip.title}</h2>
@@ -30,7 +35,7 @@ export default function TripCard({ trip }) {
 
         <div className="trip-card__footer">
           <div>
-            <Link className="btn btn--ghost" to={`/trip/${trip.slug}`}>
+            <Link className="btn btn--ghost" to={`/trip/${trip.slug}#itinerary`}>
               View Itinerary
             </Link>
             <Link className="btn btn--primary" to={`/contact#callback`}>

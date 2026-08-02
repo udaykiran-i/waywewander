@@ -267,5 +267,139 @@
         "answer": "Fort Kochi sightseeing is optional on the final day and depends on your departure timing."
       }
     ]
+  },
+  {
+    "id": "trip-gokarna-dandeli-adventure",
+    "slug": "gokarna-dandeli-adventure",
+    "title": "Gokarna & Dandeli Adventure Escape",
+    "location": "Dandeli • Gokarna • Murudeshwar • Honnavar, Karnataka",
+    "categories": ["Domestic", "Adventure", "Weekend"],
+    "price": 10999,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": ["10 Oct 2026", "24 Oct 2026"],
+    "seatsLeft": 14,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "An action-packed weekend combining thrilling river adventures, scenic beach hikes, waterfalls, temple visits, and serene mangrove boating along Karnataka's stunning coastline.",
+    "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "gallery": [
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206"
+    ],
+    "highlights": [
+      "White-water rafting and adventure sports in Dandeli",
+      "Seven Beach coastal trek with breathtaking sunset views",
+      "Visit the iconic Murudeshwar Shiva Statue",
+      "Mangrove boating through Honnavar backwaters"
+    ],
+    "overview": "Escape into Karnataka's perfect blend of adventure and coastal beauty. Experience thrilling water sports in Dandeli, hike across hidden beaches in Gokarna, witness spectacular waterfalls, explore the iconic Murudeshwar Temple, and glide through the peaceful mangroves of Honnavar. Designed for adventure seekers and weekend travelers, this journey combines nature, adrenaline, spirituality, and unforgettable coastal experiences.",
+    "pickupLocation": "Hyderabad, Vijayawada, Bengaluru, Pune (Train/Bus) with pickup from Hubballi",
+    "accommodation": "1 night cottage stay in Dandeli and 1 night premium AC villa near Murudeshwar Beach on twin/triple sharing basis.",
+    "transportation": "Train/Bus as per selected package, followed by local transfers in Tempo Traveller, Innova, or similar AC vehicle.",
+    "meals": "1 Breakfast, 1 Lunch, and 1 Dinner during the Dandeli stay (Veg & Non-Veg Buffet).",
+    "difficulty": "Moderate",
+    "altitude": "Sea Level to 600 m",
+    "weather": "Pleasant throughout the year with temperatures ranging between 20°C and 34°C. Best visited from October to March.",
+    "itinerary": [
+      {
+        "day": 0,
+        "title": "Departure from Your City",
+        "morning": "Prepare for the overnight journey with all travel essentials.",
+        "afternoon": "Board your train or bus from your selected departure city.",
+        "evening": "Enjoy an overnight journey towards Hubballi while getting ready for the adventure ahead.",
+        "hotel": "Overnight Journey",
+        "mealsIncluded": "Not Included",
+        "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785"
+      },
+      {
+        "day": 1,
+        "title": "Adventure Begins in Dandeli",
+        "morning": "Arrive at Hubballi, freshen up, enjoy breakfast, and drive towards Dandeli.",
+        "afternoon": "Experience exciting adventure activities including white-water rafting, kayaking, zorbing, swimming, and other optional water sports on the Kali River.",
+        "evening": "Relax at the riverside campsite with music, bonfire, delicious dinner, and an overnight cottage stay.",
+        "hotel": "Riverside Cottage, Dandeli",
+        "mealsIncluded": "Breakfast, Lunch, Dinner",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+      },
+      {
+        "day": 2,
+        "title": "Vibhuti Falls & Seven Beach Trail",
+        "morning": "Visit the scenic Vibhuti Falls and enjoy a short nature walk surrounded by lush greenery.",
+        "afternoon": "Embark on the famous Seven Beach Trek covering secluded beaches, dramatic cliffs, and scenic coastal trails with optional café hopping.",
+        "evening": "Watch a spectacular sunset at Om Beach before checking into your beachside villa near Murudeshwar for the night.",
+        "hotel": "AC Villa, Murudeshwar",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+      },
+      {
+        "day": 3,
+        "title": "Murudeshwar & Honnavar Exploration",
+        "morning": "Visit the magnificent Murudeshwar Temple and admire one of the world's tallest Shiva statues.",
+        "afternoon": "Relax at Eco Beach before enjoying a peaceful mangrove boating experience through the Honnavar backwaters.",
+        "evening": "Drive back to Hubballi and board your return train or bus with unforgettable memories.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206"
+      }
+    ],
+    "inclusions": [
+      "Train/Bus travel as per selected package",
+      "Local transportation in Tempo Traveller/Innova or similar vehicle",
+      "1 night cottage stay in Dandeli",
+      "1 night AC villa stay in Murudeshwar",
+      "Breakfast, Lunch, and Dinner at Dandeli",
+      "White-water rafting",
+      "Kayaking",
+      "Zorbing",
+      "Swimming",
+      "Boating",
+      "Mangrove boat ride at Honnavar",
+      "Driver allowance, tolls, fuel, state taxes, and parking charges"
+    ],
+    "exclusions": [
+      "Meals not specifically mentioned",
+      "Personal expenses and shopping",
+      "Soft drinks and alcoholic beverages",
+      "Adventure activities not mentioned in the inclusions",
+      "Travel insurance and medical expenses",
+      "Expenses arising due to weather conditions, roadblocks, natural calamities, or public protests",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government ID (Aadhaar/Driving License)",
+      "Comfortable trekking shoes",
+      "Quick-dry clothes",
+      "Extra T-shirts and shorts",
+      "Light hoodie or jacket",
+      "Flip-flops or sandals",
+      "Cap and sunglasses",
+      "Reusable water bottle",
+      "Small backpack",
+      "Power bank",
+      "Personal medicines",
+      "Basic first-aid kit",
+      "Sunscreen",
+      "Cash for personal expenses",
+      "Energy bars or light snacks"
+    ],
+    "faq": [
+      {
+        "question": "Is river rafting included in the package?",
+        "answer": "Yes. White-water rafting is included along with selected adventure activities mentioned in the itinerary."
+      },
+      {
+        "question": "Do I need prior trekking experience?",
+        "answer": "No. The Seven Beach Trek is suitable for beginners with a reasonable level of fitness."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "The trip includes one riverside cottage stay in Dandeli and one premium AC villa stay near Murudeshwar Beach."
+      },
+      {
+        "question": "Is this trip suitable for solo travelers?",
+        "answer": "Absolutely. Many solo travelers join this trip, making it a great opportunity to meet fellow adventure enthusiasts."
+      }
+    ]
   }
 ]

@@ -48,6 +48,14 @@ The following trip sections are currently active and displaying content:
 ### 3. `src/components/layout/Footer.jsx`
 - Popular Trips section is active, showing first 4 trips from `src/data/trips.json`
 
+## Current Trips
+
+The following trips are currently active in `src/data/trips.json`:
+
+1. **Kerala Highlands & Backwaters Escape** (`kerala-highlands-backwaters`) — 5 Days / 4 Nights
+2. **Kerala Weekend Escape** (`kerala-weekend-escape`) — 4 Days / 3 Nights
+3. **Gokarna & Dandeli Adventure Escape** (`gokarna-dandeli-adventure`) — 3 Days / 2 Nights
+
 ## Adding Trips
 
 Add new trips in `src/data/trips.json`. The file is a JSON array, so each trip is one object inside the outer `[]`.

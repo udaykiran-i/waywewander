@@ -910,5 +910,262 @@
         "answer": "Absolutely. Attractions such as Coonoor, Avalanche Lake, Dolphin's Nose, Berijam Lake, Mannavanur, or the Nilgiri Mountain Railway can be added based on your preferences and available travel time."
       }
     ]
+  },
+  {
+    "id": "trip-coimbatore-kodaikanal",
+    "slug": "coimbatore-kodaikanal",
+    "title": "Coimbatore & Kodaikanal Retreat",
+    "location": "Coimbatore • Kodaikanal, Tamil Nadu",
+    "categories": ["Domestic", "Family", "Weekend", "Honeymoon"],
+    "price": 10999,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 14,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "Experience the perfect blend of spirituality, waterfalls, pine forests, scenic viewpoints, and tranquil lakes on this memorable Coimbatore and Kodaikanal getaway.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Visit the majestic Adiyogi Shiva Statue",
+      "Boating and cycling around Kodai Lake",
+      "Explore Pillar Rocks, Guna Caves & Pine Forest",
+      "Enjoy panoramic valley views from Coaker's Walk and Moir Point"
+    ],
+    "overview": "Discover the spiritual charm of Coimbatore and the breathtaking beauty of Kodaikanal on this relaxing four-day holiday. Begin your journey with iconic attractions like the Adiyogi Shiva Statue and Marudhamalai Temple before heading into the mist-covered Palani Hills. Explore waterfalls, lush pine forests, dramatic viewpoints, serene lakes, colonial-era walking trails, and colorful botanical gardens. Carefully curated for families, honeymoon couples, and weekend travelers, this itinerary combines relaxation, sightseeing, and unforgettable natural beauty.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Junction Railway Station",
+    "accommodation": "3 Nights stay in a premium 3-Star or 4-Star hotel/resort in Kodaikanal on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller for all airport transfers and sightseeing.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,133 m above sea level",
+    "weather": "Pleasant throughout the year with temperatures ranging from 10°C to 24°C. Evenings remain cool and comfortable.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Coimbatore & Journey to Kodaikanal",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and meet your tour representative. Visit the iconic 112-ft Adiyogi Shiva Statue at the Isha Yoga Center and, if time permits, the famous Marudhamalai Murugan Temple.",
+        "afternoon": "Begin the scenic drive towards Kodaikanal through winding ghat roads, lush valleys, and picturesque landscapes. Stop at Silver Cascade Falls for photographs before reaching the hill station.",
+        "evening": "Check into your hotel and spend the evening relaxing or exploring the lively local market famous for homemade chocolates, eucalyptus oil, spices, and handicrafts.",
+        "hotel": "Premium Hotel / Resort, Kodaikanal",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+      },
+      {
+        "day": 2,
+        "title": "Explore the Best of Kodaikanal",
+        "morning": "After breakfast, enjoy a peaceful walk along Coaker's Walk followed by visits to Green Valley View and the beautiful Bryant Park.",
+        "afternoon": "Continue to Pillar Rocks, Guna Caves (Devil's Kitchen), Pine Forest, and Moir Point while enjoying breathtaking mountain scenery throughout the journey.",
+        "evening": "Spend your evening boating or cycling around the picturesque Kodai Lake before returning to the hotel.",
+        "hotel": "Premium Hotel / Resort, Kodaikanal",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      },
+      {
+        "day": 3,
+        "title": "Nature, Heritage & Leisure",
+        "morning": "Visit Shenbaganur Museum to explore the region's fascinating flora, fauna, and tribal heritage. Continue to Kurinji Andavar Temple for panoramic valley views.",
+        "afternoon": "Explore Upper Lake View, Silent Valley View, and Chettiar Park before enjoying free time for shopping or visiting charming cafés around Kodai Lake.",
+        "evening": "Relax amidst the cool mountain weather or enjoy an optional campfire experience arranged by the resort (subject to availability).",
+        "hotel": "Premium Hotel / Resort, Kodaikanal",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 4,
+        "title": "Return to Coimbatore",
+        "morning": "Enjoy breakfast before checking out of the hotel. Begin your drive back through the scenic Palani Hills towards Coimbatore.",
+        "afternoon": "Depending on your departure schedule, stop for shopping or refreshments before reaching the city.",
+        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of Tamil Nadu's beautiful hill country.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport/Railway Station",
+      "Private AC vehicle for all transfers and sightseeing",
+      "3 Nights accommodation in premium hotel/resort",
+      "Daily breakfast",
+      "3 Dinners",
+      "Experienced professional driver",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "Driver allowance",
+      "Sightseeing as per itinerary",
+      "24×7 trip assistance"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Lunch throughout the trip",
+      "Boating and cycling charges at Kodai Lake",
+      "Entry tickets to monuments and attractions",
+      "Adventure activities",
+      "Horse riding charges",
+      "Travel insurance",
+      "Camera fees",
+      "Personal expenses including shopping and laundry",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Warm jacket or fleece",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Reusable water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for local shopping"
+    ],
+    "faq": [
+      {
+        "question": "Can the Adiyogi Statue be covered on the first day?",
+        "answer": "Yes. Since it is located near Coimbatore Airport, it is conveniently included before proceeding to Kodaikanal."
+      },
+      {
+        "question": "Is boating at Kodai Lake included in the package?",
+        "answer": "No. Boating and cycling are optional activities and can be booked directly at Kodai Lake."
+      },
+      {
+        "question": "Is this package suitable for honeymoon couples?",
+        "answer": "Absolutely. Kodaikanal's pleasant climate, scenic viewpoints, peaceful lake, and romantic landscapes make it one of South India's most popular honeymoon destinations."
+      },
+      {
+        "question": "What is the ideal season for this trip?",
+        "answer": "The itinerary can be enjoyed throughout the year, with October to June offering the most comfortable weather for sightseeing."
+      }
+    ]
+  },
+  {
+    "id": "trip-coimbatore-ooty",
+    "slug": "coimbatore-ooty",
+    "title": "Coimbatore & Ooty Delight",
+    "location": "Coimbatore • Ooty, Tamil Nadu",
+    "categories": ["Domestic", "Family", "Weekend", "Honeymoon"],
+    "price": 8999,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 16,
+    "rating": 4.8,
+    "reviewsCount": 0,
+    "shortDescription": "Experience the perfect blend of spirituality, nature, and colonial charm as you explore Coimbatore and the breathtaking Nilgiri Hills of Ooty.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Visit the iconic Adiyogi Shiva Statue",
+      "Enjoy boating at Ooty Lake",
+      "Explore Doddabetta Peak & Tea Factory",
+      "Witness the beauty of Botanical & Rose Gardens"
+    ],
+    "overview": "Discover two of Tamil Nadu's most loved destinations on this refreshing three-day getaway. Begin your journey in Coimbatore with visits to its famous spiritual landmarks before heading into the misty Nilgiri Hills. Explore Ooty's lush botanical gardens, panoramic viewpoints, serene lakes, tea plantations, and vibrant local markets. This itinerary perfectly balances sightseeing, relaxation, and scenic beauty, making it ideal for families, honeymooners, and weekend travellers.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Junction Railway Station",
+    "accommodation": "2 Nights stay in a premium 3-Star or 4-Star hotel in Ooty on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller for all transfers and sightseeing.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,240 m above sea level (Ooty)",
+    "weather": "Coimbatore remains warm (22°C–34°C), while Ooty enjoys cool weather (10°C–22°C) throughout the year.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Coimbatore & Journey to Ooty",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and meet your tour representative. Visit the magnificent 112-ft Adiyogi Shiva Statue at the Isha Yoga Center and, if time permits, seek blessings at Marudhamalai Murugan Temple.",
+        "afternoon": "Drive through scenic forest roads and tea plantations towards Ooty. Enjoy beautiful viewpoints along the Nilgiri Ghat roads before checking into your hotel.",
+        "evening": "Spend your evening boating at Ooty Lake or exploring Charing Cross Market, famous for homemade chocolates, Nilgiri tea, spices, and handicrafts.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+      },
+      {
+        "day": 2,
+        "title": "Explore the Queen of Hill Stations",
+        "morning": "After breakfast, visit Doddabetta Peak for panoramic views of the Nilgiri Hills. Continue to the Tea Factory & Museum to experience tea processing and enjoy fresh tea tasting.",
+        "afternoon": "Explore the Government Botanical Garden, Government Rose Garden, Wax World Museum, and Thread Garden. Later visit the scenic Pine Forest and Shooting Point for photography.",
+        "evening": "Relax at your hotel or explore Ooty's lively cafés before enjoying dinner.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 3,
+        "title": "Pykara Excursion & Departure",
+        "morning": "After breakfast, visit the beautiful Pykara Lake and Pykara Waterfalls. Enjoy optional boating amidst the tranquil surroundings.",
+        "afternoon": "Begin your return journey to Coimbatore. Depending on your departure schedule, enjoy shopping for Nilgiri tea, homemade chocolates, and local souvenirs.",
+        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport/Railway Station",
+      "Private AC vehicle for all transfers and sightseeing",
+      "2 Nights accommodation in premium hotel",
+      "Daily breakfast",
+      "2 Dinners",
+      "Experienced driver",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "Sightseeing as per itinerary",
+      "Trip assistance throughout the journey"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Lunch throughout the trip",
+      "Boating charges at Ooty Lake and Pykara Lake",
+      "Entry tickets to attractions",
+      "Nilgiri Toy Train tickets",
+      "Adventure activities",
+      "Camera fees",
+      "Travel insurance",
+      "Personal expenses",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Warm jacket or hoodie",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Reusable water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for shopping and local expenses"
+    ],
+    "faq": [
+      {
+        "question": "Can we visit the Adiyogi Statue before heading to Ooty?",
+        "answer": "Yes. Since the statue is located near Coimbatore, it is conveniently covered before the drive to Ooty."
+      },
+      {
+        "question": "Is the Nilgiri Toy Train included in this package?",
+        "answer": "No. The Toy Train ride is optional and depends on ticket availability. It can be added upon request."
+      },
+      {
+        "question": "Is this itinerary suitable for honeymoon couples and families?",
+        "answer": "Absolutely. The itinerary combines spiritual attractions, scenic hill stations, and leisure activities suitable for all age groups."
+      },
+      {
+        "question": "What is the best season for this trip?",
+        "answer": "The itinerary is enjoyable throughout the year, with October to June offering the most pleasant weather for sightseeing."
+      }
+    ]
   }
 ]

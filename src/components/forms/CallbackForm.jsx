@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { FaCheckCircle, FaPaperPlane } from 'react-icons/fa';
+import { encodeFormData } from '../../utils/formatters.js';
 
 const initialForm = {
   fullName: '',
@@ -56,6 +57,7 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
     setError('');
 
     const payload = {
+      'form-name': 'callback',
       fullName: form.fullName,
       travelStartDate: form.travelStartDate,
       travelEndDate: form.travelEndDate,
@@ -69,28 +71,29 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
     };
 
     try {
-      const response = await fetch('/.netlify/functions/send-callback-email', {
+      const response = await fetch('/', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: encodeFormData(payload),
       });
 
-      const result = await response.json();
-
-      if (!response.ok || !result.success) {
-        throw new Error(result.error || 'Form submission failed');
+      if (!response.ok) {
+        throw new Error('Form submission failed');
       }
 
       setStatus('success');
       setForm(initialForm);
-    } catch (err) {
+    } catch {
       setStatus('error');
-      setError(err.message || 'We could not submit this right now. Please try again or contact us on WhatsApp.');
+      setError('We could not submit this right now. Please try again or contact us on WhatsApp.');
     }
   };
 
   return (
-    <form className="callback-form" name="callback" method="POST" onSubmit={submitForm} noValidate>
+    <form className="callback-form" name="callback" data-netlify="true" method="POST" onSubmit={submitForm} noValidate>
+      <input type="hidden" name="form-name" value="callback" />
+      <input type="hidden" name="trip" value={trip} />
+      <input type="hidden" name="sourcePage" value={sourcePage} />
       <div className="form-grid">
         <label>
           <span>Full Name</span>
@@ -134,6 +137,7 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
             autoComplete="tel"
           />
         </label>
+      </div>
       </div>
 
       <label className="checkbox-field">

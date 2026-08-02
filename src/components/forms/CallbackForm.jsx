@@ -23,17 +23,28 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
     [form.mobile, form.whatsapp, form.whatsappSame],
   );
 
+  const today = new Date().toISOString().split('T')[0];
+
   const updateField = (event) => {
     const { name, type, checked, value } = event.target;
-    setForm((current) => ({
-      ...current,
-      [name]: type === 'checkbox' ? checked : value,
-    }));
+    setForm((current) => {
+      const next = { ...current, [name]: type === 'checkbox' ? checked : value };
+      if (name === 'travelStartDate' && value && (!next.travelEndDate || next.travelEndDate < value)) {
+        next.travelEndDate = value;
+      }
+      return next;
+    });
   };
+
+  const today = new Date().toISOString().split('T')[0];
 
   const validate = () => {
     if (!form.fullName.trim()) return 'Please enter your full name.';
     if (!form.travelStartDate && !form.travelEndDate) return 'Please add your preferred travel dates.';
+    if (form.travelStartDate && form.travelStartDate < today) return 'Travel start date must be a future date.';
+    if (form.travelStartDate && form.travelEndDate && form.travelEndDate < form.travelStartDate) {
+      return 'End date must be on or after the start date.';
+    }
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email)) return 'Please enter a valid email.';
     if (!/^[0-9+\-\s()]{7,18}$/.test(form.mobile)) return 'Please enter a valid mobile number.';
     if (!form.whatsappSame && !/^[0-9+\-\s()]{7,18}$/.test(form.whatsapp)) {
@@ -56,11 +67,16 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
     setStatus('submitting');
     setError('');
 
+    const travelDatesText = form.travelEndDate
+      ? `${form.travelStartDate} to ${form.travelEndDate}`
+      : form.travelStartDate;
+
     const payload = {
       'form-name': 'callback',
       fullName: form.fullName,
       travelStartDate: form.travelStartDate,
       travelEndDate: form.travelEndDate,
+      travelDatesText,
       email: form.email,
       mobile: form.mobile,
       whatsappSame: form.whatsappSame ? 'yes' : 'no',
@@ -107,6 +123,7 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
               name="travelStartDate"
               value={form.travelStartDate}
               onChange={updateField}
+              min={today}
             />
             <span className="date-range-separator">to</span>
             <input
@@ -114,6 +131,7 @@ export default function CallbackForm({ trip = 'General enquiry', sourcePage = 'W
               name="travelEndDate"
               value={form.travelEndDate}
               onChange={updateField}
+              min={form.travelStartDate || today}
             />
           </div>
         </label>

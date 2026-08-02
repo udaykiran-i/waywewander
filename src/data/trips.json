@@ -1167,5 +1167,251 @@
         "answer": "The itinerary is enjoyable throughout the year, with October to June offering the most pleasant weather for sightseeing."
       }
     ]
+  },
+  {
+    "id": "trip-kodaikanal-weekend",
+    "slug": "kodaikanal-weekend",
+    "title": "Kodaikanal Weekend Escape",
+    "location": "Kodaikanal, Tamil Nadu",
+    "categories": ["Domestic", "Weekend", "Family", "Honeymoon"],
+    "price": 7499,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 16,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "Escape to the Princess of Hill Stations with misty valleys, scenic viewpoints, pine forests, waterfalls, peaceful lakes, and breathtaking mountain landscapes.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda",
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+    ],
+    "highlights": [
+      "Boating on the iconic Kodai Lake",
+      "Visit Pillar Rocks, Guna Caves & Pine Forest",
+      "Walk along the scenic Coaker's Walk",
+      "Explore waterfalls, gardens & breathtaking viewpoints"
+    ],
+    "overview": "Discover the tranquil beauty of Kodaikanal, one of South India's most loved hill stations. Wander through fragrant pine forests, admire towering cliffs at Pillar Rocks, enjoy peaceful boating on Kodai Lake, witness spectacular sunsets from Coaker's Walk, and explore charming gardens and waterfalls surrounded by lush greenery. This relaxing weekend itinerary is perfect for couples, families, solo travellers, and anyone seeking a refreshing escape into nature.",
+    "pickupLocation": "Madurai Airport / Kodai Road Railway Station",
+    "accommodation": "2 Nights stay in a premium 3-Star or 4-Star hotel on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller depending on group size for all transfers and sightseeing.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,133 m above sea level",
+    "weather": "Pleasant throughout the year with temperatures ranging between 10°C and 22°C. Evenings can be chilly, especially during winter.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Discover Kodaikanal",
+        "morning": "Arrive at Madurai Airport or Kodai Road Railway Station and enjoy a scenic drive through winding mountain roads to Kodaikanal. Check into your hotel and relax.",
+        "afternoon": "Visit the beautiful Silver Cascade Falls before exploring Bryant Park, renowned for its vibrant flowers and landscaped gardens.",
+        "evening": "Enjoy boating or cycling around the picturesque Kodai Lake followed by leisure time shopping at Anna Salai Market for homemade chocolates, eucalyptus oil and handicrafts.",
+        "hotel": "Premium Hotel / Resort, Kodaikanal",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      },
+      {
+        "day": 2,
+        "title": "Sightseeing & Nature Exploration",
+        "morning": "After breakfast, begin the day with a peaceful walk along Coaker's Walk offering panoramic valley views. Continue to Green Valley View for breathtaking scenery.",
+        "afternoon": "Visit the famous Pillar Rocks, Pine Forest and the iconic Guna Caves (Devil's Kitchen). Later explore Shenbaganur Museum to learn about the region's flora, fauna and tribal heritage.",
+        "evening": "Spend your evening relaxing at the hotel or enjoy a quiet café overlooking the hills before dinner.",
+        "hotel": "Premium Hotel / Resort, Kodaikanal",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 3,
+        "title": "Moir Point & Departure",
+        "morning": "After breakfast, visit Moir Point for stunning valley views followed by Upper Lake View and Silent Valley View for memorable photographs.",
+        "afternoon": "Depending on your departure schedule, enjoy a final stop at Kurinji Andavar Temple or Chettiar Park before beginning your return journey.",
+        "evening": "Drop at Madurai Airport or Kodai Road Railway Station with unforgettable memories of Kodaikanal.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Madurai Airport or Kodai Road Railway Station",
+      "Private AC vehicle for all transfers and sightseeing",
+      "2 Nights accommodation in premium hotel",
+      "Daily breakfast",
+      "2 Dinners",
+      "Experienced driver",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "Sightseeing as per itinerary",
+      "Trip assistance throughout the tour"
+    ],
+    "exclusions": [
+      "Flights or train tickets",
+      "Lunch throughout the trip",
+      "Boating charges at Kodai Lake",
+      "Entry tickets to attractions",
+      "Camera fees",
+      "Horse riding charges",
+      "Adventure activities",
+      "Personal shopping expenses",
+      "Travel insurance",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Warm jacket or sweater",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Cap",
+      "Sunglasses",
+      "Sunscreen",
+      "Reusable water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for shopping and local expenses"
+    ],
+    "faq": [
+      {
+        "question": "What is the best time to visit Kodaikanal?",
+        "answer": "October to June offers pleasant weather for sightseeing, while the monsoon season showcases lush greenery and waterfalls."
+      },
+      {
+        "question": "Is boating at Kodai Lake included?",
+        "answer": "No. Boating is optional and tickets can be purchased directly at the lake."
+      },
+      {
+        "question": "Is this trip suitable for families and honeymoon couples?",
+        "answer": "Yes. The itinerary is relaxed and ideal for families, couples, honeymooners, and solo travellers."
+      },
+      {
+        "question": "Can this itinerary be customized?",
+        "answer": "Yes. Additional attractions such as Berijam Lake, Dolphin's Nose Trek, Vattakanal, or Mannavanur Lake can be included based on your preferences and available time."
+      }
+    ]
+  },
+  {
+    "id": "trip-ooty-coonoor-escape",
+    "slug": "ooty-coonoor-escape",
+    "title": "Ooty & Coonoor Escape",
+    "location": "Ooty • Coonoor, Tamil Nadu",
+    "categories": ["Domestic", "Weekend", "Family", "Honeymoon"],
+    "price": 8999,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 14,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "Discover the timeless charm of Ooty and Coonoor with tea gardens, mountain viewpoints, lakes, waterfalls, and the iconic Nilgiri landscapes.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Visit Doddabetta Peak & Tea Factory",
+      "Explore Sim's Park, Dolphin's Nose & Lamb's Rock",
+      "Enjoy boating at Ooty Lake",
+      "Experience the scenic Nilgiri Mountain landscapes"
+    ],
+    "overview": "Escape to the breathtaking Nilgiri Hills with this carefully curated three-day holiday covering the best of Ooty and Coonoor. Wander through lush botanical gardens, witness panoramic views from Doddabetta Peak, stroll amidst sprawling tea plantations, admire dramatic viewpoints like Dolphin's Nose and Lamb's Rock, and unwind with a peaceful boat ride on Ooty Lake. Perfect for couples, families, photographers, and nature lovers seeking a refreshing hill station getaway.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Junction Railway Station",
+    "accommodation": "2 Nights stay in a premium 3-Star or 4-Star hotel in Ooty on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller for all sightseeing and transfers.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,240 m above sea level",
+    "weather": "Cool and pleasant throughout the year with temperatures ranging between 10°C and 22°C. Evenings may require light woollen clothing.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Ooty & Local Sightseeing",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and drive through scenic Nilgiri roads to Ooty. Check into the hotel and relax before beginning your sightseeing.",
+        "afternoon": "Visit the Government Botanical Garden followed by the Government Rose Garden, famous for its extensive collection of exotic flowers and landscaped gardens.",
+        "evening": "Spend the evening boating at Ooty Lake before exploring Charing Cross Market for homemade chocolates, Nilgiri tea, eucalyptus oil, spices, and local handicrafts.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 2,
+        "title": "Ooty Peaks & Coonoor Excursion",
+        "morning": "After breakfast, visit Doddabetta Peak for panoramic views of the Nilgiris. Continue to the Tea Factory & Museum to learn about tea production and enjoy fresh tea tasting.",
+        "afternoon": "Drive to Coonoor and explore Sim's Park, followed by the breathtaking viewpoints at Dolphin's Nose and Lamb's Rock. Enjoy spectacular valley and tea estate views throughout the journey.",
+        "evening": "Return to Ooty and relax at the hotel or enjoy leisure time exploring local cafés and bakeries.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      },
+      {
+        "day": 3,
+        "title": "Pykara & Departure",
+        "morning": "After breakfast, visit Pine Forest, Shooting Point, and the beautiful Pykara Lake and Waterfalls. Enjoy optional boating amidst tranquil surroundings.",
+        "afternoon": "If time permits, stop at Wax World Museum or Thread Garden before beginning your return journey to Coimbatore.",
+        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of the Nilgiri Hills.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport/Railway Station",
+      "Private AC vehicle for all transfers and sightseeing",
+      "2 Nights accommodation in premium hotel",
+      "Daily breakfast",
+      "2 Dinners",
+      "Experienced driver",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "All sightseeing as per itinerary",
+      "Trip coordinator assistance"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Lunch throughout the trip",
+      "Boating charges",
+      "Nilgiri Mountain Railway tickets",
+      "Entry fees to attractions",
+      "Camera charges",
+      "Adventure activities",
+      "Travel insurance",
+      "Personal shopping expenses",
+      "Anything not mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Warm jacket or hoodie",
+      "Comfortable trekking/walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Power bank",
+      "Camera",
+      "Reusable water bottle",
+      "Personal medicines",
+      "Cash for local purchases"
+    ],
+    "faq": [
+      {
+        "question": "Can we travel on the Nilgiri Mountain Railway during this trip?",
+        "answer": "Yes. The Toy Train ride between Ooty and Coonoor can be included based on ticket availability and advance booking."
+      },
+      {
+        "question": "Is Coonoor worth visiting along with Ooty?",
+        "answer": "Absolutely. Coonoor offers quieter surroundings, spectacular viewpoints, tea plantations, and beautiful gardens that perfectly complement Ooty."
+      },
+      {
+        "question": "Are boating charges included?",
+        "answer": "No. Boating at Ooty Lake and Pykara Lake is optional and payable directly at the attraction."
+      },
+      {
+        "question": "What is the best season for this itinerary?",
+        "answer": "October to June is ideal for sightseeing, while the monsoon season offers lush green landscapes and mist-covered hills."
+      }
+    ]
   }
 ]

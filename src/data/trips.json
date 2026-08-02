@@ -1,503 +1,141 @@
 [
   {
-    "id": "trip-ladakh-expedition",
-    "slug": "ladakh-expedition",
-    "title": "Ladakh High Pass Expedition",
-    "location": "Leh, Nubra Valley, Pangong",
-    "categories": ["Adventure", "Domestic", "Luxury"],
-    "price": 48900,
-    "duration": "7 Days / 6 Nights",
-    "travelDates": ["12 Sep 2026", "26 Sep 2026", "10 Oct 2026"],
+    "id": "trip-kerala-highlands-backwaters",
+    "slug": "kerala-highlands-backwaters",
+    "title": "Kerala Highlands & Backwaters Escape",
+    "location": "Kochi • Munnar • Thekkady • Alleppey",
+    "categories": ["Domestic", "Family", "Honeymoon"],
+    "price": 18999,
+    "duration": "5 Days / 4 Nights",
+    "travelDates": ["12 Sep 2026", "26 Sep 2026"],
     "seatsLeft": 8,
     "rating": 4.9,
-    "reviewsCount": 184,
-    "shortDescription": "A refined Himalayan road journey through monasteries, high passes, desert valleys, and blue-water silence.",
-    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=80",
+    "reviewsCount": 0,
+    "shortDescription": "Experience Kerala's finest landscapes with misty mountains, wildlife, spice plantations, and a magical overnight stay on the serene Alleppey backwaters.",
+    "heroImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944",
     "gallery": [
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2",
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
     ],
-    "highlights": ["Khardung La drive", "Pangong lake sunrise", "Nubra desert camp", "Private monastery walk"],
-    "overview": "Designed for travelers who want Ladakh's scale without rough edges, this route pairs iconic passes with measured acclimatization, thoughtful stays, and unhurried local experiences.",
-    "pickupLocation": "Leh Airport",
-    "accommodation": "Premium boutique hotels and heated desert camps",
-    "transportation": "Private SUV with experienced mountain driver",
-    "meals": "Breakfast and dinner on all trip days",
-    "difficulty": "Moderate",
-    "altitude": "Up to 17,982 ft",
-    "weather": "Clear, cold mornings and crisp evenings",
+    "highlights": [
+      "Scenic drive through waterfalls and tea estates",
+      "Wildlife safari and cultural experiences in Thekkady",
+      "Luxury overnight houseboat cruise in Alleppey",
+      "Comfortable hotels with private transfers throughout"
+    ],
+    "overview": "Escape into the heart of God's Own Country on this thoughtfully designed five-day journey through Kerala's most celebrated destinations. Wander through lush tea-covered hills in Munnar, discover fragrant spice plantations and wildlife in Thekkady, and unwind aboard a traditional houseboat gliding through the peaceful backwaters of Alleppey. With comfortable accommodations, curated sightseeing, authentic local experiences, and seamless private transportation, this itinerary is perfect for couples, families, and travelers seeking a relaxing yet immersive holiday.",
+    "pickupLocation": "Kochi International Airport (COK) or Ernakulam Junction Railway Station",
+    "accommodation": "2 nights in a premium 3/4-star hotel in Munnar, 1 night in a premium hotel at Thekkady, and 1 night aboard a deluxe AC houseboat in Alleppey on twin/triple sharing.",
+    "transportation": "Private air-conditioned vehicle with professional driver for all airport transfers, intercity travel, and sightseeing.",
+    "meals": "Breakfast on Days 2-5, plus Lunch, Evening Tea & Snacks, Dinner, and Breakfast during the Alleppey houseboat stay.",
+    "difficulty": "Easy",
+    "altitude": "Approx. 1,600 m (Munnar)",
+    "weather": "Pleasant throughout the year. Munnar remains cool (12°C-24°C), while Thekkady and Alleppey are warm and tropical (22°C-33°C).",
     "itinerary": [
       {
         "day": 1,
-        "title": "Arrive in Leh",
-        "morning": "Airport pickup and assisted check-in at a quiet Leh stay.",
-        "afternoon": "Rest period for acclimatization with hydration support and light snacks.",
-        "evening": "Short orientation walk and welcome dinner.",
-        "hotel": "Leh boutique hotel",
+        "title": "Welcome to Kerala & Journey into the Hills",
+        "morning": "Arrive at Kochi Airport or Railway Station and meet your tour representative before beginning the scenic drive towards Munnar.",
+        "afternoon": "Pause along the route to admire cascading waterfalls, lush spice plantations, and breathtaking mountain viewpoints before continuing uphill.",
+        "evening": "Check into your hotel, relax after the journey, or explore the charming local market at your own pace.",
+        "hotel": "Premium Hotel, Munnar",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1000&q=80"
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2"
       },
       {
         "day": 2,
-        "title": "Leh monasteries and market",
-        "morning": "Visit Thiksey Monastery with a local guide.",
-        "afternoon": "Explore Shey Palace and slow lunch in Leh.",
-        "evening": "Sunset at Shanti Stupa followed by free time.",
-        "hotel": "Leh boutique hotel",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1000&q=80"
+        "title": "Explore the Beauty of Munnar",
+        "morning": "Visit Eravikulam National Park and enjoy spectacular views of rolling tea gardens while spotting the rare Nilgiri Tahr.",
+        "afternoon": "Continue to Mattupetty Dam, Kundala Lake, Tea Museum, and scenic viewpoints such as Echo Point and Top Station.",
+        "evening": "Return to the hotel after an optional boating experience or spend a peaceful evening enjoying the cool mountain weather.",
+        "hotel": "Premium Hotel, Munnar",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944"
       },
       {
         "day": 3,
-        "title": "Khardung La to Nubra",
-        "morning": "Drive across Khardung La with tea stops and photo breaks.",
-        "afternoon": "Arrive in Nubra Valley and settle into camp.",
-        "evening": "Dune walk near Hunder and relaxed camp dinner.",
-        "hotel": "Nubra premium camp",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1000&q=80"
+        "title": "From Tea Hills to Spice Country",
+        "morning": "After breakfast, drive through picturesque valleys and plantations towards Thekkady.",
+        "afternoon": "Visit Periyar Wildlife Sanctuary, explore aromatic spice gardens, and browse local shops for authentic Kerala spices.",
+        "evening": "Enjoy a vibrant Kathakali dance performance or witness the traditional martial art of Kalaripayattu before returning to the hotel.",
+        "hotel": "Premium Hotel, Thekkady",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
       },
       {
         "day": 4,
-        "title": "Nubra to Pangong",
-        "morning": "Scenic valley drive along the Shyok route.",
-        "afternoon": "Reach Pangong and check into lakeside accommodation.",
-        "evening": "Golden-hour lake walk with hot beverages.",
-        "hotel": "Pangong lakeside cottage",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1000&q=80"
-      }
-    ],
-    "inclusions": ["Airport transfers", "Private SUV", "Stays", "Specified meals", "Inner line permit assistance", "Trip captain"],
-    "exclusions": ["Flights", "Lunches", "Personal expenses", "Travel insurance", "Medical oxygen on personal request"],
-    "packingList": ["Thermal layers", "Windproof jacket", "Sunscreen", "Sunglasses", "Personal medicines", "Reusable water bottle"],
-    "faq": [
-      {
-        "question": "Is this trip safe for first-time high-altitude travelers?",
-        "answer": "Yes, the route starts with acclimatization time in Leh and keeps the first two days deliberately light."
+        "title": "Houseboat Bliss in Alleppey",
+        "morning": "Drive to Alleppey and board a beautifully appointed traditional Kerala houseboat.",
+        "afternoon": "Cruise through tranquil canals, coconut groves, village landscapes, and paddy fields while enjoying freshly prepared local cuisine.",
+        "evening": "Watch a mesmerizing sunset over the backwaters before settling in for a peaceful overnight stay aboard the houseboat.",
+        "hotel": "Deluxe AC Houseboat",
+        "mealsIncluded": "Breakfast, Lunch, Evening Tea & Snacks, Dinner",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
       },
       {
-        "question": "Can the stay category be upgraded?",
-        "answer": "Yes, premium and luxury stay upgrades can be quoted depending on dates and availability."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Rhea Kapoor",
-        "location": "Pune",
-        "rating": 5,
-        "text": "Every transfer, pause, and stay felt considered. Ladakh was wild, but the planning was calm."
-      }
-    ]
-  },
-  {
-    "id": "trip-bali-slow-luxury",
-    "slug": "bali-slow-luxury",
-    "title": "Bali Slow Luxury Escape",
-    "location": "Ubud, Sidemen, Uluwatu",
-    "categories": ["International", "Honeymoon", "Luxury"],
-    "price": 72900,
-    "duration": "6 Days / 5 Nights",
-    "travelDates": ["18 Sep 2026", "02 Oct 2026", "16 Oct 2026"],
-    "seatsLeft": 6,
-    "rating": 4.8,
-    "reviewsCount": 126,
-    "shortDescription": "Rice terraces, private pool villas, cliff sunsets, and soft adventure paced for couples.",
-    "heroImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1800&q=80",
-    "gallery": [
-      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "highlights": ["Private villa stay", "Waterfall picnic", "Balinese cooking table", "Uluwatu sunset"],
-    "overview": "A polished island itinerary that gives Bali room to breathe, with intimate stays, cultural hosting, and scenic transfers planned around comfortable travel days.",
-    "pickupLocation": "Denpasar International Airport",
-    "accommodation": "Private pool villa and cliffside resort",
-    "transportation": "Private air-conditioned car",
-    "meals": "Daily breakfast and two curated dinners",
-    "difficulty": "Easy",
-    "altitude": "Sea level to 2,000 ft",
-    "weather": "Warm tropical days with occasional showers",
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Arrive in Ubud",
-        "morning": "Airport meet-and-greet and private transfer.",
-        "afternoon": "Check into a villa near rice fields.",
-        "evening": "Welcome dinner with a Balinese tasting menu.",
-        "hotel": "Ubud pool villa",
-        "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 2,
-        "title": "Ubud culture and terraces",
-        "morning": "Guided temple visit and village craft walk.",
-        "afternoon": "Rice terrace lunch and spa time.",
-        "evening": "Free evening at a recommended restaurant.",
-        "hotel": "Ubud pool villa",
+        "day": 5,
+        "title": "Backwaters Farewell & Departure",
+        "morning": "Enjoy breakfast onboard before checking out of the houseboat.",
+        "afternoon": "Drive back to Kochi with time for optional sightseeing around Fort Kochi depending on your departure schedule.",
+        "evening": "Transfer to Kochi Airport or Railway Station with unforgettable memories of Kerala.",
+        "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 3,
-        "title": "Waterfalls and Sidemen",
-        "morning": "Drive to a quieter waterfall with picnic setup.",
-        "afternoon": "Continue to Sidemen for valley views.",
-        "evening": "Slow dinner overlooking the hills.",
-        "hotel": "Sidemen boutique stay",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?auto=format&fit=crop&w=1000&q=80"
+        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2"
       }
     ],
-    "inclusions": ["Airport transfers", "Private car", "Boutique stays", "Daily breakfast", "Two dinners", "Local host experiences"],
-    "exclusions": ["Flights", "Visa fees", "Lunches unless mentioned", "Personal shopping", "Travel insurance"],
-    "packingList": ["Light cotton clothing", "Swimwear", "Temple-appropriate scarf", "Sunscreen", "Sandals", "Rain jacket"],
+    "inclusions": [
+      "Airport/Railway Station pickup and drop in Kochi",
+      "Private AC vehicle for all transfers and sightseeing",
+      "2 nights accommodation in Munnar",
+      "1 night accommodation in Thekkady",
+      "1 night stay in a deluxe AC houseboat at Alleppey",
+      "Daily breakfast at hotels",
+      "All meals during the houseboat experience",
+      "Experienced English/Hindi speaking driver",
+      "National Park permit (where applicable)",
+      "24/7 travel assistance throughout the trip"
+    ],
+    "exclusions": [
+      "Flights or train tickets to and from Kochi",
+      "Lunch and dinner during hotel stays unless specified",
+      "Personal expenses such as shopping, laundry, beverages, and tips",
+      "Adventure activities, boating charges, and optional experiences",
+      "Entry tickets, camera fees, and sightseeing charges not mentioned",
+      "Travel and medical insurance",
+      "Additional accommodation or transport due to delays, weather, or force majeure",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Comfortable cotton clothing",
+      "Light jacket for cool evenings in Munnar",
+      "Comfortable walking shoes",
+      "Umbrella or lightweight raincoat",
+      "Sunscreen and sunglasses",
+      "Mosquito repellent",
+      "Personal medicines and first-aid essentials",
+      "Government-issued ID proof",
+      "Power bank and mobile charger",
+      "Reusable water bottle",
+      "Cash and digital payment options",
+      "Small backpack for daily sightseeing"
+    ],
     "faq": [
       {
-        "question": "Is this suitable for a honeymoon?",
-        "answer": "Yes. The pacing, private transfers, and stay selection are designed especially well for couples."
+        "question": "What is the ideal season for this Kerala tour?",
+        "answer": "The trip operates throughout the year, but October to March offers the most comfortable weather for sightseeing and outdoor activities."
       },
       {
-        "question": "Can vegetarian food be arranged?",
-        "answer": "Yes, vegetarian and vegan preferences can be shared before confirmation."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Dev and Isha",
-        "location": "Ahmedabad",
-        "rating": 5,
-        "text": "The balance between privacy and discovery was exactly what we wanted for our honeymoon."
-      }
-    ]
-  },
-  {
-    "id": "trip-kerala-family-trail",
-    "slug": "kerala-family-trail",
-    "title": "Kerala Family Nature Trail",
-    "location": "Munnar, Thekkady, Alleppey",
-    "categories": ["Domestic", "Family", "Luxury"],
-    "price": 38500,
-    "duration": "5 Days / 4 Nights",
-    "travelDates": ["05 Sep 2026", "19 Sep 2026", "03 Oct 2026"],
-    "seatsLeft": 10,
-    "rating": 4.9,
-    "reviewsCount": 211,
-    "shortDescription": "A gentle family route through tea gardens, spice estates, wildlife waters, and a private houseboat.",
-    "heroImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1800&q=80",
-    "gallery": [
-      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "highlights": ["Tea estate walk", "Spice garden lunch", "Private houseboat", "Wildlife lake cruise"],
-    "overview": "Built for families who want comfort, variety, and short travel blocks, this Kerala trail mixes soft nature, good food, and calm stays.",
-    "pickupLocation": "Cochin International Airport",
-    "accommodation": "Plantation resort and private houseboat",
-    "transportation": "Private tempo traveller or SUV",
-    "meals": "Breakfast daily, all meals on houseboat",
-    "difficulty": "Easy",
-    "altitude": "Up to 5,200 ft",
-    "weather": "Pleasant hills and humid backwaters",
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Cochin to Munnar",
-        "morning": "Arrival pickup and scenic drive toward the hills.",
-        "afternoon": "Waterfall stop and resort check-in.",
-        "evening": "Tea-view dinner at the property.",
-        "hotel": "Munnar plantation resort",
-        "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1000&q=80"
+        "question": "Is the Alleppey houseboat air-conditioned?",
+        "answer": "Yes. The package includes an overnight stay in a deluxe air-conditioned houseboat with comfortable rooms and freshly prepared meals."
       },
       {
-        "day": 2,
-        "title": "Tea gardens and family time",
-        "morning": "Guided estate walk and tea tasting.",
-        "afternoon": "Easy sightseeing around Munnar.",
-        "evening": "Bonfire or indoor games depending on weather.",
-        "hotel": "Munnar plantation resort",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1000&q=80"
+        "question": "Is this itinerary suitable for families and senior citizens?",
+        "answer": "Yes. The itinerary is relaxed, involves comfortable road travel, and is designed for families, couples, and senior travelers."
       },
       {
-        "day": 3,
-        "title": "Munnar to Thekkady",
-        "morning": "Drive through cardamom hills.",
-        "afternoon": "Spice garden tour with lunch recommendation.",
-        "evening": "Optional cultural performance.",
-        "hotel": "Thekkady nature resort",
-        "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1000&q=80"
-      }
-    ],
-    "inclusions": ["Private transfers", "Family-friendly stays", "Daily breakfast", "Houseboat meals", "Guided estate walk"],
-    "exclusions": ["Flights", "Entry tickets unless mentioned", "Lunches", "Personal expenses", "Insurance"],
-    "packingList": ["Comfortable walking shoes", "Light jacket", "Mosquito repellent", "Sun hat", "Rain cover", "Reusable bottle"],
-    "faq": [
-      {
-        "question": "Is this good for senior travelers?",
-        "answer": "Yes. Travel blocks are manageable and activities can be softened for senior family members."
-      },
-      {
-        "question": "Can we add more nights in the backwaters?",
-        "answer": "Yes. Alleppey or Kumarakom extensions can be added after the planning call."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Nisha Thomas",
-        "location": "Kochi",
-        "rating": 5,
-        "text": "The pacing made it easy for our parents and children. Nothing felt rushed."
-      }
-    ]
-  },
-  {
-    "id": "trip-meghalaya-living-clouds",
-    "slug": "meghalaya-living-clouds",
-    "title": "Meghalaya Living Clouds",
-    "location": "Shillong, Cherrapunji, Dawki",
-    "categories": ["Adventure", "Domestic", "Weekend"],
-    "price": 32900,
-    "duration": "5 Days / 4 Nights",
-    "travelDates": ["11 Sep 2026", "25 Sep 2026", "09 Oct 2026"],
-    "seatsLeft": 12,
-    "rating": 4.8,
-    "reviewsCount": 97,
-    "shortDescription": "Mist trails, living root bridges, clear river boating, and locally hosted hill stays.",
-    "heroImage": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1800&q=80",
-    "gallery": [
-      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "highlights": ["Root bridge trek", "Dawki boat ride", "Waterfall circuit", "Cafe-led Shillong evening"],
-    "overview": "A compact Northeast route for travelers who want greenery, clean air, and active days with comfortable hill stays.",
-    "pickupLocation": "Guwahati Airport",
-    "accommodation": "Boutique hill hotels and village guesthouse",
-    "transportation": "Private SUV",
-    "meals": "Breakfast daily and two local meals",
-    "difficulty": "Moderate",
-    "altitude": "Up to 4,900 ft",
-    "weather": "Cool, misty, and rain-prone",
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Guwahati to Shillong",
-        "morning": "Airport pickup and transfer toward Shillong.",
-        "afternoon": "Umiam Lake stop and hotel check-in.",
-        "evening": "Cafe walk and local dinner recommendation.",
-        "hotel": "Shillong boutique hotel",
-        "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 2,
-        "title": "Cherrapunji waterfalls",
-        "morning": "Drive to Cherrapunji with viewpoint stops.",
-        "afternoon": "Waterfall circuit with local guide.",
-        "evening": "Check into a quiet hill stay.",
-        "hotel": "Cherrapunji hill stay",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 3,
-        "title": "Root bridge trail",
-        "morning": "Guided trek to the living root bridge.",
-        "afternoon": "Village lunch and rest window.",
-        "evening": "Story session with local hosts.",
-        "hotel": "Village guesthouse",
-        "mealsIncluded": "Breakfast, Lunch, Dinner",
-        "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1000&q=80"
-      }
-    ],
-    "inclusions": ["Airport transfers", "Private SUV", "Guided trek", "Stays", "Breakfast", "Two local meals"],
-    "exclusions": ["Flights", "Camera fees", "Personal expenses", "Meals not mentioned", "Travel insurance"],
-    "packingList": ["Rain jacket", "Trek shoes", "Quick-dry clothing", "Small backpack", "Power bank", "Dry bag"],
-    "faq": [
-      {
-        "question": "How difficult is the root bridge trek?",
-        "answer": "It is moderate with steps and humid conditions. We can suggest lighter alternatives if needed."
-      },
-      {
-        "question": "Will rain affect the plan?",
-        "answer": "Rain is part of Meghalaya's character. Activities may be resequenced for comfort and safety."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Pranay S",
-        "location": "Hyderabad",
-        "rating": 5,
-        "text": "The local guides made the trails feel personal, not touristy."
-      }
-    ]
-  },
-  {
-    "id": "trip-rajasthan-regal-loop",
-    "slug": "rajasthan-regal-loop",
-    "title": "Rajasthan Regal Loop",
-    "location": "Jaipur, Jodhpur, Udaipur",
-    "categories": ["Domestic", "Family", "Luxury"],
-    "price": 55900,
-    "duration": "7 Days / 6 Nights",
-    "travelDates": ["07 Nov 2026", "21 Nov 2026", "05 Dec 2026"],
-    "seatsLeft": 9,
-    "rating": 4.9,
-    "reviewsCount": 142,
-    "shortDescription": "Palace hotels, desert colors, old-city walks, lake evenings, and heritage dining.",
-    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1800&q=80",
-    "gallery": [
-      "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "highlights": ["Private fort guide", "Old-city food walk", "Lake Pichola evening", "Heritage haveli stay"],
-    "overview": "A premium cultural loop across Rajasthan's most atmospheric cities, designed with private guiding, rich meals, and time to enjoy each stay.",
-    "pickupLocation": "Jaipur Airport or Railway Station",
-    "accommodation": "Heritage havelis and palace-style hotels",
-    "transportation": "Private air-conditioned SUV",
-    "meals": "Breakfast daily and three signature meals",
-    "difficulty": "Easy",
-    "altitude": "Urban and desert plains",
-    "weather": "Dry days and cool evenings in winter",
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Arrive in Jaipur",
-        "morning": "Pickup and assisted hotel check-in.",
-        "afternoon": "Leisure time at the haveli.",
-        "evening": "Welcome dinner with Rajasthani thali.",
-        "hotel": "Jaipur heritage haveli",
-        "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 2,
-        "title": "Jaipur forts and bazaars",
-        "morning": "Private guided visit to Amber Fort.",
-        "afternoon": "City Palace and artisan market walk.",
-        "evening": "Rooftop dinner reservation support.",
-        "hotel": "Jaipur heritage haveli",
-        "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 3,
-        "title": "Drive to Jodhpur",
-        "morning": "Private transfer with countryside stops.",
-        "afternoon": "Check in near the old city.",
-        "evening": "Blue city walk and dinner.",
-        "hotel": "Jodhpur boutique hotel",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=1000&q=80"
-      }
-    ],
-    "inclusions": ["Private vehicle", "Heritage stays", "Daily breakfast", "Three curated meals", "Local guides", "Airport pickup"],
-    "exclusions": ["Flights", "Monument tickets", "Camera fees", "Lunches", "Personal expenses"],
-    "packingList": ["Comfortable footwear", "Light layers", "Sunscreen", "Sunglasses", "Smart casual evening wear", "Reusable bottle"],
-    "faq": [
-      {
-        "question": "Can this be made more luxurious?",
-        "answer": "Yes. Palace hotels, private dining, and vintage car experiences can be added."
-      },
-      {
-        "question": "Is this route suitable with children?",
-        "answer": "Yes. Transfer lengths and sightseeing can be adjusted for children."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Meera Joshi",
-        "location": "Surat",
-        "rating": 5,
-        "text": "The heritage stays were the soul of the trip. The route felt elegant and relaxed."
-      }
-    ]
-  },
-  {
-    "id": "trip-maldives-blue-reset",
-    "slug": "maldives-blue-reset",
-    "title": "Maldives Blue Reset",
-    "location": "North Male Atoll",
-    "categories": ["International", "Honeymoon", "Luxury"],
-    "price": 118500,
-    "duration": "5 Days / 4 Nights",
-    "travelDates": ["14 Sep 2026", "28 Sep 2026", "12 Oct 2026"],
-    "seatsLeft": 4,
-    "rating": 4.9,
-    "reviewsCount": 88,
-    "shortDescription": "Overwater villas, reef swims, sunset cruising, and a quiet all-blue escape with polished service.",
-    "heroImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1800&q=80",
-    "gallery": [
-      "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "highlights": ["Overwater villa", "House reef snorkeling", "Sunset cruise", "Private beach dinner"],
-    "overview": "A premium island break for travelers who want minimal logistics, high comfort, and enough curated experiences to make the stay memorable.",
-    "pickupLocation": "Male International Airport",
-    "accommodation": "Beach villa and overwater villa split stay",
-    "transportation": "Shared speedboat transfer",
-    "meals": "Breakfast and dinner plan",
-    "difficulty": "Easy",
-    "altitude": "Sea level",
-    "weather": "Warm tropical weather with sea breeze",
-    "itinerary": [
-      {
-        "day": 1,
-        "title": "Arrive in the atoll",
-        "morning": "Airport welcome and speedboat transfer.",
-        "afternoon": "Beach villa check-in and resort orientation.",
-        "evening": "Lagoon-side dinner.",
-        "hotel": "Beach villa",
-        "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 2,
-        "title": "Reef and reset",
-        "morning": "Guided house reef snorkeling.",
-        "afternoon": "Spa or leisure window.",
-        "evening": "Sunset cruise.",
-        "hotel": "Beach villa",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1000&q=80"
-      },
-      {
-        "day": 3,
-        "title": "Overwater stay",
-        "morning": "Leisure breakfast and villa transfer.",
-        "afternoon": "Check into overwater villa.",
-        "evening": "Private beach dinner setup.",
-        "hotel": "Overwater villa",
-        "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=1000&q=80"
-      }
-    ],
-    "inclusions": ["Speedboat transfers", "Villa stay", "Breakfast and dinner", "Snorkeling session", "Sunset cruise", "Beach dinner"],
-    "exclusions": ["Flights", "Green tax changes", "Lunches", "Diving", "Personal expenses", "Insurance"],
-    "packingList": ["Swimwear", "Reef-safe sunscreen", "Light resort wear", "Sunglasses", "Waterproof pouch", "Flip-flops"],
-    "faq": [
-      {
-        "question": "Can flights be added?",
-        "answer": "Flight suggestions can be shared, but the listed package is land-only unless quoted otherwise."
-      },
-      {
-        "question": "Is this suitable for non-swimmers?",
-        "answer": "Yes. Snorkeling is optional and resort experiences can be customized."
-      }
-    ],
-    "reviews": [
-      {
-        "name": "Aditi and Rohan",
-        "location": "Bengaluru",
-        "rating": 5,
-        "text": "It was effortless from arrival to departure. The villa split made the trip feel special."
+        "question": "Are entry tickets to attractions included?",
+        "answer": "Only permits specifically mentioned in the inclusions are covered. Other attraction entry tickets and optional activities are payable directly."
       }
     ]
   }

@@ -1413,5 +1413,239 @@
         "answer": "October to June is ideal for sightseeing, while the monsoon season offers lush green landscapes and mist-covered hills."
       }
     ]
+  },
+  {
+    "id": "trip-ooty-explorer",
+    "slug": "ooty-explorer",
+    "title": "Ooty Explorer",
+    "location": "Ooty (Udhagamandalam), Tamil Nadu",
+    "categories": ["Domestic", "Weekend", "Family", "Honeymoon"],
+    "price": 7999,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": ["Every Thursday", "Every Friday"],
+    "seatsLeft": 15,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "shortDescription": "Experience the charm of Ooty with scenic viewpoints, tea plantations, waterfalls, gardens, lakes, and breathtaking Nilgiri landscapes.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Sunrise from Doddabetta Peak",
+      "Pykara Lake, Waterfalls & Pine Forest",
+      "Tea Factory tour with tasting session",
+      "Botanical Garden, Rose Garden & Ooty Lake"
+    ],
+    "overview": "Discover the enchanting beauty of the Nilgiris on this carefully crafted three-day holiday. Explore Ooty's iconic gardens, panoramic mountain viewpoints, peaceful lakes, lush tea estates, cascading waterfalls, and colonial charm. From scenic drives through eucalyptus forests to relaxing boat rides and authentic tea tasting, this itinerary is perfect for couples, families, solo travellers, and nature lovers looking for an unforgettable hill station escape.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Railway Station",
+    "accommodation": "2 Nights stay in a premium 3-Star or 4-Star hotel on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan, SUV or Tempo Traveller depending on group size.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,240 m above sea level",
+    "weather": "Pleasant throughout the year. Temperatures generally range between 10°C and 22°C. Carry warm clothing during evenings.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Discover Ooty",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and enjoy a picturesque drive through the Nilgiri Hills to Ooty. Check into your hotel and relax.",
+        "afternoon": "Visit the Government Botanical Garden followed by the Government Rose Garden, famous for its beautifully landscaped flower collections.",
+        "evening": "Enjoy boating at the scenic Ooty Lake and explore Charing Cross Market for homemade chocolates, Nilgiri tea, spices, and local handicrafts.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 2,
+        "title": "Nature, Peaks & Waterfalls",
+        "morning": "After breakfast, visit Doddabetta Peak, the highest point in the Nilgiris, offering spectacular panoramic views. Continue to the Tea Factory & Museum to witness tea processing and enjoy a tasting session.",
+        "afternoon": "Drive to the beautiful Pykara Lake and Pykara Waterfalls. Enjoy optional boating before visiting the nearby Pine Forest and the famous Shooting Point featured in many Indian films.",
+        "evening": "Return to Ooty and spend the evening relaxing at your hotel or exploring nearby cafés.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      },
+      {
+        "day": 3,
+        "title": "Tea Estates & Departure",
+        "morning": "After breakfast, visit the scenic Tea Gardens for photography and a peaceful morning walk amidst lush plantations. Continue to Wax World Museum and St. Stephen's Church, one of Ooty's oldest colonial landmarks.",
+        "afternoon": "Depending on departure time, enjoy a short visit to Thread Garden or Children's Park before beginning your return journey to Coimbatore.",
+        "evening": "Drop at Coimbatore Airport or Railway Station with unforgettable memories of the Nilgiris.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport or Railway Station",
+      "Private AC vehicle for all sightseeing and transfers",
+      "2 Nights accommodation in premium hotel",
+      "Daily breakfast",
+      "2 Dinners",
+      "Driver allowance",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "All sightseeing as per itinerary",
+      "Trip assistance throughout the journey"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Lunch on both days",
+      "Boating charges at Ooty Lake",
+      "Entry tickets to monuments and attractions",
+      "Camera fees",
+      "Personal shopping expenses",
+      "Travel insurance",
+      "Adventure activities",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Light woollen jacket",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for local shopping"
+    ],
+    "faq": [
+      {
+        "question": "What is the best time to visit Ooty?",
+        "answer": "October to June offers pleasant weather for sightseeing, while the monsoon season provides lush green landscapes."
+      },
+      {
+        "question": "Is boating at Ooty Lake included?",
+        "answer": "No. Boating is optional and tickets can be purchased directly at the lake."
+      },
+      {
+        "question": "Is this itinerary suitable for families and senior citizens?",
+        "answer": "Yes. The trip involves light walking and comfortable road travel, making it suitable for families, couples, children, and senior travellers."
+      },
+      {
+        "question": "Can this package be customized?",
+        "answer": "Yes. Additional attractions such as Pykara Lake, Avalanche Lake, Mudumalai Wildlife Sanctuary, or the Nilgiri Mountain Railway can be added based on your preferences and available time."
+      }
+    ]
+  },
+  {
+    "id": "trip-ooty-weekend-escape",
+    "slug": "ooty-weekend-escape",
+    "title": "Ooty Weekend Escape",
+    "location": "Ooty (Udhagamandalam), Tamil Nadu",
+    "categories": ["Domestic", "Weekend", "Family", "Honeymoon"],
+    "price": 4999,
+    "duration": "2 Days / 1 Night",
+    "travelDates": ["Every Friday", "Every Saturday"],
+    "seatsLeft": 18,
+    "rating": 4.8,
+    "reviewsCount": 0,
+    "shortDescription": "Escape into the Nilgiris with misty mountains, lush tea estates, serene lakes, and breathtaking viewpoints on this perfect weekend getaway.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda"
+    ],
+    "highlights": [
+      "Visit Doddabetta Peak, the highest point in the Nilgiris",
+      "Boat ride at the picturesque Ooty Lake",
+      "Explore Botanical & Rose Gardens",
+      "Tea Factory visit with homemade chocolate tasting"
+    ],
+    "overview": "Discover the timeless charm of Ooty, the Queen of the Nilgiris, on this carefully curated weekend escape. Wander through beautifully maintained botanical gardens, admire panoramic views from Doddabetta Peak, cruise across the tranquil Ooty Lake, explore tea plantations, and indulge in locally made chocolates. Whether you're planning a romantic getaway, a family vacation, or a relaxing trip with friends, this itinerary perfectly blends nature, heritage, and leisure within two memorable days.",
+    "pickupLocation": "Coimbatore International Airport / Coimbatore Railway Station",
+    "accommodation": "1 Night stay in a premium 3-Star hotel or resort on twin/triple sharing basis.",
+    "transportation": "Private AC Sedan/SUV or Tempo Traveller depending on group size for all sightseeing and transfers.",
+    "meals": "1 Breakfast and 1 Dinner.",
+    "difficulty": "Easy",
+    "altitude": "2,240 m above sea level",
+    "weather": "Cool throughout the year. Temperatures range between 10°C and 22°C. Carry warm clothing during evenings and winter months.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Ooty & Local Sightseeing",
+        "morning": "Arrive at Coimbatore Airport or Railway Station and enjoy a scenic drive through the Nilgiri Hills to Ooty. Check into your hotel and freshen up before beginning your sightseeing.",
+        "afternoon": "Visit the Government Botanical Garden, home to thousands of exotic plants and beautifully landscaped lawns. Continue to the Government Rose Garden, one of India's largest rose collections.",
+        "evening": "Enjoy a peaceful boating experience at Ooty Lake followed by shopping at Charing Cross Market for homemade chocolates, eucalyptus oil, tea, spices, and local handicrafts. Return to the hotel for dinner and overnight stay.",
+        "hotel": "Premium Hotel / Resort, Ooty",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+      },
+      {
+        "day": 2,
+        "title": "Doddabetta Peak & Departure",
+        "morning": "After breakfast, visit Doddabetta Peak, the highest point in the Nilgiris, offering spectacular panoramic views of the surrounding valleys. Continue to the Tea Museum & Factory to learn about tea processing and enjoy complimentary tea tasting.",
+        "afternoon": "Visit the Wax World Museum before stopping at Pine Forest and the scenic Shooting Point (depending on available time). Begin your return journey to Coimbatore.",
+        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of the Nilgiris.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      }
+    ],
+    "inclusions": [
+      "Pickup and drop from Coimbatore Airport or Railway Station",
+      "Private AC vehicle for all sightseeing and transfers",
+      "1 Night accommodation in premium hotel",
+      "Daily breakfast",
+      "Dinner on Day 1",
+      "Driver allowance",
+      "Fuel charges",
+      "Parking charges",
+      "Toll taxes",
+      "All sightseeing as per itinerary",
+      "Trip assistance throughout the journey"
+    ],
+    "exclusions": [
+      "Airfare or train tickets",
+      "Lunch on both days",
+      "Boating charges at Ooty Lake",
+      "Entry tickets to monuments and attractions",
+      "Camera fees",
+      "Personal shopping expenses",
+      "Travel insurance",
+      "Adventure activities",
+      "Anything not specifically mentioned under inclusions"
+    ],
+    "packingList": [
+      "Government-issued ID proof",
+      "Light woollen jacket",
+      "Comfortable walking shoes",
+      "Umbrella or raincoat",
+      "Sunglasses",
+      "Cap",
+      "Sunscreen",
+      "Water bottle",
+      "Power bank",
+      "Camera",
+      "Personal medicines",
+      "Cash for local shopping"
+    ],
+    "faq": [
+      {
+        "question": "What is the best time to visit Ooty?",
+        "answer": "October to June offers pleasant weather for sightseeing, while the monsoon season provides lush green landscapes."
+      },
+      {
+        "question": "Is boating at Ooty Lake included?",
+        "answer": "No. Boating is optional and tickets can be purchased directly at the lake."
+      },
+      {
+        "question": "Is this itinerary suitable for families and senior citizens?",
+        "answer": "Yes. The trip involves light walking and comfortable road travel, making it suitable for families, couples, children, and senior travellers."
+      },
+      {
+        "question": "Can this package be customized?",
+        "answer": "Yes. Additional attractions such as Pykara Lake, Avalanche Lake, Mudumalai Wildlife Sanctuary, or the Nilgiri Mountain Railway can be added based on your preferences and available time."
+      }
+    ]
   }
 ]

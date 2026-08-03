@@ -294,7 +294,7 @@
       "Weekend"
     ],
     "price": 10999,
-    "duration": "3 Days / 2 Nights",
+    "duration": "4 Days / 3 Nights",
     "travelDates": [
       "10 Oct 2026",
       "24 Oct 2026"
@@ -302,12 +302,12 @@
     "seatsLeft": 14,
     "rating": 4.9,
     "reviewsCount": 0,
-    "shortDescription": "An action-packed weekend combining thrilling river adventures, scenic beach hikes, waterfalls, temple visits, and serene mangrove boating along Karnataka's stunning coastline.",
+    "shortDescription": "A relaxed coastal adventure through Karnataka featuring thrilling river rafting in Dandeli, scenic waterfalls, two nights in Gokarna with the famous Seven Beach Trek, the iconic Murudeshwar Temple, and peaceful mangrove boating in Honnavar.",
     "heroImage": "https://images.unsplash.com/photo-1733158701868-8e7376dbf23b",
     "gallery": [
-      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d",
-      "https://images.unsplash.com/photo-3EBYrdu5lWU",
-      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d"
+      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80"
     ],
     "highlights": [
       "White-water rafting and adventure sports in Dandeli",
@@ -315,11 +315,11 @@
       "Visit the iconic Murudeshwar Shiva Statue",
       "Mangrove boating through Honnavar backwaters"
     ],
-    "overview": "Escape into Karnataka's perfect blend of adventure and coastal beauty. Experience thrilling water sports in Dandeli, hike across hidden beaches in Gokarna, witness spectacular waterfalls, explore the iconic Murudeshwar Temple, and glide through the peaceful mangroves of Honnavar. Designed for adventure seekers and weekend travelers, this journey combines nature, adrenaline, spirituality, and unforgettable coastal experiences.",
+    "overview": "Discover the perfect combination of adventure, beaches, spirituality, and nature across Karnataka's spectacular coastline. Begin with adrenaline-filled activities in Dandeli, explore the lush Vibhuti Falls, spend two relaxing nights in Gokarna while enjoying its beaches and the famous Seven Beach Trek, witness the majestic Murudeshwar Shiva Statue, and conclude your journey with a serene mangrove boating experience at Honnavar before returning to Hubballi. This itinerary is designed to minimize travel fatigue while maximizing sightseeing and leisure.",
     "pickupLocation": "Hyderabad, Vijayawada, Bengaluru, Pune (Train/Bus) with pickup from Hubballi",
-    "accommodation": "1 night cottage stay in Dandeli and 1 night premium AC villa near Murudeshwar Beach on twin/triple sharing basis.",
+    "accommodation": "1 night riverside cottage stay in Dandeli and 2 nights premium AC beach resort stay in Gokarna on twin/triple sharing basis.",
     "transportation": "Train/Bus as per selected package, followed by local transfers in Tempo Traveller, Innova, or similar AC vehicle.",
-    "meals": "1 Breakfast, 1 Lunch, and 1 Dinner during the Dandeli stay (Veg & Non-Veg Buffet).",
+    "meals": "3 Breakfasts, 1 Lunch and 1 Dinner (Veg & Non-Veg Buffet).",
     "difficulty": "Moderate",
     "altitude": "Sea Level to 600 m",
     "weather": "Pleasant throughout the year with temperatures ranging between 20°C and 34°C. Best visited from October to March.",
@@ -332,7 +332,7 @@
         "evening": "Enjoy an overnight journey towards Hubballi while getting ready for the adventure ahead.",
         "hotel": "Overnight Journey",
         "mealsIncluded": "Not Included",
-        "image": "https://images.unsplash.com/photo-bw2FjLC6flY"
+        "image": "https://images.unsplash.com/photo-1733158701868-8e7376dbf23b?auto=format&fit=crop&w=1200&q=80"
       },
       {
         "day": 1,
@@ -342,27 +342,37 @@
         "evening": "Relax at the riverside campsite with music, bonfire, delicious dinner, and an overnight cottage stay.",
         "hotel": "Riverside Cottage, Dandeli",
         "mealsIncluded": "Breakfast, Lunch, Dinner",
-        "image": "https://images.unsplash.com/photo-3EBYrdu5lWU"
+        "image": "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80"
       },
       {
         "day": 2,
-        "title": "Vibhuti Falls & Seven Beach Trail",
-        "morning": "Visit the scenic Vibhuti Falls and enjoy a short nature walk surrounded by lush greenery.",
-        "afternoon": "Embark on the famous Seven Beach Trek covering secluded beaches, dramatic cliffs, and scenic coastal trails with optional café hopping.",
-        "evening": "Watch a spectacular sunset at Om Beach before checking into your beachside villa near Murudeshwar for the night.",
-        "hotel": "AC Villa, Murudeshwar",
+        "title": "Vibhuti Falls • Gokarna Beaches",
+        "morning": "After breakfast visit the beautiful Vibhuti Falls surrounded by dense forests before heading towards Gokarna.",
+        "afternoon": "Visit Mahabaleshwar Temple, Kudle Beach and Om Beach. Relax at beach cafés or enjoy optional water activities.",
+        "evening": "Witness a breathtaking sunset at Om Beach before checking into your premium beach resort in Gokarna.",
+        "hotel": "Premium AC Beach Resort, Gokarna",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-CPU8CFjilpM"
+        "image": "https://images.unsplash.com/photo-17315870168-8e7376dbf23b?auto=format&fit=crop&w=1200&q=80"
       },
       {
         "day": 3,
-        "title": "Murudeshwar & Honnavar Exploration",
-        "morning": "Visit the magnificent Murudeshwar Temple and admire one of the world's tallest Shiva statues.",
-        "afternoon": "Relax at Eco Beach before enjoying a peaceful mangrove boating experience through the Honnavar backwaters.",
+        "title": "Seven Beach Trek • Leisure Evening",
+        "morning": "Start early for the famous Seven Beach Trek covering Paradise Beach, Half Moon Beach, Om Beach, Kudle Beach and scenic cliff viewpoints.",
+        "afternoon": "Enjoy leisure time at your favorite beach, optional kayaking, café hopping, shopping and photography.",
+        "evening": "Spend another beautiful sunset at Gokarna before returning to the same beach resort for an overnight stay.",
+        "hotel": "Premium AC Beach Resort, Gokarna",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.unsplash.com/photo-1723379981423-136cc67ffdda?auto=format&fit=crop&w=1200&q=80"
+      },
+      {
+        "day": 4,
+        "title": "Murudeshwar • Honnavar • Return",
+        "morning": "After breakfast drive to Murudeshwar and visit the magnificent Shiva Statue and Murudeshwar Temple.",
+        "afternoon": "Proceed towards Honnavar for a peaceful mangrove boating experience through the Sharavathi backwaters followed by a visit to Eco Beach.",
         "evening": "Drive back to Hubballi and board your return train or bus with unforgettable memories.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-_HbgX3f67kQ"
+        "image": "https://images.unsplash.com/photo-1723379981423-136cc67ffdda?auto=format&fit=crop&w=1200&q=80"
       }
     ],
     "inclusions": [

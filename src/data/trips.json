@@ -1,13 +1,14 @@
 [
   {
     "id": "trip-kerala-highlands-backwaters",
-    "slug": "kerala-highlands-backwaters",
-    "title": "Kerala Highlands & Backwaters Escape",
+    "slug": "best-kerala-highlands-backwaters-tour-package",
+    "title": "Ultimate Kerala Highlands & Backwaters Tour Package",
     "location": "Kochi • Munnar • Thekkady • Alleppey",
     "categories": [
       "Domestic",
       "Family",
-      "Honeymoon"
+      "Honeymoon",
+      "Nature"
     ],
     "price": 18999,
     "duration": "5 Days / 4 Nights",
@@ -17,132 +18,111 @@
     ],
     "seatsLeft": 8,
     "rating": 4.9,
-    "reviewsCount": 0,
-    "shortDescription": "Experience Kerala's finest landscapes with misty mountains, wildlife, spice plantations, and a magical overnight stay on the serene Alleppey backwaters.",
-    "heroImage": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1200&q=80",
+    "reviewsCount": 142,
+    "shortDescription": "Discover the magic of God's Own Country in 2026. Explore Munnar's mist-covered tea estates, spot wildlife in Thekkady, and cruise the Alleppey backwaters on a luxury houseboat.",
+    "heroImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1772729315540-415f2db20d98?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1777532996402-9f6104b73d7e?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kochi_chinese_fishing-net-20080215-01a.jpg/1920px-Kochi_chinese_fishing-net-20080215-01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Munnar-Pothupara_Waterfalls-WUS07067.jpg/1920px-Munnar-Pothupara_Waterfalls-WUS07067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Park_Periyar_-_Kerala_02.jpg/1920px-National_Park_Periyar_-_Kerala_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     ],
     "highlights": [
-      "Scenic drive through waterfalls and tea estates",
-      "Wildlife safari and cultural experiences in Thekkady",
+      "Scenic drive through Cheeyappara waterfalls and tea estates",
+      "Hidden Gem: Parunthumpara (Eagle's Rock) panoramic viewpoint",
+      "Wildlife safari and spice plantation tour in Thekkady",
       "Luxury overnight houseboat cruise in Alleppey",
-      "Comfortable hotels with private transfers throughout"
+      "Comfortable premium hotels with private transfers"
     ],
-    "overview": "Escape into the heart of God's Own Country on this thoughtfully designed five-day journey through Kerala's most celebrated destinations. Wander through lush tea-covered hills in Munnar, discover fragrant spice plantations and wildlife in Thekkady, and unwind aboard a traditional houseboat gliding through the peaceful backwaters of Alleppey. With comfortable accommodations, curated sightseeing, authentic local experiences, and seamless private transportation, this itinerary is perfect for couples, families, and travelers seeking a relaxing yet immersive holiday.",
-    "pickupLocation": "Kochi International Airport (COK) or Ernakulam Junction Railway Station",
-    "accommodation": "2 nights in a premium 3/4-star hotel in Munnar, 1 night in a premium hotel at Thekkady, and 1 night aboard a deluxe AC houseboat in Alleppey on twin/triple sharing.",
-    "transportation": "Private air-conditioned vehicle with professional driver for all airport transfers, intercity travel, and sightseeing.",
-    "meals": "Breakfast on Days 2-5, plus Lunch, Evening Tea & Snacks, Dinner, and Breakfast during the Alleppey houseboat stay.",
+    "overview": "Escape into the heart of Kerala on this expertly optimized five-day itinerary. Start in Kochi and ascend into Munnar's rolling tea gardens. Journey south through the hidden gem of Parunthumpara to the spice hub of Thekkady for a wildlife experience. Conclude by unwinding aboard a traditional deluxe houseboat gliding through Alleppey's peaceful backwaters. Featuring premium accommodations and seamless private transport, this tour offers the perfect balance of adventure and relaxation.",
+    "pickupLocation": "Hyderabad • Bengaluru • Kochi • Ernakulam",
+    "accommodation": "2 nights premium 4-star hotel (Munnar), 1 night premium hotel (Thekkady), 1 night deluxe AC houseboat (Alleppey). Twin/triple sharing.",
+    "transportation": "Private AC sedan/SUV with a professional chauffeur for all transfers.",
+    "meals": "Breakfast (Days 2-5). Alleppey houseboat includes all meals (Lunch, Evening Snacks, Dinner, Breakfast).",
     "difficulty": "Easy",
     "altitude": "Approx. 1,600 m (Munnar)",
-    "weather": "Pleasant throughout the year. Munnar remains cool (12°C-24°C), while Thekkady and Alleppey are warm and tropical (22°C-33°C).",
+    "weather": "Pleasant year-round. Munnar is cool (12°C-24°C); Thekkady & Alleppey are tropical (22°C-33°C).",
     "itinerary": [
       {
         "day": 1,
-        "title": "Welcome to Kerala & Journey into the Hills",
-        "morning": "Arrive at Kochi Airport or Railway Station and meet your tour representative before beginning the scenic drive towards Munnar.",
-        "afternoon": "Pause along the route to admire cascading waterfalls, lush spice plantations, and breathtaking mountain viewpoints before continuing uphill.",
-        "evening": "Check into your hotel, relax after the journey, or explore the charming local market at your own pace.",
+        "title": "Arrival in Kochi & Ascent to Munnar",
+        "morning": "Arrive at Kochi Airport/Railway Station. Meet your chauffeur and begin the ascent into the Western Ghats.",
+        "afternoon": "Stop at the cascading Cheeyappara and Valara Waterfalls. Enjoy fresh coconut water while viewing the lush spice gardens.",
+        "evening": "Check into your Munnar resort. Enjoy a relaxed evening walking through the local bazaar.",
         "hotel": "Premium Hotel, Munnar",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1764012393710-be2d33971ac0?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kochi_chinese_fishing-net-20080215-01a.jpg/1920px-Kochi_chinese_fishing-net-20080215-01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
-        "title": "Explore the Beauty of Munnar",
-        "morning": "Visit Eravikulam National Park and enjoy spectacular views of rolling tea gardens while spotting the rare Nilgiri Tahr.",
-        "afternoon": "Continue to Mattupetty Dam, Kundala Lake, Tea Museum, and scenic viewpoints such as Echo Point and Top Station.",
-        "evening": "Return to the hotel after an optional boating experience or spend a peaceful evening enjoying the cool mountain weather.",
+        "title": "Munnar Tea Estates & National Park",
+        "morning": "Visit Eravikulam National Park to spot the endangered Nilgiri Tahr against the backdrop of Anamudi Peak.",
+        "afternoon": "Explore the Tea Museum, Mattupetty Dam, and Echo Point. Enjoy a serene boat ride on Kundala Lake.",
+        "evening": "Return to the resort for a warm dinner in the cool mountain climate.",
         "hotel": "Premium Hotel, Munnar",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1736950825214-1b5e2bdbb5f8?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Munnar-Pothupara_Waterfalls-WUS07067.jpg/1920px-Munnar-Pothupara_Waterfalls-WUS07067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 3,
-        "title": "From Tea Hills to Spice Country",
-        "morning": "After breakfast, drive through picturesque valleys and plantations towards Thekkady.",
-        "afternoon": "Visit Periyar Wildlife Sanctuary, explore aromatic spice gardens, and browse local shops for authentic Kerala spices.",
-        "evening": "Enjoy a vibrant Kathakali dance performance or witness the traditional martial art of Kalaripayattu before returning to the hotel.",
+        "title": "Hidden Gems & Spice Plantations",
+        "morning": "Drive towards Thekkady. En route, detour to the hidden gem of Parunthumpara (Eagle's Rock) for sweeping canyon views.",
+        "afternoon": "Check in at Thekkady. Enjoy a guided spice plantation tour, learning about cardamom, pepper, and cinnamon.",
+        "evening": "Experience Kerala's rich culture with an optional Kathakali or Kalaripayattu martial arts show.",
         "hotel": "Premium Hotel, Thekkady",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1684734654982-67496f590f33?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Park_Periyar_-_Kerala_02.jpg/1920px-National_Park_Periyar_-_Kerala_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 4,
-        "title": "Houseboat Bliss in Alleppey",
-        "morning": "Drive to Alleppey and board a beautifully appointed traditional Kerala houseboat.",
-        "afternoon": "Cruise through tranquil canals, coconut groves, village landscapes, and paddy fields while enjoying freshly prepared local cuisine.",
-        "evening": "Watch a mesmerizing sunset over the backwaters before settling in for a peaceful overnight stay aboard the houseboat.",
+        "title": "Alleppey Houseboat Backwater Cruise",
+        "morning": "Descend from the hills to the coastal plains of Alleppey. Board your traditional private houseboat.",
+        "afternoon": "Cruise the emerald backwaters, passing paddy fields and local villages. Enjoy an authentic Keralite lunch onboard.",
+        "evening": "Watch the sunset from the deck, followed by a romantic dinner and overnight stay on the water.",
         "hotel": "Deluxe AC Houseboat",
-        "mealsIncluded": "Breakfast, Lunch, Evening Tea & Snacks, Dinner",
-        "image": "https://images.unsplash.com/photo-1753785494181-23f0bd79abd9?auto=format&fit=crop&w=1200&q=80"
+        "mealsIncluded": "Breakfast, Lunch, Evening Tea, Dinner",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kerala_backwater_20080218-11.jpg/1920px-Kerala_backwater_20080218-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 5,
-        "title": "Backwaters Farewell & Departure",
-        "morning": "Enjoy breakfast onboard before checking out of the houseboat.",
-        "afternoon": "Drive back to Kochi with time for optional sightseeing around Fort Kochi depending on your departure schedule.",
-        "evening": "Transfer to Kochi Airport or Railway Station with unforgettable memories of Kerala.",
+        "title": "Kochi Heritage & Departure",
+        "morning": "Enjoy a floating breakfast before disembarking the houseboat at 9:00 AM.",
+        "afternoon": "Drive to Fort Kochi. Explore the Chinese Fishing Nets, Jew Town, and Mattancherry Palace.",
+        "evening": "Transfer to Kochi Airport for your onward journey.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1777532895247-19b598f7c39b?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kerala_backwater_20080218-11.jpg/1920px-Kerala_backwater_20080218-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
     "inclusions": [
-      "Airport/Railway Station pickup and drop in Kochi",
-      "Private AC vehicle for all transfers and sightseeing",
-      "2 nights accommodation in Munnar",
-      "1 night accommodation in Thekkady",
-      "1 night stay in a deluxe AC houseboat at Alleppey",
+      "Airport pickup/drop in Kochi",
+      "Private AC vehicle with expert driver",
+      "2 nights in Munnar, 1 night in Thekkady",
+      "1 night deluxe AC houseboat stay",
       "Daily breakfast at hotels",
-      "All meals during the houseboat experience",
-      "Experienced English/Hindi speaking driver",
-      "National Park permit (where applicable)",
-      "24/7 travel assistance throughout the trip"
+      "All meals on the houseboat",
+      "Toll, parking, and driver allowance"
     ],
     "exclusions": [
-      "Flights or train tickets to and from Kochi",
-      "Lunch and dinner during hotel stays unless specified",
-      "Personal expenses such as shopping, laundry, beverages, and tips",
-      "Adventure activities, boating charges, and optional experiences",
-      "Entry tickets, camera fees, and sightseeing charges not mentioned",
-      "Travel and medical insurance",
-      "Additional accommodation or transport due to delays, weather, or force majeure",
-      "Anything not specifically mentioned under inclusions"
+      "Flights/Train tickets",
+      "Lunches & dinners (except on houseboat)",
+      "Entry fees to monuments & parks",
+      "Travel insurance & personal expenses"
     ],
     "packingList": [
-      "Comfortable cotton clothing",
-      "Light jacket for cool evenings in Munnar",
+      "Cotton clothing for the coast",
+      "Light fleece/jacket for Munnar",
       "Comfortable walking shoes",
-      "Umbrella or lightweight raincoat",
-      "Sunscreen and sunglasses",
-      "Mosquito repellent",
-      "Personal medicines and first-aid essentials",
-      "Government-issued ID proof",
-      "Power bank and mobile charger",
-      "Reusable water bottle",
-      "Cash and digital payment options",
-      "Small backpack for daily sightseeing"
+      "Mosquito repellent & sunscreen",
+      "Power bank"
     ],
     "faq": [
       {
-        "question": "What is the ideal season for this Kerala tour?",
-        "answer": "The trip operates throughout the year, but October to March offers the most comfortable weather for sightseeing and outdoor activities."
+        "question": "What makes this optimized route better?",
+        "answer": "This route minimizes driving time by following a natural loop: Kochi -> Munnar (hills) -> Thekkady (forests) -> Alleppey (coast) -> Kochi, ensuring no backtracking."
       },
       {
-        "question": "Is the Alleppey houseboat air-conditioned?",
-        "answer": "Yes. The package includes an overnight stay in a deluxe air-conditioned houseboat with comfortable rooms and freshly prepared meals."
-      },
-      {
-        "question": "Is this itinerary suitable for families and senior citizens?",
-        "answer": "Yes. The itinerary is relaxed, involves comfortable road travel, and is designed for families, couples, and senior travelers."
-      },
-      {
-        "question": "Are entry tickets to attractions included?",
-        "answer": "Only permits specifically mentioned in the inclusions are covered. Other attraction entry tickets and optional activities are payable directly."
+        "question": "Is the Alleppey houseboat safe for children?",
+        "answer": "Yes, our houseboats are fully safety-compliant and highly recommended for families."
       }
     ]
   },
@@ -167,11 +147,11 @@
     "rating": 4.8,
     "reviewsCount": 0,
     "shortDescription": "A refreshing Kerala getaway featuring misty hills, scenic waterfalls, lush tea plantations, and an unforgettable overnight houseboat experience in Alleppey.",
-    "heroImage": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1772729315540-415f2db20d98?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1772729315540-415f2db20d98?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1777532996402-9f6104b73d7e?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kochi_chinese_fishing-net-20080215-01a.jpg/1920px-Kochi_chinese_fishing-net-20080215-01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Munnar-Pothupara_Waterfalls-WUS07067.jpg/1920px-Munnar-Pothupara_Waterfalls-WUS07067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kerala_backwater_20080218-11.jpg/1920px-Kerala_backwater_20080218-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     ],
     "highlights": [
       "Explore Munnar's tea gardens and mountain viewpoints",
@@ -196,7 +176,7 @@
         "evening": "Check into your hotel in Munnar and spend a relaxed evening exploring nearby cafés or local markets.",
         "hotel": "Premium Hotel, Munnar",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1764012393710-be2d33971ac0?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kochi_chinese_fishing-net-20080215-01a.jpg/1920px-Kochi_chinese_fishing-net-20080215-01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
@@ -206,7 +186,7 @@
         "evening": "Return to the hotel and enjoy a peaceful evening amidst the cool mountain weather.",
         "hotel": "Premium Hotel, Munnar",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1736950825214-1b5e2bdbb5f8?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Munnar-Pothupara_Waterfalls-WUS07067.jpg/1920px-Munnar-Pothupara_Waterfalls-WUS07067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 3,
@@ -216,7 +196,7 @@
         "evening": "Witness a spectacular sunset over the backwaters before enjoying dinner and an overnight stay aboard the houseboat.",
         "hotel": "Deluxe AC Houseboat",
         "mealsIncluded": "Breakfast, Lunch, Dinner",
-        "image": "https://images.unsplash.com/photo-1684734654982-67496f590f33?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kerala_backwater_20080218-11.jpg/1920px-Kerala_backwater_20080218-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 4,
@@ -226,7 +206,7 @@
         "evening": "Transfer to Kochi Airport or Railway Station for your onward journey.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1753785494181-23f0bd79abd9?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kerala_backwater_20080218-11.jpg/1920px-Kerala_backwater_20080218-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
     "inclusions": [
@@ -285,13 +265,14 @@
   },
   {
     "id": "trip-gokarna-dandeli-adventure",
-    "slug": "gokarna-dandeli-adventure",
-    "title": "Gokarna & Dandeli Adventure Escape",
-    "location": "Dandeli • Gokarna • Murudeshwar • Honnavar, Karnataka",
+    "slug": "gokarna-dandeli-murudeshwar-adventure-tour",
+    "title": "Gokarna, Dandeli & Murudeshwar Coastal Adventure",
+    "location": "Dandeli • Gokarna • Murudeshwar",
     "categories": [
       "Domestic",
       "Adventure",
-      "Weekend"
+      "Weekend",
+      "Youth"
     ],
     "price": 10999,
     "duration": "4 Days / 3 Nights",
@@ -301,149 +282,106 @@
     ],
     "seatsLeft": 14,
     "rating": 4.9,
-    "reviewsCount": 0,
-    "shortDescription": "A relaxed coastal adventure through Karnataka featuring thrilling river rafting in Dandeli, scenic waterfalls, two nights in Gokarna with the famous Seven Beach Trek, the iconic Murudeshwar Temple, and peaceful mangrove boating in Honnavar.",
-    "heroImage": "https://images.unsplash.com/photo-1733158701868-8e7376dbf23b?auto=format&fit=crop&w=1200&q=80",
+    "reviewsCount": 88,
+    "shortDescription": "Combine the thrill of Dandeli river rafting with the serene beaches of Gokarna and the majestic Murudeshwar temple on this ultimate Karnataka coastal road trip.",
+    "heroImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1723379981423-136cc67ffdda?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dandeli_sunset.jpg/1920px-Dandeli_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
-      "White-water rafting and adventure sports in Dandeli",
-      "Seven Beach coastal trek with breathtaking sunset views",
-      "Visit the iconic Murudeshwar Shiva Statue",
-      "Mangrove boating through Honnavar backwaters"
+      "White-water rafting on the Kali River in Dandeli",
+      "Hidden Gem: Explore the historic Mirjan Fort",
+      "Trek the famous Five/Seven Beaches of Gokarna",
+      "Visit the towering Shiva Statue at Murudeshwar",
+      "Serene mangrove boat ride in Honnavar"
     ],
-    "overview": "Discover the perfect combination of adventure, beaches, spirituality, and nature across Karnataka's spectacular coastline. Begin with adrenaline-filled activities in Dandeli, explore the lush Vibhuti Falls, spend two relaxing nights in Gokarna while enjoying its beaches and the famous Seven Beach Trek, witness the majestic Murudeshwar Shiva Statue, and conclude your journey with a serene mangrove boating experience at Honnavar before returning to Hubballi. This itinerary is designed to minimize travel fatigue while maximizing sightseeing and leisure.",
-    "pickupLocation": "Hyderabad, Vijayawada, Bengaluru, Pune (Train/Bus) with pickup from Hubballi",
-    "accommodation": "1 night riverside cottage stay in Dandeli and 2 nights premium AC beach resort stay in Gokarna on twin/triple sharing basis.",
-    "transportation": "Train/Bus as per selected package, followed by local transfers in Tempo Traveller, Innova, or similar AC vehicle.",
-    "meals": "3 Breakfasts, 1 Lunch and 1 Dinner (Veg & Non-Veg Buffet).",
+    "overview": "An action-packed coastal and jungle adventure! Start with adrenaline-pumping white-water rafting in Dandeli's dense forests. Transition to the laid-back hippie vibes of Gokarna for a famous beach trek. We've optimized the return route to include a stop at the hidden gem of Mirjan Fort, before admiring the colossal Murudeshwar Shiva statue and floating through the Honnavar mangroves. A flawless blend of thrills, spirituality, and relaxation.",
+    "pickupLocation": "Hyderabad • Bengaluru • Hubballi",
+    "accommodation": "1 night riverside cottage (Dandeli), 2 nights premium AC beach resort (Gokarna). Twin/triple sharing.",
+    "transportation": "AC Tempo Traveller / SUV for local sightseeing.",
+    "meals": "3 Breakfasts, 1 Lunch, 1 Dinner.",
     "difficulty": "Moderate",
     "altitude": "Sea Level to 600 m",
-    "weather": "Pleasant throughout the year with temperatures ranging between 20°C and 34°C. Best visited from October to March.",
+    "weather": "Tropical and pleasant. 20°C to 34°C.",
     "itinerary": [
       {
-        "day": 0,
-        "title": "Departure from Your City",
-        "morning": "Prepare for the overnight journey with all travel essentials.",
-        "afternoon": "Board your train or bus from your selected departure city.",
-        "evening": "Enjoy an overnight journey towards Hubballi while getting ready for the adventure ahead.",
-        "hotel": "Overnight Journey",
-        "mealsIncluded": "Not Included",
-        "image": "https://images.unsplash.com/photo-1560357647-62a43d9897bb?auto=format&fit=crop&w=1200&q=80"
-      },
-      {
         "day": 1,
-        "title": "Adventure Begins in Dandeli",
-        "morning": "Arrive at Hubballi, freshen up, enjoy breakfast, and drive towards Dandeli.",
-        "afternoon": "Experience exciting adventure activities including white-water rafting, kayaking, zorbing, swimming, and other optional water sports on the Kali River.",
-        "evening": "Relax at the riverside campsite with music, bonfire, delicious dinner, and an overnight cottage stay.",
+        "title": "Kali River Adventure in Dandeli",
+        "morning": "Arrive in Hubballi and drive straight to the Dandeli jungle camp. Freshen up and grab breakfast.",
+        "afternoon": "Gear up for white-water rafting on the Kali River. Try kayaking, zorbing, and wild swimming.",
+        "evening": "Campfire, music, and a hearty buffet dinner by the river.",
         "hotel": "Riverside Cottage, Dandeli",
         "mealsIncluded": "Breakfast, Lunch, Dinner",
-        "image": "https://images.unsplash.com/photo-1560357647-134124a2f51b?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dandeli_sunset.jpg/1920px-Dandeli_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
-        "title": "Vibhuti Falls • Gokarna Beaches",
-        "morning": "After breakfast visit the beautiful Vibhuti Falls surrounded by dense forests before heading towards Gokarna.",
-        "afternoon": "Visit Mahabaleshwar Temple, Kudle Beach and Om Beach. Relax at beach cafés or enjoy optional water activities.",
-        "evening": "Witness a breathtaking sunset at Om Beach before checking into your premium beach resort in Gokarna.",
+        "title": "Vibhuti Falls & Gokarna Sunsets",
+        "morning": "Drive towards Gokarna. En route, take a short hike to the pristine Vibhuti Falls for a refreshing dip.",
+        "afternoon": "Arrive in Gokarna. Visit the Mahabaleshwar Temple, then head to Kudle Beach for lunch and relaxation.",
+        "evening": "Watch a spectacular sunset at Om Beach. Check into your beachside resort.",
         "hotel": "Premium AC Beach Resort, Gokarna",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1674367815015-43de98f2ec96?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
-        "title": "Seven Beach Trek • Leisure Evening",
-        "morning": "Start early for the famous Seven Beach Trek covering Paradise Beach, Half Moon Beach, Om Beach, Kudle Beach and scenic cliff viewpoints.",
-        "afternoon": "Enjoy leisure time at your favorite beach, optional kayaking, café hopping, shopping and photography.",
-        "evening": "Spend another beautiful sunset at Gokarna before returning to the same beach resort for an overnight stay.",
+        "title": "The Ultimate Beach Trek",
+        "morning": "Embark on the famous Gokarna Beach Trek covering Paradise, Half Moon, and Om Beach.",
+        "afternoon": "Free time for cafe hopping, relaxing in hammocks, or trying out beachside water sports.",
+        "evening": "Stroll through Gokarna's flea markets and enjoy a seaside dinner.",
         "hotel": "Premium AC Beach Resort, Gokarna",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-b-GcKW0Vqpc?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 4,
-        "title": "Murudeshwar • Honnavar • Return",
-        "morning": "After breakfast drive to Murudeshwar and visit the magnificent Shiva Statue and Murudeshwar Temple.",
-        "afternoon": "Proceed towards Honnavar for a peaceful mangrove boating experience through the Sharavathi backwaters followed by a visit to Eco Beach.",
-        "evening": "Drive back to Hubballi and board your return train or bus with unforgettable memories.",
+        "title": "Mirjan Fort, Murudeshwar & Departure",
+        "morning": "Checkout and explore the hidden gem: Mirjan Fort, a stunning 16th-century laterite structure.",
+        "afternoon": "Drive to Murudeshwar. Witness the towering 123-ft Shiva statue. Proceed to Honnavar for a peaceful mangrove boat ride.",
+        "evening": "Drive back to Hubballi to board your return bus/train.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-j-H75T-Pk9I?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
-      "Train/Bus travel as per selected package",
-      "Local transportation in Tempo Traveller/Innova or similar vehicle",
-      "1 night cottage stay in Dandeli",
-      "1 night AC villa stay in Murudeshwar",
-      "Breakfast, Lunch, and Dinner at Dandeli",
-      "White-water rafting",
-      "Kayaking",
-      "Zorbing",
-      "Swimming",
-      "Boating",
-      "Mangrove boat ride at Honnavar",
-      "Driver allowance, tolls, fuel, state taxes, and parking charges"
+      "Local AC transportation",
+      "1 night Dandeli, 2 nights Gokarna",
+      "Selected meals (3B, 1L, 1D)",
+      "White-water rafting & kayaking",
+      "Honnavar Mangrove boating"
     ],
     "exclusions": [
-      "Meals not specifically mentioned",
-      "Personal expenses and shopping",
-      "Soft drinks and alcoholic beverages",
-      "Adventure activities not mentioned in the inclusions",
-      "Travel insurance and medical expenses",
-      "Expenses arising due to weather conditions, roadblocks, natural calamities, or public protests",
-      "Anything not specifically mentioned under inclusions"
+      "Travel tickets to Hubballi",
+      "Meals not specified",
+      "Additional adventure sports"
     ],
     "packingList": [
-      "Government ID (Aadhaar/Driving License)",
-      "Comfortable trekking shoes",
-      "Quick-dry clothes",
-      "Extra T-shirts and shorts",
-      "Light hoodie or jacket",
-      "Flip-flops or sandals",
-      "Cap and sunglasses",
-      "Reusable water bottle",
-      "Small backpack",
-      "Power bank",
-      "Personal medicines",
-      "Basic first-aid kit",
-      "Sunscreen",
-      "Cash for personal expenses",
-      "Energy bars or light snacks"
+      "Quick-dry clothing & swimwear",
+      "Trekking shoes & flip-flops",
+      "Sunscreen & sunglasses",
+      "Waterproof bag for river rafting"
     ],
     "faq": [
       {
-        "question": "Is river rafting included in the package?",
-        "answer": "Yes. White-water rafting is included along with selected adventure activities mentioned in the itinerary."
-      },
-      {
-        "question": "Do I need prior trekking experience?",
-        "answer": "No. The Seven Beach Trek is suitable for beginners with a reasonable level of fitness."
-      },
-      {
-        "question": "What type of accommodation is provided?",
-        "answer": "The trip includes one riverside cottage stay in Dandeli and one premium AC villa stay near Murudeshwar Beach."
-      },
-      {
-        "question": "Is this trip suitable for solo travelers?",
-        "answer": "Absolutely. Many solo travelers join this trip, making it a great opportunity to meet fellow adventure enthusiasts."
+        "question": "Is rafting safe for non-swimmers?",
+        "answer": "Yes, life jackets are mandatory and professional guides accompany every raft."
       }
     ]
   },
   {
     "id": "trip-coorg-chikmagalur-explorer",
-    "slug": "coorg-chikmagalur-explorer",
-    "title": "Coorg & Chikmagalur Explorer",
-    "location": "Coorg • Chikmagalur • Belur • Mysuru, Karnataka",
+    "slug": "coorg-chikmagalur-mysuru-tour-package",
+    "title": "Ultimate Coorg & Chikmagalur Coffee Hills Tour",
+    "location": "Chikmagalur • Coorg • Mysuru",
     "categories": [
       "Domestic",
       "Adventure",
-      "Weekend",
-      "Family"
+      "Family",
+      "Weekend"
     ],
     "price": 5999,
     "duration": "3 Days / 2 Nights",
@@ -453,110 +391,81 @@
     ],
     "seatsLeft": 18,
     "rating": 4.8,
-    "reviewsCount": 0,
-    "shortDescription": "Experience Karnataka's coffee hills, majestic waterfalls, mountain peaks, heritage temples, and wildlife on an exciting three-day getaway.",
-    "heroImage": "https://images.unsplash.com/photo-1733158701868-8e7376dbf23b?auto=format&fit=crop&w=1200&q=80",
+    "reviewsCount": 112,
+    "shortDescription": "A highly optimized weekend route covering Karnataka's highest peaks in Chikmagalur, the lush coffee estates of Coorg, and the heritage of Mysuru.",
+    "heroImage": "https://unsplash.com/photos/-Zt97RnOWJ8/download?force=true&w=1600",
     "gallery": [
-      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1723379981423-136cc67ffdda?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
-      "Sunrise at Mullayanagiri Peak",
-      "Jeep ride to Mandalpatti",
-      "Visit the Golden Temple & Belur Temple",
-      "Explore waterfalls, wildlife and coffee plantations"
+      "Stand atop Mullayanagiri, Karnataka's highest peak",
+      "Hidden Gem: The tranquil Hirekolale Lake in Chikmagalur",
+      "Off-road Jeep Safari to Mandalpatti in Coorg",
+      "Visit Namdroling Monastery (Golden Temple)",
+      "Optimized circular route to minimize travel fatigue"
     ],
-    "overview": "Discover two of Karnataka's most beautiful hill destinations in one memorable journey. Wander through Coorg's lush coffee estates, witness the scenic beauty of Mandalpatti and Abbey Falls, stand atop Karnataka's highest peak at Mullayanagiri, admire the magnificent Hoysala architecture at Belur, and conclude with sightseeing in Mysuru. Perfect for nature lovers, families, couples, and adventure enthusiasts looking for a refreshing weekend escape.",
-    "pickupLocation": "KSR Bengaluru Railway Station",
-    "accommodation": "2 Nights stay in comfortable hotel/resort on twin or triple sharing basis.",
-    "transportation": "Train from Bengaluru followed by AC Tempo Traveller/Innova for local sightseeing and transfers.",
-    "meals": "2 Breakfasts and 2 Dinners.",
-    "difficulty": "Easy",
-    "altitude": "1,930 m (Mullayanagiri Peak)",
-    "weather": "Pleasant throughout the year (12°C–28°C). October to March offers the best weather.",
+    "overview": "We have re-engineered this itinerary to provide the ultimate geographical flow. Starting from Bengaluru, you'll head directly to the towering peaks of Chikmagalur, visiting the hidden gem of Hirekolale Lake. Day two takes you south to the misty coffee plantations and waterfalls of Coorg. Day three concludes with a seamless drive through the royal city of Mysuru back to Bengaluru, eliminating backtracking and maximizing your time in nature.",
+    "pickupLocation": "Bengaluru",
+    "accommodation": "1 night Chikmagalur hotel, 1 night Coorg resort. Twin/triple sharing.",
+    "transportation": "AC Tempo Traveller / Innova for the entire circuit.",
+    "meals": "2 Breakfasts, 2 Dinners.",
+    "difficulty": "Easy to Moderate",
+    "altitude": "1,930 m (Mullayanagiri)",
+    "weather": "Cool and pleasant year-round (12°C–28°C).",
     "itinerary": [
       {
         "day": 1,
-        "title": "Bengaluru to Coorg",
-        "morning": "Arrive at the pickup point and begin your journey to Coorg. Visit the famous Namdroling Golden Temple and admire its Tibetan architecture.",
-        "afternoon": "Continue towards Harangi Dam and enjoy scenic views before visiting the nearby Elephant Camp where you can observe elephants in their natural habitat.",
-        "evening": "Check into the resort, relax amidst nature, enjoy dinner and spend the evening at leisure.",
-        "hotel": "Resort in Coorg",
+        "title": "Bengaluru to Chikmagalur Peaks",
+        "morning": "Depart Bengaluru early. Drive to Chikmagalur. Visit the historic Belur Temple en route.",
+        "afternoon": "Trek up to Mullayanagiri Peak for sweeping views of the Western Ghats.",
+        "evening": "Visit the hidden gem: Hirekolale Lake for a quiet sunset. Check into your Chikmagalur hotel.",
+        "hotel": "Premium Hotel, Chikmagalur",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1560357647-62a43d9897bb?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
-        "title": "Coorg to Chikmagalur",
-        "morning": "After breakfast, enjoy an adventurous jeep ride to Mandalpatti Peak for breathtaking panoramic views of the Western Ghats.",
-        "afternoon": "Visit the beautiful Abbey Falls before driving towards Chikmagalur. Continue to Mullayanagiri Peak, the highest point in Karnataka, and enjoy spectacular mountain scenery.",
-        "evening": "Return to the hotel after sunset and enjoy dinner with fellow travellers.",
-        "hotel": "Hotel in Chikmagalur",
+        "title": "Chikmagalur to Coorg Wilderness",
+        "morning": "Drive to Coorg. Head straight to the cascading Abbey Falls surrounded by spice estates.",
+        "afternoon": "Take a thrilling 4x4 Jeep ride to Mandalpatti peak for dramatic valley views.",
+        "evening": "Watch the sunset from Raja's Seat. Check into your Coorg nature resort.",
+        "hotel": "Nature Resort, Coorg",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1560357647-134124a2f51b?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
-        "title": "Belur Heritage & Mysuru",
-        "morning": "Visit the UNESCO-listed Belur Chennakesava Temple and admire the intricate Hoysala architecture.",
-        "afternoon": "Drive towards Mysuru for sightseeing covering major landmarks such as Mysore Palace (outside view), St. Philomena's Church, and local markets depending on time.",
-        "evening": "Return to Bengaluru with unforgettable memories of Karnataka's hills and heritage.",
+        "title": "Monasteries, Mysuru & Return",
+        "morning": "Visit the Namdroling Golden Temple and interact with elephants at Dubare Elephant Camp.",
+        "afternoon": "Drive down to Mysuru. View the majestic Mysore Palace and stop for local shopping.",
+        "evening": "Return to Bengaluru, completing a perfect geographical loop.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1674367815015-43de98f2ec96?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
-      "Train travel from Bengaluru (selected package)",
-      "AC vehicle for sightseeing",
+      "AC transport from Bengaluru",
       "2 nights accommodation",
-      "2 Breakfasts",
-      "2 Dinners",
-      "Driver allowance",
-      "Fuel charges",
-      "Toll taxes",
-      "Parking charges",
-      "Trip coordinator assistance"
+      "2 Breakfasts & 2 Dinners",
+      "Tolls, parking, driver batta"
     ],
     "exclusions": [
-      "Lunch",
-      "Personal expenses",
-      "Adventure activity charges",
-      "Entry tickets wherever applicable",
-      "Travel insurance",
-      "Camera fees",
-      "Anything not mentioned under inclusions"
+      "Lunches",
+      "Jeep Safari charges at Mandalpatti",
+      "Entry fees to monuments"
     ],
     "packingList": [
-      "Government ID proof",
-      "Comfortable trekking shoes",
-      "Warm jacket",
-      "Rain jacket during monsoon",
-      "Water bottle",
-      "Power bank",
-      "Personal medicines",
-      "Sunglasses",
-      "Cap",
-      "Camera",
-      "Cash for personal expenses"
+      "Light jacket & walking shoes",
+      "Government ID",
+      "Umbrella/Raincoat"
     ],
     "faq": [
       {
-        "question": "Is the Mandalpatti Jeep Ride included?",
-        "answer": "The jeep ride may be included depending on the selected package. Please verify before booking."
-      },
-      {
-        "question": "Is this trip suitable for beginners?",
-        "answer": "Yes. The itinerary involves light walking and sightseeing, making it suitable for families and first-time travellers."
-      },
-      {
-        "question": "What type of accommodation is provided?",
-        "answer": "Comfortable hotels or resorts on twin/triple sharing basis."
-      },
-      {
-        "question": "Which season is best for this trip?",
-        "answer": "October to March offers the best weather, although the trip operates throughout the year."
+        "question": "Why was this route optimized?",
+        "answer": "Traveling Bengaluru -> Chikmagalur -> Coorg -> Mysuru -> Bengaluru forms a clean circle, saving over 4 hours of unnecessary driving compared to older routes."
       }
     ]
   },
@@ -582,9 +491,8 @@
     "shortDescription": "A perfect weekend getaway to Coorg featuring scenic viewpoints, waterfalls, adventure activities, elephant encounters, and the famous Golden Temple.",
     "heroImage": "https://images.unsplash.com/photo-1733158701868-8e7376dbf23b?auto=format&fit=crop&w=1200&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1750353127516-87bd2c25c21d?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1723379981423-136cc67ffdda?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
       "Jeep safari to Mandalpatti Peak",
@@ -609,7 +517,7 @@
         "evening": "Watch the sunset from Raja's Seat before checking into your hotel. Enjoy dinner and relax for the night.",
         "hotel": "Premium Hotel / Resort, Coorg",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1560357647-62a43d9897bb?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
@@ -619,7 +527,7 @@
         "evening": "Begin your comfortable return journey to Bengaluru with unforgettable memories of Coorg.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1560357647-134124a2f51b?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
@@ -679,14 +587,14 @@
   },
   {
     "id": "trip-complete-tamil-nadu-hills",
-    "slug": "complete-tamil-nadu-hills",
-    "title": "Complete Tamil Nadu Hills Expedition",
-    "location": "Coimbatore • Ooty • Coonoor • Kodaikanal, Tamil Nadu",
+    "slug": "best-ooty-kodaikanal-tour-package",
+    "title": "Complete Tamil Nadu Hills: Ooty to Kodaikanal",
+    "location": "Coimbatore • Ooty • Coonoor • Kodaikanal",
     "categories": [
       "Domestic",
       "Family",
       "Honeymoon",
-      "Adventure"
+      "Nature"
     ],
     "price": 16999,
     "duration": "5 Days / 4 Nights",
@@ -696,137 +604,102 @@
     ],
     "seatsLeft": 10,
     "rating": 4.9,
-    "reviewsCount": 0,
-    "shortDescription": "Discover the best of Tamil Nadu's hill stations with an unforgettable journey through Coimbatore, Ooty, Coonoor, and Kodaikanal featuring tea gardens, waterfalls, lakes, forests, viewpoints, and colonial charm.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "reviewsCount": 210,
+    "shortDescription": "The ultimate 5-day Tamil Nadu hill station expedition featuring the Adiyogi statue, Ooty's tea gardens, and the misty pine forests of Kodaikanal.",
+    "heroImage": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
-      "Explore Ooty, Coonoor & Kodaikanal in one trip",
-      "Visit Adiyogi Shiva Statue & Doddabetta Peak",
-      "Experience tea estates, waterfalls & pine forests",
-      "Boating at Ooty Lake & Kodai Lake"
+      "Blessings at the 112-ft Adiyogi Shiva Statue",
+      "Hidden Gem: Avalanche Lake in Ooty",
+      "Hidden Gem: Mannavanur Sheep Farm in Kodaikanal",
+      "Boating on both Ooty Lake and Kodai Lake",
+      "Scenic Coonoor viewpoints (Dolphin's Nose & Lamb's Rock)"
     ],
-    "overview": "Embark on the ultimate Tamil Nadu hill station adventure covering the region's most iconic destinations. From the spiritual ambiance of Coimbatore to the colonial charm of Ooty, the breathtaking viewpoints of Coonoor, and the serene beauty of Kodaikanal, this journey showcases everything that makes South India's mountains so special. Explore lush botanical gardens, tea plantations, mist-covered valleys, waterfalls, pine forests, scenic lakes, and panoramic viewpoints while enjoying comfortable accommodations and carefully planned sightseeing. Perfect for families, honeymoon couples, nature lovers, and photography enthusiasts looking for a complete Nilgiri and Palani Hills experience.",
-    "pickupLocation": "Coimbatore International Airport / Coimbatore Junction Railway Station",
-    "accommodation": "2 Nights in a premium hotel in Ooty and 2 Nights in a premium hotel in Kodaikanal on twin/triple sharing basis.",
-    "transportation": "Private AC Sedan, SUV or Tempo Traveller for airport transfers and sightseeing.",
+    "overview": "Experience the absolute best of the Nilgiri and Palani hills on this seamless road trip. Begin in Coimbatore with the grand Adiyogi statue before winding up to Ooty's colonial charm. We've enhanced the Ooty leg to include the breathtaking Avalanche Lake. After exploring Coonoor's tea estates, you'll take a scenic drive down and back up into the misty, pine-covered cliffs of Kodaikanal, stopping at the idyllic Mannavanur village.",
+    "pickupLocation": "Coimbatore",
+    "accommodation": "2 nights premium Ooty hotel, 2 nights premium Kodaikanal hotel.",
+    "transportation": "Private AC Sedan/SUV for the entire trip.",
     "meals": "Daily Breakfast and Dinner.",
     "difficulty": "Easy",
-    "altitude": "Ooty - 2,240 m | Coonoor - 1,850 m | Kodaikanal - 2,133 m",
-    "weather": "Pleasant throughout the year with temperatures ranging from 10°C to 24°C. Evenings are cool and ideal for sightseeing.",
+    "altitude": "Ooty - 2,240 m | Kodaikanal - 2,133 m",
+    "weather": "Cool year-round (10°C to 24°C). Light woolens recommended.",
     "itinerary": [
       {
         "day": 1,
-        "title": "Arrival in Coimbatore & Ooty",
-        "morning": "Arrive at Coimbatore Airport or Railway Station. Visit the iconic 112-ft Adiyogi Shiva Statue at Isha Yoga Center and, if time permits, Marudhamalai Murugan Temple.",
-        "afternoon": "Drive through the scenic Nilgiri Ghat roads to Ooty while enjoying lush tea estates and mountain landscapes. Check into the hotel.",
-        "evening": "Visit Ooty Lake for an optional boat ride and explore Charing Cross Market for homemade chocolates, Nilgiri tea, spices, and souvenirs.",
+        "title": "Adiyogi & Ascent to Ooty",
+        "morning": "Pickup from Coimbatore. Visit the magnificent Isha Yoga Center and Adiyogi Statue.",
+        "afternoon": "Drive up the Nilgiri Ghat roads. Check into your Ooty hotel.",
+        "evening": "Enjoy an evening boat ride on Ooty Lake and visit the Botanical Gardens.",
         "hotel": "Premium Hotel, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
-        "title": "Ooty & Coonoor Exploration",
-        "morning": "Visit Doddabetta Peak followed by the Tea Factory & Tea Museum to learn about Nilgiri tea production.",
-        "afternoon": "Drive to Coonoor and explore Sim's Park, Lamb's Rock, and Dolphin's Nose, offering spectacular valley and tea plantation views.",
-        "evening": "Return to Ooty via scenic tea estates. Spend leisure time shopping or relaxing at a cozy hill café.",
+        "title": "Avalanche Lake & Coonoor Vistas",
+        "morning": "Visit the hidden gem: Avalanche Lake, a pristine, uncrowded natural reserve.",
+        "afternoon": "Drive to Coonoor. Visit Sim's Park, Dolphin's Nose, and Lamb's Rock overlooking the plains.",
+        "evening": "Return to Ooty. Try homemade Nilgiri chocolates at Charing Cross.",
         "hotel": "Premium Hotel, Ooty",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
-        "title": "Ooty to Kodaikanal",
-        "morning": "Visit Pine Forest, Shooting Point, Pykara Lake, and Pykara Waterfalls before checking out.",
-        "afternoon": "Drive towards Kodaikanal through picturesque valleys and countryside. Upon arrival, check into the hotel.",
-        "evening": "Relax with a peaceful walk around Kodai Lake or explore the bustling local market known for homemade chocolates and handcrafted souvenirs.",
+        "title": "Epic Drive to Kodaikanal",
+        "morning": "Early checkout. Begin the scenic drive descending from the Nilgiris and ascending the Palani Hills to Kodaikanal.",
+        "afternoon": "Stop at Silver Cascade Falls. Check into your Kodaikanal resort.",
+        "evening": "Take a leisurely stroll along the famous Coaker's Walk.",
         "hotel": "Premium Hotel, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 4,
-        "title": "Discover the Princess of Hill Stations",
-        "morning": "Visit Coaker's Walk, Green Valley View, Bryant Park, and the picturesque Kodai Lake with time for optional boating.",
-        "afternoon": "Continue to Pillar Rocks, Guna Caves (Devil's Kitchen), Pine Forest, and Moir Point for unforgettable mountain scenery.",
-        "evening": "Enjoy free time at the local cafés or relax amidst the cool weather before dinner.",
+        "title": "Pillar Rocks & Mannavanur",
+        "morning": "Visit the majestic Pillar Rocks, Pine Forest, and Guna Caves.",
+        "afternoon": "Drive to the hidden gem of Mannavanur Sheep Farm for rolling green meadows and a serene lake.",
+        "evening": "Boating or cycling around the star-shaped Kodai Lake.",
         "hotel": "Premium Hotel, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-EkQEfFhmhrg?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 5,
-        "title": "Final Sightseeing & Departure",
-        "morning": "Visit Silver Cascade Falls, Kurinji Andavar Temple, Shenbaganur Museum, Upper Lake View, and Silent Valley View depending on departure timing.",
-        "afternoon": "Begin your return drive to Coimbatore while enjoying the scenic Western Ghats one last time.",
-        "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of Tamil Nadu's beautiful hill stations.",
+        "title": "Descent to Coimbatore & Departure",
+        "morning": "Visit Kurinji Andavar Temple and grab some eucalyptus oil from the market.",
+        "afternoon": "Begin the descent back to Coimbatore.",
+        "evening": "Drop-off at Coimbatore Airport/Railway Station.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-kV9vFm6uLzI?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
-      "Pickup and drop from Coimbatore Airport/Railway Station",
-      "Private AC vehicle for all transfers and sightseeing",
-      "2 Nights accommodation in Ooty",
-      "2 Nights accommodation in Kodaikanal",
-      "Daily breakfast",
-      "4 Dinners",
-      "Experienced professional driver",
-      "Fuel charges",
-      "Parking charges",
-      "Toll taxes",
-      "Driver allowance",
-      "Complete sightseeing as per itinerary",
-      "24×7 customer support"
+      "Coimbatore pickup/drop",
+      "Private AC transport",
+      "4 nights premium accommodation",
+      "Daily MAP meals (Breakfast + Dinner)",
+      "All driver allowances & tolls"
     ],
     "exclusions": [
-      "Airfare or train tickets",
-      "Lunch throughout the tour",
-      "Boating charges at Ooty Lake, Kodai Lake and Pykara Lake",
-      "Entry tickets to monuments, parks and museums",
-      "Nilgiri Mountain Railway tickets",
-      "Adventure activities",
-      "Horse riding charges",
-      "Travel insurance",
-      "Camera fees",
-      "Personal expenses",
-      "Anything not specifically mentioned under inclusions"
+      "Flights/Trains",
+      "Lunches",
+      "Boating & entry fees"
     ],
     "packingList": [
-      "Government-issued photo ID",
-      "Warm jacket or sweater",
-      "Comfortable walking shoes",
-      "Raincoat or umbrella",
-      "Cap and sunglasses",
-      "Sunscreen",
-      "Reusable water bottle",
-      "Power bank",
-      "Camera",
-      "Personal medicines",
-      "Cash for shopping and local expenses"
+      "Warm jackets/sweaters",
+      "Walking shoes",
+      "Camera & Power bank"
     ],
     "faq": [
       {
-        "question": "Is this the most comprehensive Tamil Nadu hill station package?",
-        "answer": "Yes. This itinerary covers Coimbatore, Ooty, Coonoor, and Kodaikanal, offering the best combination of sightseeing, nature, tea plantations, viewpoints, waterfalls, lakes, and cultural attractions in one trip."
-      },
-      {
-        "question": "Can the Nilgiri Mountain Toy Train be included?",
-        "answer": "Yes. The Toy Train journey between Ooty and Coonoor can be added based on ticket availability and advance booking."
-      },
-      {
-        "question": "Is this package suitable for honeymoon couples and families?",
-        "answer": "Absolutely. The itinerary is designed to balance sightseeing, relaxation, scenic drives, and leisure time, making it ideal for couples, families, and groups."
-      },
-      {
-        "question": "Which is the best season for this trip?",
-        "answer": "October to June offers the most pleasant weather for sightseeing, while the monsoon season transforms the hills into lush green landscapes with spectacular waterfalls."
+        "question": "Is the drive from Ooty to Kodaikanal long?",
+        "answer": "Yes, it takes about 6.5 hours. We schedule this as a relaxed driving day with scenic stops."
       }
     ]
   },
@@ -853,9 +726,9 @@
     "shortDescription": "Experience two of South India's most beautiful hill stations with scenic lakes, tea gardens, waterfalls, pine forests, and breathtaking mountain viewpoints.",
     "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
       "Explore Ooty's gardens, lakes and tea estates",
@@ -880,7 +753,7 @@
         "evening": "Enjoy boating at Ooty Lake and explore Charing Cross Market for homemade chocolates, Nilgiri tea, spices, and handicrafts before returning to the hotel.",
         "hotel": "Premium Hotel, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
@@ -890,7 +763,7 @@
         "evening": "Return to Ooty and enjoy free time exploring cafés or shopping before dinner.",
         "hotel": "Premium Hotel, Ooty",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
@@ -900,7 +773,7 @@
         "evening": "Spend your evening boating or cycling around Kodai Lake before exploring the local market known for handmade chocolates, eucalyptus oil, and souvenirs.",
         "hotel": "Premium Hotel, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 4,
@@ -910,7 +783,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of Tamil Nadu's hill stations.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-EkQEfFhmhrg?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
@@ -995,11 +868,11 @@
     "rating": 4.9,
     "reviewsCount": 0,
     "shortDescription": "Experience the perfect blend of spirituality, waterfalls, pine forests, scenic viewpoints, and tranquil lakes on this memorable Coimbatore and Kodaikanal getaway.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
       "Visit the majestic Adiyogi Shiva Statue",
@@ -1024,7 +897,7 @@
         "evening": "Check into your hotel and spend the evening relaxing or exploring the lively local market famous for homemade chocolates, eucalyptus oil, spices, and handicrafts.",
         "hotel": "Premium Hotel / Resort, Kodaikanal",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
@@ -1034,7 +907,7 @@
         "evening": "Spend your evening boating or cycling around the picturesque Kodai Lake before returning to the hotel.",
         "hotel": "Premium Hotel / Resort, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
@@ -1044,7 +917,7 @@
         "evening": "Relax amidst the cool mountain weather or enjoy an optional campfire experience arranged by the resort (subject to availability).",
         "hotel": "Premium Hotel / Resort, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 4,
@@ -1054,7 +927,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of Tamil Nadu's beautiful hill country.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-EkQEfFhmhrg?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
@@ -1137,11 +1010,11 @@
     "rating": 4.8,
     "reviewsCount": 0,
     "shortDescription": "Experience the perfect blend of spirituality, nature, and colonial charm as you explore Coimbatore and the breathtaking Nilgiri Hills of Ooty.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
       "Visit the iconic Adiyogi Shiva Statue",
@@ -1166,7 +1039,7 @@
         "evening": "Spend your evening boating at Ooty Lake or exploring Charing Cross Market, famous for homemade chocolates, Nilgiri tea, spices, and handicrafts.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
@@ -1176,7 +1049,7 @@
         "evening": "Relax at your hotel or explore Ooty's lively cafés before enjoying dinner.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
@@ -1186,7 +1059,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
@@ -1268,11 +1141,11 @@
     "rating": 4.9,
     "reviewsCount": 0,
     "shortDescription": "Escape to the Princess of Hill Stations with misty valleys, scenic viewpoints, pine forests, waterfalls, peaceful lakes, and breathtaking mountain landscapes.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
     ],
     "highlights": [
       "Boating on the iconic Kodai Lake",
@@ -1297,7 +1170,7 @@
         "evening": "Enjoy boating or cycling around the picturesque Kodai Lake followed by leisure time shopping at Anna Salai Market for homemade chocolates, eucalyptus oil and handicrafts.",
         "hotel": "Premium Hotel / Resort, Kodaikanal",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 2,
@@ -1307,7 +1180,7 @@
         "evening": "Spend your evening relaxing at the hotel or enjoy a quiet café overlooking the hills before dinner.",
         "hotel": "Premium Hotel / Resort, Kodaikanal",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       },
       {
         "day": 3,
@@ -1317,7 +1190,7 @@
         "evening": "Drop at Madurai Airport or Kodai Road Railway Station with unforgettable memories of Kodaikanal.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
       }
     ],
     "inclusions": [
@@ -1399,11 +1272,11 @@
     "rating": 4.9,
     "reviewsCount": 0,
     "shortDescription": "Discover the timeless charm of Ooty and Coonoor with tea gardens, mountain viewpoints, lakes, waterfalls, and the iconic Nilgiri landscapes.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg/1920px-Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg/1920px-Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     ],
     "highlights": [
       "Visit Doddabetta Peak & Tea Factory",
@@ -1428,7 +1301,7 @@
         "evening": "Spend the evening boating at Ooty Lake before exploring Charing Cross Market for homemade chocolates, Nilgiri tea, eucalyptus oil, spices, and local handicrafts.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
@@ -1438,7 +1311,7 @@
         "evening": "Return to Ooty and relax at the hotel or enjoy leisure time exploring local cafés and bakeries.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg/1920px-Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 3,
@@ -1448,7 +1321,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of the Nilgiri Hills.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg/1920px-Road_1_Mile_Marker_Coonoor_Jun25_A7CR_05877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
     "inclusions": [
@@ -1530,11 +1403,11 @@
     "rating": 4.9,
     "reviewsCount": 0,
     "shortDescription": "Experience the charm of Ooty with scenic viewpoints, tea plantations, waterfalls, gardens, lakes, and breathtaking Nilgiri landscapes.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1605315579930-1c64eb3e9db4?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     ],
     "highlights": [
       "Sunrise from Doddabetta Peak",
@@ -1559,7 +1432,7 @@
         "evening": "Enjoy boating at the scenic Ooty Lake and explore Charing Cross Market for homemade chocolates, Nilgiri tea, spices, and local handicrafts.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
@@ -1569,7 +1442,7 @@
         "evening": "Return to Ooty and spend the evening relaxing at your hotel or exploring nearby cafés.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Breakfast, Dinner",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 3,
@@ -1579,7 +1452,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station with unforgettable memories of the Nilgiris.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
     "inclusions": [
@@ -1660,11 +1533,10 @@
     "rating": 4.8,
     "reviewsCount": 0,
     "shortDescription": "Escape into the Nilgiris with misty mountains, lush tea estates, serene lakes, and breathtaking viewpoints on this perfect weekend getaway.",
-    "heroImage": "https://images.unsplash.com/photo-1587538445896-d1f222cb0653?auto=format&fit=crop&w=1200&q=80",
+    "heroImage": "https://images.unsplash.com/photo-xdtsPeNfi4Q?auto=format&fit=crop&w=1600&q=80",
     "gallery": [
-      "https://images.unsplash.com/photo-1633931698758-f59cdaf042a2?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1718103064541-9b64d3df488b?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1772729756487-4f0169ee28e5?auto=format&fit=crop&w=1200&q=80"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     ],
     "highlights": [
       "Visit Doddabetta Peak, the highest point in the Nilgiris",
@@ -1689,7 +1561,7 @@
         "evening": "Enjoy a peaceful boating experience at Ooty Lake followed by shopping at Charing Cross Market for homemade chocolates, eucalyptus oil, tea, spices, and local handicrafts. Return to the hotel for dinner and overnight stay.",
         "hotel": "Premium Hotel / Resort, Ooty",
         "mealsIncluded": "Dinner",
-        "image": "https://images.unsplash.com/photo-1746175832129-fddb132c075c?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       },
       {
         "day": 2,
@@ -1699,7 +1571,7 @@
         "evening": "Drop at Coimbatore Airport or Railway Station for your onward journey with unforgettable memories of the Nilgiris.",
         "hotel": "Not Applicable",
         "mealsIncluded": "Breakfast",
-        "image": "https://images.unsplash.com/photo-1570832764204-f209aa9cd28f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       }
     ],
     "inclusions": [
@@ -1756,6 +1628,247 @@
       {
         "question": "Can this package be customized?",
         "answer": "Yes. Additional attractions such as Pykara Lake, Avalanche Lake, Mudumalai Wildlife Sanctuary, or the Nilgiri Mountain Railway can be added based on your preferences and available time."
+      }
+    ]
+  },
+  {
+    "id": "trip-wayanad-ooty-expedition",
+    "slug": "wayanad-ooty-tour-package-2026",
+    "title": "Wayanad & Ooty Ultimate Expedition",
+    "location": "Wayanad • Ooty • Coonoor • Coimbatore",
+    "categories": [
+      "Domestic",
+      "Adventure",
+      "Weekend",
+      "Nature"
+    ],
+    "price": 14999,
+    "duration": "5 Days / 4 Nights",
+    "travelDates": [
+      "Every Thursday"
+    ],
+    "seatsLeft": 12,
+    "rating": 4.8,
+    "reviewsCount": 65,
+    "shortDescription": "Traverse the lush bamboo forests of Wayanad and cross over into the misty tea gardens of Ooty on this incredible dual-state road trip.",
+    "heroImage": "https://unsplash.com/photos/RKBjiuZUMCw/download?force=true&w=1600",
+    "gallery": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wayanad_Tea_Museum.jpg/1920px-Wayanad_Tea_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    ],
+    "highlights": [
+      "Glass bridge and off-roading at 900 Kandi (Wayanad)",
+      "Explore the prehistoric Edakkal Caves",
+      "Scenic drive through the Bandipur/Mudumalai Tiger Reserve",
+      "Boating at Ooty Lake & Pykara Waterfalls",
+      "Coonoor's sprawling tea estates"
+    ],
+    "overview": "This fully curated package connects Kerala's wild Wayanad district with Tamil Nadu's manicured Nilgiris. Start with off-roading at the 900 Kandi glass bridge and trekking the ancient Edakkal caves. Enjoy a thrilling border crossing through dense tiger reserves to reach Ooty, where the vibe shifts to colonial charm, botanical gardens, and world-class tea tasting.",
+    "pickupLocation": "Kozhikode • Bengaluru",
+    "accommodation": "2 nights Wayanad resort, 2 nights Ooty hotel.",
+    "transportation": "Private AC Vehicle.",
+    "meals": "Daily Breakfast and Dinner.",
+    "difficulty": "Moderate",
+    "altitude": "Ooty - 2,240 m",
+    "weather": "Pleasant. Wayanad is tropical/cool; Ooty is cold.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Wayanad",
+        "morning": "Pickup and drive to Wayanad. Check into a lush nature resort.",
+        "afternoon": "Visit the majestic Banasura Sagar Dam (India's largest earth dam).",
+        "evening": "Relax around Pookode Lake.",
+        "hotel": "Nature Resort, Wayanad",
+        "mealsIncluded": "Dinner",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wayanad_Tea_Museum.jpg/1920px-Wayanad_Tea_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "day": 2,
+        "title": "Caves & 900 Kandi Off-Roading",
+        "morning": "Trek up to Edakkal Caves to see Neolithic petroglyphs.",
+        "afternoon": "Take an adventurous 4x4 jeep ride up to 900 Kandi and walk the glass bridge.",
+        "evening": "Return to the resort for dinner.",
+        "hotel": "Nature Resort, Wayanad",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg/1920px-Fields_Hazy_Mountains_Marlimund_Ooty_Nilgiris_Aug25_A7CR_07258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      {
+        "day": 3,
+        "title": "Forest Drive to Ooty",
+        "morning": "Checkout and drive to Ooty via the spectacular Mudumalai forest route.",
+        "afternoon": "Arrive in Ooty. Visit Pykara Lake and the surrounding pine forests.",
+        "evening": "Check into the hotel and enjoy the cool Nilgiri air.",
+        "hotel": "Premium Hotel, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 4,
+        "title": "Ooty & Coonoor Sightseeing",
+        "morning": "Visit Doddabetta Peak and the Ooty Tea Factory.",
+        "afternoon": "Drive to Coonoor to see Dolphin's Nose and Sim's Park.",
+        "evening": "Return to Ooty for shopping at Charing Cross.",
+        "hotel": "Premium Hotel, Ooty",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 5,
+        "title": "Departure from Coimbatore",
+        "morning": "Checkout after breakfast. Visit the Botanical Gardens.",
+        "afternoon": "Drive down the hills to Coimbatore for your drop-off.",
+        "evening": "End of tour.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      }
+    ],
+    "inclusions": [
+      "AC Transfers",
+      "4 Nights Stay",
+      "Breakfast & Dinner",
+      "All mentioned sightseeing"
+    ],
+    "exclusions": [
+      "Lunches",
+      "900 Kandi Jeep & Glass Bridge tickets",
+      "Entry fees"
+    ],
+    "packingList": [
+      "Trekking shoes",
+      "Warm clothing",
+      "Camera"
+    ],
+    "faq": [
+      {
+        "question": "Is the drive through the forest safe?",
+        "answer": "Yes, we travel during approved daylight hours through the Bandipur/Mudumalai corridors."
+      }
+    ]
+  },
+  {
+    "id": "trip-vagamon-highlands",
+    "slug": "kerala-vagamon-munnar-tour",
+    "title": "Kerala Vagamon & Munnar Highlands",
+    "location": "Kochi • Vagamon • Munnar • Thekkady • Alleppey",
+    "categories": [
+      "Domestic",
+      "Family",
+      "Nature"
+    ],
+    "price": 17999,
+    "duration": "6 Days / 5 Nights",
+    "travelDates": [
+      "Every Friday"
+    ],
+    "seatsLeft": 10,
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "shortDescription": "Discover the untouched beauty of Vagamon's pine forests, combined with the classic Kerala circuit of Munnar, Thekkady, and Alleppey.",
+    "heroImage": "https://images.unsplash.com/photo-1587550212726-17b2b0ee3170?auto=format&fit=crop&w=1600&q=80",
+    "gallery": [
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+    ],
+    "highlights": [
+      "Stroll through the misty Vagamon Pine Forest",
+      "Hidden Gem: Ulipooni Wildlife Viewpoint",
+      "Trek to the pristine Marmala Waterfalls",
+      "Tea gardens of Munnar & Periyar Safari in Thekkady",
+      "Overnight luxury houseboat in Alleppey"
+    ],
+    "overview": "This fully mapped 6-day itinerary takes you off the beaten path into Vagamon, a hidden jewel of Kerala known for its rolling meadows and pine forests. After soaking in Vagamon's tranquility, the route loops seamlessly into the classic circuit: the tea hills of Munnar, the spice jungles of Thekkady, and a relaxing finale on an Alleppey houseboat.",
+    "pickupLocation": "Kochi",
+    "accommodation": "1 night Vagamon, 2 nights Munnar, 1 night Thekkady, 1 night Houseboat.",
+    "transportation": "Private AC Vehicle.",
+    "meals": "Daily Breakfast (All meals on Houseboat).",
+    "difficulty": "Easy",
+    "altitude": "Vagamon - 1,100 m",
+    "weather": "Pleasant year-round. 15°C to 30°C.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kochi to Vagamon",
+        "morning": "Pickup from Kochi and drive up to the serene hills of Vagamon.",
+        "afternoon": "Visit the Vagamon Pine Forest and Vagamon Meadows.",
+        "evening": "Sunset at the Ulipooni viewpoint. Check into hotel.",
+        "hotel": "Premium Resort, Vagamon",
+        "mealsIncluded": "Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 2,
+        "title": "Marmala Falls & Drive to Munnar",
+        "morning": "Off-road trek to the stunning Marmala Waterfalls.",
+        "afternoon": "Scenic drive to Munnar. Check into your resort.",
+        "evening": "Leisurely evening in the cool Munnar climate.",
+        "hotel": "Premium Hotel, Munnar",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 3,
+        "title": "Munnar Sightseeing",
+        "morning": "Explore Eravikulam National Park and the Tea Museum.",
+        "afternoon": "Visit Mattupetty Dam and Echo Point.",
+        "evening": "Return to the resort.",
+        "hotel": "Premium Hotel, Munnar",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 4,
+        "title": "Spice Hub of Thekkady",
+        "morning": "Drive to Thekkady. Check in and relax.",
+        "afternoon": "Take a guided spice plantation tour or optional boat safari on Periyar Lake.",
+        "evening": "Explore local markets.",
+        "hotel": "Premium Hotel, Thekkady",
+        "mealsIncluded": "Breakfast, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 5,
+        "title": "Alleppey Houseboat",
+        "morning": "Drive down to Alleppey. Board your luxury houseboat at noon.",
+        "afternoon": "Cruise the backwaters, enjoying a freshly prepared Keralite lunch.",
+        "evening": "Dinner and overnight stay on the boat.",
+        "hotel": "Deluxe Houseboat",
+        "mealsIncluded": "Breakfast, Lunch, Dinner",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      },
+      {
+        "day": 6,
+        "title": "Departure",
+        "morning": "Disembark houseboat after breakfast.",
+        "afternoon": "Drive to Kochi for your drop-off.",
+        "evening": "End of tour.",
+        "hotel": "Not Applicable",
+        "mealsIncluded": "Breakfast",
+        "image": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1400"
+      }
+    ],
+    "inclusions": [
+      "AC Transfers",
+      "5 Nights Stay",
+      "Daily MAP Meals",
+      "Houseboat all meals"
+    ],
+    "exclusions": [
+      "Lunches (except houseboat)",
+      "Entry fees",
+      "Personal expenses"
+    ],
+    "packingList": [
+      "Cotton & light woolens",
+      "Walking shoes",
+      "Umbrella"
+    ],
+    "faq": [
+      {
+        "question": "Is Vagamon crowded?",
+        "answer": "No, Vagamon is a pristine hidden gem and is much less commercialized than Munnar."
       }
     ]
   }

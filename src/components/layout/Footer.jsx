@@ -4,7 +4,17 @@ import trips from '../../data/trips.json';
 import { brand, navLinks } from '../../data/siteContent.js';
 
 export default function Footer() {
-  const popularTrips = trips.slice(0, 6);
+  const popularTripIds = [
+    'trip-kerala-highlands-backwaters',
+    'trip-kerala-weekend-escape',
+    'trip-gokarna-dandeli-adventure',
+    'trip-coorg-chikmagalur-explorer',
+    'trip-coorg-weekend-escape',
+    'trip-complete-tamil-nadu-hills',
+  ];
+  const popularTrips = popularTripIds
+    .map((id) => trips.find((trip) => trip.id === id))
+    .filter(Boolean);
 
   return (
     <footer className="site-footer">

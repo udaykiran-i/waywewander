@@ -121,7 +121,6 @@ export default function TripDetails() {
               </button>
               {openDay === day.day && (
                 <div className="itinerary-panel">
-                  <img src={day.image} alt={day.title} loading="lazy" decoding="async" />
                   <div>
                     <p><strong>Morning:</strong> {day.morning}</p>
                     <p><strong>Afternoon:</strong> {day.afternoon}</p>

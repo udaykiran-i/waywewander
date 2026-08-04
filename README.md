@@ -76,7 +76,7 @@ Important rules:
 - Keep `id` unique too. A good pattern is `trip-your-slug`.
 - `price` must be a number, not a string.
 - `categories` should use the existing filter names: `Adventure`, `International`, `Domestic`, `Family`, `Honeymoon`, `Weekend`, `Luxury`.
-- `heroImage`, `gallery`, and each itinerary `image` should be valid image URLs or public asset paths.
+- Do not include image URLs or image-generation fields in the JSON. This project keeps visuals separate from the trip data.
 - Do not remove fields unless the React code is updated to handle missing values.
 
 Use this pattern:
@@ -95,12 +95,6 @@ Use this pattern:
   "rating": 4.9,
   "reviewsCount": 100,
   "shortDescription": "One polished sentence for the trip card.",
-  "heroImage": "https://example.com/hero-image.jpg",
-  "gallery": [
-    "https://example.com/gallery-1.jpg",
-    "https://example.com/gallery-2.jpg",
-    "https://example.com/gallery-3.jpg"
-  ],
   "highlights": ["Highlight one", "Highlight two", "Highlight three"],
   "overview": "A premium overview paragraph for the trip details page.",
   "pickupLocation": "Airport or pickup point",
@@ -118,8 +112,7 @@ Use this pattern:
       "afternoon": "Afternoon plan.",
       "evening": "Evening plan.",
       "hotel": "Hotel or stay name/type",
-      "mealsIncluded": "Dinner",
-      "image": "https://example.com/day-1.jpg"
+      "mealsIncluded": "Dinner"
     }
   ],
   "inclusions": ["Inclusion one", "Inclusion two"],
@@ -150,15 +143,15 @@ Create one production-ready trip JSON object for my React travel website WayWeWa
 Return only valid JSON for a single object, no markdown and no explanation.
 
 Use exactly these fields:
-id, slug, title, location, categories, price, duration, travelDates, seatsLeft, rating, reviewsCount, shortDescription, heroImage, gallery, highlights, overview, pickupLocation, accommodation, transportation, meals, difficulty, altitude, weather, itinerary, inclusions, exclusions, packingList, faq, reviews.
+id, slug, title, location, categories, price, duration, travelDates, seatsLeft, rating, reviewsCount, shortDescription, highlights, overview, pickupLocation, accommodation, transportation, meals, difficulty, altitude, weather, itinerary, inclusions, exclusions, packingList, faq, reviews.
 
 Rules:
 - id must be "trip-" plus the slug.
 - slug must be lowercase words joined by hyphens.
 - price must be a number in INR.
 - categories must only use these values when relevant: Adventure, International, Domestic, Family, Honeymoon, Weekend, Luxury.
-- itinerary must include one object per day with: day, title, morning, afternoon, evening, hotel, mealsIncluded, image.
-- gallery must include 3 image URLs.
+- Do not include any image URLs or image-generation fields in the JSON.
+- itinerary must include one object per day with: day, title, morning, afternoon, evening, hotel, mealsIncluded.
 - highlights should include 4 concise items.
 - faq should include 2-4 questions.
 - reviews should include 1-3 realistic reviews.

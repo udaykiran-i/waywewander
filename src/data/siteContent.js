@@ -22,6 +22,7 @@ export const tripCategories = [
   'Adventure',
   'International',
   'Domestic',
+  'Hidden Gems',
   'Family',
   'Honeymoon',
   'Weekend',

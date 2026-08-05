@@ -839,7 +839,7 @@
     "gallery": [
       "https://images.unsplash.com/photo-1527334134460-f21a05ef62f3?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a29kYWlrYW5hbHxlbnwwfHwwfHx8MA%3D%3D",
       "https://images.unsplash.com/photo-1665481485578-4e54cf97c917?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXNoYXxlbnwwfHwwfHx8MA%3D%3D",
-    "https://images.unsplash.com/photo-1692792284356-f80113facd09?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a29kYWlrYW5hbHxlbnwwfHwwfHx8MA%3D%3D"
+      "https://images.unsplash.com/photo-1692792284356-f80113facd09?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a29kYWlrYW5hbHxlbnwwfHwwfHx8MA%3D%3D"
     ],
     "highlights": [
       "Visit the majestic Adiyogi Shiva Statue",
@@ -1800,6 +1800,1051 @@
       {
         "question": "Is Vagamon crowded?",
         "answer": "No, Vagamon is a pristine hidden gem and is much less commercialized than Munnar."
+      }
+    ]
+  },
+  {
+    "id": "www-udupi-coastal-01",
+    "slug": "udupi-coastal-hidden-trails",
+    "title": "Udupi Coastal Hidden Trails & Estuary Explorer",
+    "location": "Udupi, Karnataka",
+    "categories": [
+      "Domestic",
+      "Coastal",
+      "Beach",
+      "Hidden Gems",
+      "Weekend Getaway"
+    ],
+    "price": 12500,
+    "duration": "3 Days / 2 Nights",
+    "travelDates": [
+      "Every Friday - Sunday"
+    ],
+    "seatsLeft": 8,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "shortDescription": "Discover pristine columnar basaltic rock formations, serene backwaters, and untouched golden sand beaches along the Karnataka coastline.",
+    "heroImage": "https://images.unsplash.com/photo-1731847735530-40821bf905d9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVkdXBpfGVufDB8fDB8fHww",
+    "gallery": [
+      "https://images.unsplash.com/photo-1664266377437-b280eae37573?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dWR1cGl8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1731847735530-40821bf905d9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVkdXBpfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1527333133812-f9af0482c834?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dWR1cGl8ZW58MHx8MHx8fDA%3D"
+    ],
+    "highlights": [
+      "Boat ride to St. Mary's Island",
+      "Sunset at Delta Beach, Kodi Bengre",
+      "Heritage walk in Udupi",
+      "Secluded beaches and coastal cuisine"
+    ],
+    "overview": "Escape the tourist crowds and immerse yourself in the tranquil coastal beauty of Udupi. This 3-day curated trail takes you beyond the famous Sri Krishna Temple to discover breathtaking secluded beaches, unique estuarine ecosystems, and world-class coastal cuisine.",
+    "accommodation": "Boutique Coastal Homestay / Eco-Resort near Kodi Bengre",
+    "transportation": "Private AC Tempo Traveller / SUV for local sightseeing and boat transfers",
+    "meals": "2 Breakfasts, 3 Lunches, 2 Dinners",
+    "difficulty": "Easy",
+    "altitude": "Sea Level to 15m",
+    "weather": "Warm coastal breeze with evening humidity (26°C - 33°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Heritage, Temple Town & Kaup Lighthouse Sunset",
+        "morning": "Arrive in Udupi and check in to the homestay.",
+        "afternoon": "Visit the temple town and Kaup Lighthouse.",
+        "evening": "Sunset at the lighthouse and stroll along the beach.",
+        "hotel": "Boutique Coastal Homestay",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "St. Mary's Island & Delta Beach Backwaters",
+        "morning": "Board a ferry to St. Mary's Island.",
+        "afternoon": "Return for lunch and head to Kodi Bengre.",
+        "evening": "Boat ride through the backwaters and sunset by the estuary.",
+        "hotel": "Boutique Coastal Homestay",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Hoode Beach Sunrise & Departure",
+        "morning": "Sunrise walk at Hoode Beach.",
+        "afternoon": "Visit local markets and spice shops.",
+        "evening": "Departure transfer from Udupi station.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "2 nights accommodation",
+      "All meals specified",
+      "Round-trip ferry tickets",
+      "Backwater boat safari",
+      "All local transfers"
+    ],
+    "exclusions": [
+      "Train/flight tickets",
+      "Personal expenses",
+      "Water sports",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Cotton clothing",
+      "Swimwear",
+      "Walking shoes",
+      "Sunscreen",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "Is swimming safe at St. Mary's Island?",
+        "answer": "Swimming is not recommended on the rocky shores but there are safe zones on nearby beaches."
+      },
+      {
+        "question": "Are pure vegetarian options available?",
+        "answer": "Yes, Udupi is famous for vegetarian cuisine and seafood options are also available."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Sneha R.",
+        "rating": 5,
+        "date": "May 2026",
+        "comment": "Delta Beach and Kodi Bengre were absolute highlights!"
+      },
+      {
+        "user": "Aditya K.",
+        "rating": 4.5,
+        "date": "April 2026",
+        "comment": "Great mix of culture, food, and hidden coastal spots."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-01",
+    "slug": "hills-islands-falls-udupi",
+    "title": "Hills, Islands & Falls: Udupi, Agumbe & Kudlu Expedition",
+    "location": "Udupi & Western Ghats, Karnataka",
+    "categories": [
+      "Domestic",
+      "Expedition",
+      "Waterfalls",
+      "Islands",
+      "Hills",
+      "Hidden Gems"
+    ],
+    "price": 17500,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "shortDescription": "A power-packed journey combining volcanic rock islands, mist-shrouded hills, cascading jungle waterfalls, and coastal backwaters.",
+    "heroImage": "https://plus.unsplash.com/premium_photo-1665311539742-316504a6ec14?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFscGUlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582870495095-bfe299c87a3b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QWd1bWJlJTIwR2hhdHN8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1664266377437-b280eae37573?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S2F1cHxlbnwwfHwwfHx8MA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1665311539742-316504a6ec14?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFscGUlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "highlights": [
+      "Ferry to St. Mary's Island",
+      "Sunrise from Kundadri Hill",
+      "Trek to Kudlu Falls",
+      "Sunset backwater cruise"
+    ],
+    "overview": "The ultimate multi-ecosystem expedition designed for travelers who want it all. From the geological wonder of St. Mary's Island and serene estuaries to the lofty heights of Kundadri Hill and the wild jungle pools of Kudlu Falls, this 4-day journey offers a deep dive into coastal and highland Karnataka.",
+    "accommodation": "1 Night Heritage Stay in Agumbe + 2 Nights Beachside Resort in Udupi",
+    "transportation": "Private AC Tempo Traveller / 4x4 Support",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Moderate",
+    "altitude": "Sea Level to 850m",
+    "weather": "Humid coastal breeze to cool misty highland climate (20°C - 31°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Coastal Arrival & St. Mary's Island Explorer",
+        "morning": "Arrive in Udupi and take a ferry to St. Mary's Island.",
+        "afternoon": "Explore basaltic formations and lunch at Malpe.",
+        "evening": "Sunset beach walk at Hoode Beach.",
+        "hotel": "Beachside Resort, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Ascent to Agumbe Rainforest & Kundadri Sunset",
+        "morning": "Drive up the Agumbe Ghats.",
+        "afternoon": "Guided rainforest walk and local lunch.",
+        "evening": "Sunset view from Kundadri Hill.",
+        "hotel": "Heritage Stay, Agumbe",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Kudlu Falls Jungle Trek to Coastal Return",
+        "morning": "Trek through the forest to Kudlu Falls.",
+        "afternoon": "Return to Udupi and lunch.",
+        "evening": "Backwater sunset cruise at Kodi Bengre.",
+        "hotel": "Beachside Resort, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Kaup Lighthouse & Heritage Departure",
+        "morning": "Sunrise photography at Kaup Lighthouse.",
+        "afternoon": "Local shopping and farewell lunch.",
+        "evening": "Departure drop-off.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "St. Mary's Island ferry tickets",
+      "Kudlu Falls forest entry permits",
+      "Backwater boat safari",
+      "Guided expedition leader"
+    ],
+    "exclusions": [
+      "Travel to/from starting point",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Trekking shoes",
+      "Leech socks",
+      "Swimwear",
+      "Rain jacket",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "How strenuous is the Kudlu Falls trek?",
+        "answer": "It is a moderate 4 km round-trip jungle trail with stream crossings."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Rahul V.",
+        "rating": 5,
+        "date": "June 2026",
+        "comment": "Combining Kudlu Falls and St. Mary's Island in one trip is pure genius."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-02",
+    "slug": "northern-coastal-odyssey",
+    "title": "Northern Coastal Odyssey: Udupi, Murudeshwar & Honnavar",
+    "location": "Udupi, Murudeshwar & Honnavar, Karnataka",
+    "categories": [
+      "Domestic",
+      "Coastal",
+      "Mangroves",
+      "Architecture",
+      "Boat Safari",
+      "Hidden Gems"
+    ],
+    "price": 16800,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Friday - Monday"
+    ],
+    "seatsLeft": 8,
+    "rating": 4.8,
+    "reviewsCount": 39,
+    "shortDescription": "Journey north along Karnataka's dramatic coastline, featuring colossal Shiva statues, emerald mangrove boardwalks, and pristine beaches.",
+    "heroImage": "https://images.unsplash.com/photo-1622781656198-645b7981b671?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVydWRlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1646832050857-1f285c6072f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9ubmF2YXJ8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1622781656198-645b7981b671?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVydWRlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1590610984984-06f49070a6ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VWR1cGl8ZW58MHx8MHx8fDA%3D"
+    ],
+    "highlights": [
+      "Murudeshwar Shiva statue",
+      "Honnavar mangrove safari",
+      "Scenic highway drive via Maravanthe",
+      "Ancient forts and hidden coves"
+    ],
+    "overview": "Explore the vibrant cultural and natural wonders north of Udupi. This expedition highlights monumental temple architecture, serene riverine mangrove ecosystems in Honnavar, and legendary coastal lookouts.",
+    "accommodation": "2 Nights Beach Resort in Murudeshwar + 1 Night Eco-Lodge in Honnavar",
+    "transportation": "Dedicated AC Tempo Traveller",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Easy",
+    "altitude": "Sea Level",
+    "weather": "Warm tropical coastal weather with evening ocean breezes (26°C - 32°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Udupi to Maravanthe & Murudeshwar Arrival",
+        "morning": "Pickup from Udupi and scenic drive via Maravanthe.",
+        "afternoon": "Check in at Murudeshwar and enjoy a coastal lunch.",
+        "evening": "Temple visit and sunset by the sea.",
+        "hotel": "Beach Resort, Murudeshwar",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Netrani Island & Coastal Coves",
+        "morning": "Optional snorkeling or diving at Netrani Island.",
+        "afternoon": "Lunch and relax by the shore.",
+        "evening": "Sunset walk on Bhatkal beach.",
+        "hotel": "Beach Resort, Murudeshwar",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Honnavar Mangrove Board Walk & River Safari",
+        "morning": "Explore Honnavar's mangrove boardwalk.",
+        "afternoon": "Guided boat safari through the Sharavathi estuary.",
+        "evening": "Sunset viewpoint near Apsarakonda.",
+        "hotel": "Eco-Lodge, Honnavar",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Echo Lake & Return Journey",
+        "morning": "Visit Echo Lake and sea caves.",
+        "afternoon": "Farewell coastal lunch and return to Udupi.",
+        "evening": "Departure drop-off.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Honnavar mangrove boat safari",
+      "All ground transport",
+      "Trip captain assistance"
+    ],
+    "exclusions": [
+      "Optional Netrani scuba diving fees",
+      "Train/flight tickets",
+      "Personal expenses"
+    ],
+    "packingList": [
+      "Swimwear",
+      "Light cotton clothing",
+      "Sunglasses",
+      "Comfortable walking shoes"
+    ],
+    "faq": [
+      {
+        "question": "Is scuba diving at Netrani Island included?",
+        "answer": "Netrani diving is add-on and requires certification or discovery dive booking."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Ananya S.",
+        "rating": 4.9,
+        "date": "May 2026",
+        "comment": "The Honnavar mangrove boat ride felt like stepping into the Amazon."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-03",
+    "slug": "historic-coast-coves",
+    "title": "Historic Coast & Coves: Udupi to Gokarna Expedition",
+    "location": "Udupi, Murudeshwar & Gokarna, Karnataka",
+    "categories": [
+      "Domestic",
+      "History",
+      "Beaches",
+      "Forts",
+      "Culture",
+      "Hidden Gems"
+    ],
+    "price": 17200,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.8,
+    "reviewsCount": 31,
+    "shortDescription": "Explore ancient maritime history, overgrown forts, and dramatic crescent beaches stretching from Udupi to Gokarna.",
+    "heroImage": "https://images.unsplash.com/photo-1590610984984-06f49070a6ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VWR1cGl8ZW58MHx8MHx8fDA%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590610984984-06f49070a6ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VWR1cGl8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1593359652766-b77c5795bd65?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8R29rYXJuYXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1590610984628-a73b960c6e8b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHVkdXBpfGVufDB8fDB8fHww"
+    ],
+    "highlights": [
+      "Mirjan Fort ruins",
+      "Gokarna cliff trek",
+      "Temple heritage walk",
+      "Beach bonfire nights"
+    ],
+    "overview": "A journey blending coastal heritage, ancient forts, and stunning secluded coves. Follow the historic trade routes from Udupi up to the bohemian temple town of Gokarna, uncovering architectural marvels and pristine shorelines.",
+    "accommodation": "1 Night Udupi + 2 Nights Cliffside Cottages in Gokarna",
+    "transportation": "Dedicated AC Tempo Traveller",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Easy to Moderate",
+    "altitude": "Sea Level",
+    "weather": "Warm coastal weather with pleasant evening sea breezes (25°C - 32°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Udupi Heritage & Kaup Lighthouse",
+        "morning": "Arrival in Udupi and heritage walk.",
+        "afternoon": "Visit Kaup Lighthouse and beaches.",
+        "evening": "Drive north towards Murudeshwar.",
+        "hotel": "Coastal Hotel, Murudeshwar",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Mirjan Fort Exploration & Gokarna Arrival",
+        "morning": "Explore Mirjan Fort.",
+        "afternoon": "Check-in to Gokarna cottages.",
+        "evening": "Sunset walk on Kudle Beach.",
+        "hotel": "Cliffside Cottages, Gokarna",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Gokarna Cliff Trek & Om Beach",
+        "morning": "Guided cliff trek from Kudle to Om Beach.",
+        "afternoon": "Relax at Om Beach with water activities.",
+        "evening": "Beach bonfire and dinner.",
+        "hotel": "Cliffside Cottages, Gokarna",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Mahabaleshwar Temple & Return",
+        "morning": "Visit Mahabaleshwar Temple.",
+        "afternoon": "Farewell lunch and transfer back to Udupi.",
+        "evening": "Departure drop-off.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Mirjan Fort entry tickets and guided cliff trek",
+      "All ground transport",
+      "Bonfire arrangements"
+    ],
+    "exclusions": [
+      "Travel to/from tour start/end points",
+      "Personal shopping and watersports",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Walking shoes",
+      "Swimwear",
+      "Sunscreen",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "How difficult is the Gokarna cliff trek?",
+        "answer": "It is an easy-to-moderate coastal walk spanning around 5 km."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Vikram N.",
+        "rating": 4.9,
+        "date": "April 2026",
+        "comment": "Mirjan Fort was an absolute surprise—so photogenic and rich in history!"
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-04",
+    "slug": "malnad-meets-coast",
+    "title": "Malnad Meets Coast: Udupi, Kollur & Kodachadri Peak",
+    "location": "Udupi, Kollur & Kodachadri, Karnataka",
+    "categories": [
+      "Domestic",
+      "Mountain Peak",
+      "Temple Trail",
+      "Forest",
+      "Off-road",
+      "Hidden Gems"
+    ],
+    "price": 16500,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Friday - Monday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "shortDescription": "Conquer the legendary Kodachadri peak, pay respects at sacred Kollur Mookambika temple, and unwind on Udupi beaches.",
+    "heroImage": "https://images.unsplash.com/photo-1586078074298-05dca4848695?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VWR1cGl8ZW58MHx8MHx8fDA%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1691341439254-173e9dc763ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S29kYWNoYWRyaXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1783587463359-def3a6197ab3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S29sbHVyfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1586078074298-05dca4848695?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VWR1cGl8ZW58MHx8MHx8fDA%3D"
+    ],
+    "highlights": [
+      "4x4 jeep ride to Kodachadri",
+      "Sunset from Sarvajna Peetha",
+      "Kollur Mookambika temple",
+      "Beach days on Udupi coast"
+    ],
+    "overview": "Experience the striking contrast between sacred temple towns, rugged Western Ghats peaks, and golden beaches. This 4-day trail takes you deep into the heart of Malnad culture and breathtaking mountain vistas before returning to the Arabian Sea.",
+    "accommodation": "1 Night Malnad Homestay + 2 Nights Udupi Coastal Hotel",
+    "transportation": "Dedicated AC Tempo Traveller + 4x4 Jeeps",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Moderate",
+    "altitude": "Sea Level to 1,343m",
+    "weather": "Misty mountain heights and warm coastal lowlands (18°C - 31°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Udupi Coastal Welcome & Estuary",
+        "morning": "Arrival in Udupi and check in.",
+        "afternoon": "Visit Malpe beach and St. Mary's Island.",
+        "evening": "Kodi Bengre backwater sunset tour.",
+        "hotel": "Coastal Hotel, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Kollur Temple & Kodachadri Ghat Ascent",
+        "morning": "Visit Kollur Mookambika temple.",
+        "afternoon": "4x4 ascent to Kodachadri peak.",
+        "evening": "Sunset above the clouds.",
+        "hotel": "Malnad Foothills Homestay",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Arasinagundi Waterfall Trek to Udupi Return",
+        "morning": "Trek to Arasinagundi Waterfalls.",
+        "afternoon": "Drive back to Udupi and check in.",
+        "evening": "Beach evening at Padubidri.",
+        "hotel": "Coastal Hotel, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Kaup Lighthouse & Departure",
+        "morning": "Sunrise at Kaup Lighthouse.",
+        "afternoon": "Shopping and farewell lunch.",
+        "evening": "Departure drop-off.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Kodachadri 4x4 jeep safari charges",
+      "Forest entry and waterfall trek permits",
+      "Experienced trip leader"
+    ],
+    "exclusions": [
+      "Travel to/from tour start point",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Sturdy trekking shoes",
+      "Warm fleece",
+      "Leech socks",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "Is the Kodachadri jeep ride safe?",
+        "answer": "Yes, our experienced drivers navigate the off-road tracks safely using well-maintained 4x4 jeeps."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Manish P.",
+        "rating": 5,
+        "date": "May 2026",
+        "comment": "The 4x4 jeep ride to Kodachadri peak was thrilling, and the sunset above the clouds is unforgettable."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-05",
+    "slug": "coffee-coast-fusion",
+    "title": "Coffee & Coast Fusion: Udupi to Chikmagalur Expedition",
+    "location": "Udupi & Chikmagalur, Karnataka",
+    "categories": [
+      "Domestic",
+      "Coffee Plantation",
+      "Mountain Peaks",
+      "Coastal",
+      "Scenic Drive",
+      "Hidden Gems"
+    ],
+    "price": 18000,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.9,
+    "reviewsCount": 51,
+    "shortDescription": "Experience the ultimate transition from the fragrant coffee plantations of Chikmagalur to the golden sandy beaches of Udupi.",
+    "heroImage": "https://images.unsplash.com/photo-1739038034791-a60471396db0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpa21hZ2FsdXJ8ZW58MHx8MHx8fDA%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590610984984-06f49070a6ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dWR1cGl8ZW58MHx8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1726579710883-7040d0e6d379?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpa21hZ2FsdXJ8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1739038034791-a60471396db0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpa21hZ2FsdXJ8ZW58MHx8MHx8fDA%3D"
+    ],
+    "highlights": [
+      "Mullayanagiri peak",
+      "Coffee plantation tour",
+      "Scenic ghat drive",
+      "Coastal sunset dinner"
+    ],
+    "overview": "The best of both worlds. Start your journey amidst the rolling, mist-kissed coffee estates and highest peaks of Chikmagalur before descending to the sun-soaked shores and estuaries of Udupi.",
+    "accommodation": "2 Nights Coffee Plantation Estate Stay in Chikmagalur + 1 Night Beach Resort in Udupi",
+    "transportation": "Dedicated AC Tempo Traveller",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Moderate",
+    "altitude": "Sea Level to 1,930m",
+    "weather": "Cool highland climate and warm tropical coast (16°C - 31°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Ascent to Chikmagalur Coffee Plantations",
+        "morning": "Pickup and scenic drive up into the coffee hills.",
+        "afternoon": "Check-in and local Malnad lunch.",
+        "evening": "Coffee tasting and estate walk.",
+        "hotel": "Coffee Plantation Estate, Chikmagalur",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Mullayanagiri Peak & Baba Budangiri Trek",
+        "morning": "Early morning trek to Mullayanagiri.",
+        "afternoon": "Visit Baba Budangiri shrine and waterfalls.",
+        "evening": "Campfire and stargazing.",
+        "hotel": "Coffee Plantation Estate, Chikmagalur",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Ghat Drive Down to Udupi Coast",
+        "morning": "Check out and drive down to the coast.",
+        "afternoon": "Arrive in Udupi and check in.",
+        "evening": "Sunset at Kodi Bengre estuary.",
+        "hotel": "Beach Resort, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Kaup Lighthouse & Departure",
+        "morning": "Sunrise at Kaup Lighthouse.",
+        "afternoon": "Spice shopping and departure.",
+        "evening": "Drop-off at Udupi Railway Station.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Coffee plantation tour and tasting",
+      "Ground transport and guides",
+      "Forest permits"
+    ],
+    "exclusions": [
+      "Travel to/from starting point",
+      "Personal shopping and coffee purchases",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Warm jacket",
+      "Walking shoes",
+      "Swimwear",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "How strenuous is the Mullayanagiri trek?",
+        "answer": "The final stretch involves steep stone staircases and is rated moderate."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Divya R.",
+        "rating": 5,
+        "date": "June 2026",
+        "comment": "Waking up to coffee in Chikmagalur and ending with ocean sunsets in Udupi was absolute perfection."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-06",
+    "slug": "kudremukh-foothills-coastal-trail",
+    "title": "Kudremukh Foothills & Coastal Trail",
+    "location": "Udupi & Kudremukh National Park, Karnataka",
+    "categories": [
+      "Domestic",
+      "National Park",
+      "Trekking",
+      "Waterfalls",
+      "Coastal",
+      "Hidden Gems"
+    ],
+    "price": 17800,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.9,
+    "reviewsCount": 37,
+    "shortDescription": "Explore the rolling grasslands of Kudremukh National Park combined with pristine beaches and estuarine sunsets in Udupi.",
+    "heroImage": "https://images.unsplash.com/photo-1602148790632-bed46c290356?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S3VkcmVtdWtofGVufDB8fDB8fHww",
+    "gallery": [
+      "https://images.unsplash.com/photo-1599823855655-990696275157?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q29hc3RhbCUyMFRyYWlsfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1753605854187-db915ef9fa7e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S3VkcmVtdWtofGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1602148790632-bed46c290356?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S3VkcmVtdWtofGVufDB8fDB8fHww"
+    ],
+    "highlights": [
+      "Guided trek through Kudremukh hills",
+      "Hanumana Gundi Waterfalls",
+      "Wildlife and birdwatching",
+      "Coastal relaxation and boat rides"
+    ],
+    "overview": "A pristine nature expedition linking the horse-faced peaks of Kudremukh National Park with the tranquil shores of Udupi. Designed for wildlife enthusiasts, hikers, and landscape photographers.",
+    "accommodation": "2 Nights Wilderness Homestay near Kalasa/Kudremukh + 1 Night Beach Resort in Udupi",
+    "transportation": "Dedicated AC Tempo Traveller / 4x4 Support",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Moderate to Challenging",
+    "altitude": "Sea Level to 1,892m",
+    "weather": "Misty mountain climate transitioning to warm coastal weather (17°C - 31°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Drive to Kudremukh Wilderness",
+        "morning": "Pickup from Udupi and scenic drive into the national park foothills.",
+        "afternoon": "Check-in to a wilderness homestay and traditional Malnad lunch.",
+        "evening": "Evening nature trail and birdwatching.",
+        "hotel": "Wilderness Homestay, Kudremukh",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Kudremukh Trek & Hanumana Gundi Falls",
+        "morning": "Guided trek through rolling hills and shola forests.",
+        "afternoon": "Visit Hanumana Gundi Waterfalls and lunch.",
+        "evening": "Bonfire and storytelling.",
+        "hotel": "Wilderness Homestay, Kudremukh",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Kalasa Temple & Coast Descent",
+        "morning": "Visit Kalaseshwara temple and drive down to the coast.",
+        "afternoon": "Check-in to beach resort and coastal lunch.",
+        "evening": "Sunset at Kodi Bengre backwaters.",
+        "hotel": "Beach Resort, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Kaup Lighthouse & Departure",
+        "morning": "Sunrise at Kaup beach and lighthouse.",
+        "afternoon": "Local spice shopping and farewell lunch.",
+        "evening": "Departure transfer.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Kudremukh forest entry permits and guide fees",
+      "All ground transport",
+      "Bonfire arrangements"
+    ],
+    "exclusions": [
+      "Travel to/from tour start point",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Trekking boots",
+      "Leech socks",
+      "Warm layers",
+      "Swimwear",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "Are Kudremukh treks guaranteed?",
+        "answer": "Treks depend on forest department permissions and weather conditions, but alternative scenic trails are provided when needed."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Siddharth K.",
+        "rating": 5,
+        "date": "May 2026",
+        "comment": "Kudremukh rolling green hills are ethereal. Combining it with Udupi's coast makes this the ultimate escape."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-07",
+    "slug": "cultural-trail",
+    "title": "Cultural Trail: Udupi, Karkala, Moodabidri & Dharmasthala",
+    "location": "Udupi, Karkala, Moodabidri & Dharmasthala, Karnataka",
+    "categories": [
+      "Domestic",
+      "Heritage",
+      "Architecture",
+      "Temple Trail",
+      "Culture",
+      "Hidden Gems"
+    ],
+    "price": 15800,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 8,
+    "rating": 4.8,
+    "reviewsCount": 34,
+    "shortDescription": "Immerse yourself in centuries of architectural brilliance, Jain basadis, monolithic statues, and ancient temple traditions across coastal Karnataka.",
+    "heroImage": "https://images.unsplash.com/photo-1621655217863-229700954ceb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFscGUlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D",
+    "gallery": [
+      "https://images.unsplash.com/photo-1656354311057-f48aa6aad636?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S2Fya2FsYXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1595931320730-c4589902db9a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dWR1cGl8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1621655217863-229700954ceb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFscGUlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D"
+    ],
+    "highlights": [
+      "42-foot Bahubali statue",
+      "1000-pillar Jain Basadi",
+      "Temple heritage tour",
+      "Traditional cuisine tasting"
+    ],
+    "overview": "A deep dive into the rich art, architecture, and spiritual heritage of coastal and Malnad Karnataka. Discover magnificent Jain temples with intricate stone pillars, colossal monolithic statues, and centuries-old living traditions.",
+    "accommodation": "2 Nights Udupi Heritage Hotel + 1 Night Dharmasthala Guest Lodge",
+    "transportation": "Dedicated AC Tempo Traveller with cultural storyteller guide",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Easy",
+    "altitude": "Sea Level to 150m",
+    "weather": "Warm tropical climate with pleasant temple courtyards (26°C - 32°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Udupi Temple Town & Chariot Street",
+        "morning": "Arrival in Udupi and guided temple walk.",
+        "afternoon": "Visit local weaver cooperatives and lunch.",
+        "evening": "Sunset at Malpe beach.",
+        "hotel": "Heritage Hotel, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Karkala Monolithic Statues & St. Lawrence Shrine",
+        "morning": "Drive to Karkala and visit Bahubali statue.",
+        "afternoon": "Explore Attur Shrine and lunch.",
+        "evening": "Return to Udupi for cultural dinner.",
+        "hotel": "Heritage Hotel, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Moodabidri Thousand Pillars & Dharmasthala",
+        "morning": "Explore Moodabidri's 1000 pillar temple.",
+        "afternoon": "Drive to Dharmasthala, temple and museum visit.",
+        "evening": "Community dinner and check-in.",
+        "hotel": "Guest Lodge, Dharmasthala",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Ratnagiri Manjunatha & Return",
+        "morning": "Morning visit to Bahubali hill statue and craft village.",
+        "afternoon": "Farewell lunch and return transfer.",
+        "evening": "Departure drop-off.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Special entry tickets and museum passes",
+      "Ground transfers"
+    ],
+    "exclusions": [
+      "Travel to/from tour start point",
+      "Personal shopping and offerings",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Modest clothing",
+      "Sandals",
+      "Sunglasses",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "Is there a strict dress code for temples?",
+        "answer": "Yes, modest clothing covering shoulders and knees is required for entering temple sanctums."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Meenakshi L.",
+        "rating": 4.9,
+        "date": "April 2026",
+        "comment": "The 1000-pillar temple in Moodabidri left us speechless."
+      }
+    ]
+  },
+  {
+    "id": "www-phase3-08",
+    "slug": "deep-malnad-waterfalls",
+    "title": "Deep Malnad Waterfalls: Udupi, Agumbe, Varanga & Kudlu Trail",
+    "location": "Udupi, Agumbe & Varanga, Karnataka",
+    "categories": [
+      "Domestic",
+      "Waterfalls",
+      "Rainforest",
+      "Jungle Trek",
+      "Lake Temple",
+      "Hidden Gems"
+    ],
+    "price": 17000,
+    "duration": "4 Days / 3 Nights",
+    "travelDates": [
+      "Every Thursday - Sunday"
+    ],
+    "seatsLeft": 6,
+    "rating": 4.9,
+    "reviewsCount": 44,
+    "shortDescription": "Chase cascading jungle waterfalls, explore the floating Jain temple of Varanga, and hike through pristine rainforests in the heart of Malnad.",
+    "heroImage": "https://images.unsplash.com/photo-1578378377576-2ed7065bdb87?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QWd1bWJlfGVufDB8fDB8fHww",
+    "gallery": [
+      "https://images.unsplash.com/photo-1567532740068-973e9c6b358e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2FybmF0YWthJTIwd2F0ZXJmYWxsfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1713970763689-049fce3dfe91?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmFyYW5nYXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1578378377576-2ed7065bdb87?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QWd1bWJlfGVufDB8fDB8fHww"
+    ],
+    "highlights": [
+      "Varanga floating lake temple",
+      "Barkana and Kudlu waterfall treks",
+      "Agumbe rainforest biodiversity",
+      "Authentic Malnad food"
+    ],
+    "overview": "A dream expedition for waterfall chasers and nature lovers. Explore hidden tiered waterfalls inside evergreen rainforests, boat across a mystical lake temple in Varanga, and unwind on the coast.",
+    "accommodation": "2 Nights Heritage Plantation Stay in Agumbe + 1 Night Coastal Hotel in Udupi",
+    "transportation": "Dedicated AC Tempo Traveller with local 4x4 support",
+    "meals": [
+      "3 Breakfasts",
+      "4 Lunches",
+      "3 Dinners"
+    ],
+    "difficulty": "Moderate",
+    "altitude": "Sea Level to 700m",
+    "weather": "Misty rainforest canopy and warm coastal air (20°C - 31°C)",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Ascent to Agumbe Rainforest & Sunset",
+        "morning": "Pickup and drive up to Agumbe.",
+        "afternoon": "Guided rainforest walk and Malnad lunch.",
+        "evening": "Agumbe sunset viewpoint.",
+        "hotel": "Heritage Plantation Stay, Agumbe",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 2,
+        "title": "Barkana & Jogi Waterfall Treks",
+        "morning": "Guided trek to Barkana Falls.",
+        "afternoon": "Lunch and hike to Jogi Falls.",
+        "evening": "Campfire and stargazing.",
+        "hotel": "Heritage Plantation Stay, Agumbe",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 3,
+        "title": "Varanga Floating Lake Temple & Coastal Descent",
+        "morning": "Visit Varanga Kere Basadi and boat ride.",
+        "afternoon": "Drive down to Udupi and coastal lunch.",
+        "evening": "Kodi Bengre backwater sunset cruise.",
+        "hotel": "Coastal Hotel, Udupi",
+        "mealsIncluded": "Breakfast, Lunch, Dinner"
+      },
+      {
+        "day": 4,
+        "title": "Kaup Lighthouse & Departure",
+        "morning": "Sunrise at Kaup Lighthouse.",
+        "afternoon": "Spice shopping and farewell lunch.",
+        "evening": "Departure transfer.",
+        "hotel": "Check-out",
+        "mealsIncluded": "Breakfast, Lunch"
+      }
+    ],
+    "inclusions": [
+      "3 nights accommodation",
+      "All meals specified",
+      "Varanga lake temple boat ride tickets",
+      "Forest entry permits and guides",
+      "All ground transport"
+    ],
+    "exclusions": [
+      "Travel to/from tour start point",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "packingList": [
+      "Trekking boots",
+      "Leech socks",
+      "Rain poncho",
+      "Swimwear",
+      "Reusable water bottle"
+    ],
+    "faq": [
+      {
+        "question": "Are leeches active on waterfall treks?",
+        "answer": "Yes, during monsoon and post-monsoon months, leech socks and repellents are recommended."
+      }
+    ],
+    "reviews": [
+      {
+        "user": "Naveen T.",
+        "rating": 5,
+        "date": "May 2026",
+        "comment": "Varanga floating temple is magical, and the waterfall treks in Agumbe were world-class."
       }
     ]
   }

@@ -104,23 +104,6 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section">
-        <div className="container split-layout">
-          <div>
-            <span className="eyebrow">Common questions</span>
-            <h2>Clear answers before you plan</h2>
-          </div>
-          <div className="faq-list">
-            {homeFaqs.map((item) => (
-              <details key={item.question}>
-                <summary>{item.question}</summary>
-                <p>{item.answer}</p>
-              </details>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section className="section" id="callback">
         <div className="container callback-panel">
           <div>

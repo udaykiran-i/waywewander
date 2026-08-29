@@ -23,7 +23,7 @@ async function request(path, options = {}, accessToken) {
 }
 
 export async function getPublishedReviews() {
-  return request('/rest/v1/published_reviews?select=*&order=published_at.desc');
+  return request('/rest/v1/published_reviews?select=*&order=overall_rating.desc,published_at.desc');
 }
 
 export async function submitReview(form) {

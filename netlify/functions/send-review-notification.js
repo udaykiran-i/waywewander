@@ -31,7 +31,7 @@ export default async (request) => {
     ].map(([label, value]) => `<tr><td>${label}</td><td>${escapeHtml(value)}/5</td></tr>`).join('');
 
     const { data, error } = await resend.emails.send({
-      from: 'WayWeWander <noreply@wearewaywewander.com>',
+      from: 'WayWeWander <noreply@waywewander.com>',
       to: [process.env.REVIEW_NOTIFICATION_EMAIL || 'wearewaywewander@gmail.com'],
       replyTo: review.email,
       subject: `New traveler review from ${escapeHtml(review.full_name)}`,

@@ -7,6 +7,28 @@ function Stars({ value }) {
   return <span className="review-stars" aria-label={`${value} out of 5 stars`}>{[1, 2, 3, 4, 5].map((star) => <FaStar className={star <= Math.round(value) ? 'is-filled' : ''} key={star} aria-hidden="true" />)}</span>;
 }
 
+function selectFeaturedReviews(reviews, limit = 5) {
+  const groups = new Map();
+
+  // Reviews arrive ordered by rating, then approval date. Preserve that order inside each trip group.
+  reviews.forEach((review) => {
+    const tripKey = review.trip_name.trim().toLowerCase();
+    if (!groups.has(tripKey)) groups.set(tripKey, []);
+    groups.get(tripKey).push(review);
+  });
+
+  const queues = [...groups.values()];
+  const selected = [];
+
+  while (selected.length < limit && queues.some((queue) => queue.length)) {
+    queues.forEach((queue) => {
+      if (selected.length < limit && queue.length) selected.push(queue.shift());
+    });
+  }
+
+  return selected;
+}
+
 export default function TravelerReviews() {
   const [showForm, setShowForm] = useState(false);
   const [reviews, setReviews] = useState([]);
@@ -19,6 +41,7 @@ export default function TravelerReviews() {
     if (!reviews.length) return null;
     return reviews.reduce((total, review) => total + review.overall_rating, 0) / reviews.length;
   }, [reviews]);
+  const featuredReviews = useMemo(() => selectFeaturedReviews(reviews), [reviews]);
 
   return (
     <section className="section traveler-reviews" id="traveler-reviews">
@@ -36,9 +59,9 @@ export default function TravelerReviews() {
         )}
       </div>
 
-      {reviews.length ? (
+      {featuredReviews.length ? (
         <div className="container review-grid">
-          {reviews.map((review) => (
+          {featuredReviews.map((review) => (
             <article className="review-card" key={review.id}>
               <FaQuoteLeft className="review-card__quote" aria-hidden="true" />
               <Stars value={review.overall_rating} />

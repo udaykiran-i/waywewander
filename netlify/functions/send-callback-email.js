@@ -131,7 +131,7 @@ export default async (request, context) => {
     `;
 
     const data = await resend.emails.send({
-      from: 'WayWeWander <noreply@wearewaywewander.com>',
+      from: 'WayWeWander <noreply@waywewander.com>',
       to: ['wearewaywewander@gmail.com'],
       subject: `Callback Request from ${fullName}`,
       html,

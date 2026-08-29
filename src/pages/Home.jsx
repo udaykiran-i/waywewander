@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import PageTransition from '../components/PageTransition.jsx';
 import Seo from '../components/Seo.jsx';
 import CallbackForm from '../components/forms/CallbackForm.jsx';
+import TravelerReviews from '../components/TravelerReviews.jsx';
 import TripCard from '../components/trips/TripCard.jsx';
 import trips from '../data/trips.json';
 import {
@@ -10,7 +11,6 @@ import {
   brand,
   homeFaqs,
   partnerNames,
-  testimonials,
   travelStats,
   whyChoose,
 } from '../data/siteContent.js';
@@ -104,30 +104,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* COMMENTED OUT FOR FUTURE USE - Uncomment when testimonials are available
-      <section className="section">
-        <div className="container section-heading">
-          <span className="eyebrow">Traveler notes</span>
-          <h2>Trusted by travelers who care about details</h2>
-        </div>
-        <div className="container testimonial-grid">
-          {testimonials.map((testimonial) => (
-            <article className="testimonial-card" key={testimonial.name}>
-              <p>{testimonial.quote}</p>
-              <strong>{testimonial.name}</strong>
-              <span>{testimonial.place}</span>
-            </article>
-          ))}
-        </div>
-      </section>
-      */}
-      <section className="section">
-        <div className="container section-heading">
-          <span className="eyebrow">Traveler notes</span>
-          <h2>We are working on it, let's travel soon !!</h2>
-        </div>
-      </section>
-
       <section className="section section--image-band">
         <div className="container image-band-content">
           <span className="eyebrow">Travel stories</span>
@@ -181,6 +157,8 @@ export default function Home() {
           <CallbackForm sourcePage="Home" />
         </div>
       </section>
+
+      <TravelerReviews />
     </PageTransition>
   );
 }

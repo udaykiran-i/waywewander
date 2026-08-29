@@ -95,7 +95,7 @@ export default function ReviewForm() {
           <div className="review-rating" key={field.name}>
             <span>{field.label}</span>
             <div className="star-input" aria-label={`${field.label} rating`}>
-              {[1, 2, 3, 4, 5].map((value) => (
+              {[5, 4, 3, 2, 1].map((value) => (
                 <label key={value} title={`${value} out of 5`}>
                   <input
                     type="radio"

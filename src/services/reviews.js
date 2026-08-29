@@ -18,7 +18,7 @@ async function request(path, options = {}, accessToken) {
     headers: headers(accessToken, options.headers),
   });
   if (!response.ok) throw new Error('Review request failed.');
-  if (response.status === 204) return null;
+  if (response.status === 204 || !response.headers.get('content-type')?.includes('application/json')) return null;
   return response.json();
 }
 

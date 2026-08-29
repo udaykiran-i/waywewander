@@ -32,6 +32,8 @@ export default function ReviewAdmin() {
   };
 
   const changeStatus = async (id, status) => {
+    const action = status === 'approved' ? 'approve and publish' : 'reject';
+    if (!window.confirm(`Are you sure you want to ${action} this review?`)) return;
     setBusy(true);
     try { await updateReviewStatus(id, status, session.access_token); await loadReviews(); } catch { setError('Could not update this review.'); }
     finally { setBusy(false); }

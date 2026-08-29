@@ -7,6 +7,7 @@ import Contact from './pages/Contact.jsx';
 import Home from './pages/Home.jsx';
 import NotFound from './pages/NotFound.jsx';
 import PolicyPage from './pages/PolicyPage.jsx';
+import ReviewAdmin from './pages/ReviewAdmin.jsx';
 import TripDetails from './pages/TripDetails.jsx';
 import Trips from './pages/Trips.jsx';
 
@@ -44,6 +45,7 @@ function AnimatedRoutes() {
             <Route path="/trip/:slug" element={<TripDetails />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/admin/reviews" element={<ReviewAdmin />} />
             <Route path="/privacy-policy" element={<PolicyPage type="privacy" />} />
             <Route path="/terms-and-conditions" element={<PolicyPage type="terms" />} />
             <Route path="/cancellation-policy" element={<PolicyPage type="cancellation" />} />

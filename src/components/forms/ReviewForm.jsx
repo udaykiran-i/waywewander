@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { FaCheckCircle, FaPaperPlane, FaStar } from 'react-icons/fa';
-import { encodeFormData } from '../../utils/formatters.js';
+import { submitReview } from '../../services/reviews.js';
 
 const ratingFields = [
   { name: 'tripPlanning', label: 'Travel arrangements' },
@@ -58,14 +58,7 @@ export default function ReviewForm() {
     setError('');
 
     try {
-      const response = await fetch('/', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: encodeFormData({ 'form-name': 'traveler-review', ...form, consent: form.consent ? 'yes' : 'no' }),
-      });
-
-      if (!response.ok) throw new Error('Review submission failed');
-
+      await submitReview(form);
       setStatus('success');
       setForm(initialForm);
     } catch {
@@ -75,9 +68,7 @@ export default function ReviewForm() {
   };
 
   return (
-    <form className="review-form" name="traveler-review" data-netlify="true" method="POST" onSubmit={submitForm} noValidate>
-      <input type="hidden" name="form-name" value="traveler-review" />
-      <p className="sr-only"><label>Do not fill this in if you are human: <input name="bot-field" /></label></p>
+    <form className="review-form" onSubmit={submitForm} noValidate>
       <p className="review-form__required"><span aria-hidden="true">*</span> Required fields</p>
       <div className="form-grid">
         <label>

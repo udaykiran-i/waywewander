@@ -131,6 +131,11 @@ export const policyPages = {
           'Your information is used to respond to inquiries, prepare travel recommendations, coordinate trip planning, and improve our service quality.',
       },
       {
+        heading: 'Traveler reviews',
+        body:
+          'When you submit a review, we retain the contact details needed to verify it. We publish only the review details you consent to share, such as your name, trip, ratings, and feedback, after verification.',
+      },
+      {
         heading: 'Data sharing',
         body:
           'We share only the details required with trusted travel partners when a quote, booking, or trip operation requires it.',

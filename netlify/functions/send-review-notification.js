@@ -30,7 +30,7 @@ export default async (request) => {
       ['Overall experience', review.overall_rating],
     ].map(([label, value]) => `<tr><td>${label}</td><td>${escapeHtml(value)}/5</td></tr>`).join('');
 
-    await resend.emails.send({
+    const { data, error } = await resend.emails.send({
       from: 'WayWeWander <noreply@wearewaywewander.com>',
       to: [process.env.REVIEW_NOTIFICATION_EMAIL || 'wearewaywewander@gmail.com'],
       replyTo: review.email,
@@ -38,7 +38,16 @@ export default async (request) => {
       html: `<!doctype html><html><body style="font-family:Arial,sans-serif;color:#1f2937"><h2>New traveler review awaiting approval</h2><p><strong>${escapeHtml(review.full_name)}</strong> reviewed <strong>${escapeHtml(review.trip_name)}</strong>.</p><p>Email: <a href="mailto:${escapeHtml(review.email)}">${escapeHtml(review.email)}</a></p><table style="border-collapse:collapse"><tbody>${ratingRows}</tbody></table><p style="white-space:pre-wrap">${escapeHtml(review.review)}</p><p><a href="${process.env.SITE_URL || 'https://waywewander.com'}/admin/reviews">Open review moderation</a></p></body></html>`,
     });
 
-    return new Response(JSON.stringify({ success: true }), { headers: { 'Content-Type': 'application/json' } });
+    if (error) {
+      console.error('Resend rejected review notification:', error);
+      return new Response(JSON.stringify({ success: false, error: error.message }), {
+        status: 502,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+
+    console.log('Review notification sent:', data?.id);
+    return new Response(JSON.stringify({ success: true, id: data?.id }), { headers: { 'Content-Type': 'application/json' } });
   } catch (error) {
     console.error('Review notification email failed:', error);
     return new Response('Failed to send notification', { status: 500 });

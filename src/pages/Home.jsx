@@ -104,22 +104,6 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section section--image-band">
-        <div className="container image-band-content">
-          <span className="eyebrow">Travel stories</span>
-          <h2>Small planning choices can change the whole journey</h2>
-          <div className="blog-grid">
-            {blogPreviews.map((blog) => (
-              <article key={blog.title}>
-                <span>{blog.category}</span>
-                <h3>{blog.title}</h3>
-                <p>{blog.date}</p>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section className="section">
         <div className="container split-layout">
           <div>

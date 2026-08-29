@@ -121,14 +121,6 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section section--tinted">
-        <div className="container partner-row" aria-label="Travel partners">
-          {partnerNames.map((partner) => (
-            <span key={partner}>{partner}</span>
-          ))}
-        </div>
-      </section>
-
       <section className="section" id="callback">
         <div className="container callback-panel">
           <div>

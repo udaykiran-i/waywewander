@@ -22,6 +22,7 @@ export default async (request) => {
     }
 
     const review = payload.record;
+    const siteBaseUrl = (process.env.SITE_URL || 'https://waywewander.com').replace(/\/+$/, '');
     const ratingRows = [
       ['Travel arrangements', review.trip_planning],
       ['Driver and transport', review.driver_transport],
@@ -35,7 +36,7 @@ export default async (request) => {
       to: [process.env.REVIEW_NOTIFICATION_EMAIL || 'wearewaywewander@gmail.com'],
       replyTo: review.email,
       subject: `New traveler review from ${escapeHtml(review.full_name)}`,
-      html: `<!doctype html><html><body style="font-family:Arial,sans-serif;color:#1f2937"><h2>New traveler review awaiting approval</h2><p><strong>${escapeHtml(review.full_name)}</strong> reviewed <strong>${escapeHtml(review.trip_name)}</strong>.</p><p>Email: <a href="mailto:${escapeHtml(review.email)}">${escapeHtml(review.email)}</a></p><table style="border-collapse:collapse"><tbody>${ratingRows}</tbody></table><p style="white-space:pre-wrap">${escapeHtml(review.review)}</p><p><a href="${process.env.SITE_URL || 'https://waywewander.com'}/admin/reviews">Open review moderation</a></p></body></html>`,
+      html: `<!doctype html><html><body style="font-family:Arial,sans-serif;color:#1f2937"><h2>New traveler review awaiting approval</h2><p><strong>${escapeHtml(review.full_name)}</strong> reviewed <strong>${escapeHtml(review.trip_name)}</strong>.</p><p>Email: <a href="mailto:${escapeHtml(review.email)}">${escapeHtml(review.email)}</a></p><table style="border-collapse:collapse"><tbody>${ratingRows}</tbody></table><p style="white-space:pre-wrap">${escapeHtml(review.review)}</p><p><a href="${siteBaseUrl}/admin/reviews">Open review moderation</a></p></body></html>`,
     });
 
     if (error) {

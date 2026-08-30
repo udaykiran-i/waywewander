@@ -2847,5 +2847,836 @@
         "comment": "Varanga floating temple is magical, and the waterfall treks in Agumbe were world-class."
       }
     ]
+  },
+  {
+  "id": "trip-himachal-manali-kasol-3n4d",
+  "slug": "manali-kasol-solang-atal-tunnel-3n4d-tour-package",
+  "title": "Himachal Manali & Kasol Adventure Tour Package",
+  "location": "Chandigarh • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu • Kasol",
+  "categories": [
+    "Domestic",
+    "Adventure",
+    "Nature",
+    "Friends",
+    "Family"
+  ],
+  "price": null,
+  "duration": "4 Days / 3 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "A compact Himalayan escape covering Kullu, Manali, Solang Valley, Atal Tunnel, Sissu and Kasol, carefully arranged to maximise sightseeing without unnecessary backtracking.",
+  "heroImage": "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/68fgPaI9dRA/download?force=true",
+    "https://unsplash.com/photos/XbS76mRgMig/download?force=true",
+    "https://unsplash.com/photos/1v5wZ3mmE2M/download?force=true"
+  ],
+  "highlights": [
+    "Scenic Chandigarh to Kullu–Manali Himalayan drive",
+    "Hidimba Devi Temple and Old Manali",
+    "Solang Valley adventure and mountain views",
+    "Atal Tunnel and Sissu in the Lahaul Valley",
+    "Hidden Gem: Chalal riverside village walk",
+    "Kasol and Manikaran Sahib",
+    "Breakfast included throughout the stay"
+  ],
+  "overview": "This four-day Himalayan circuit is designed for travellers who want the essential Manali and Kasol experience without wasting time on excessive sightseeing. The route progresses naturally from Chandigarh through Kullu and Manali, then north towards Solang Valley, Atal Tunnel and Sissu before moving south-east into the Parvati Valley through Kasol and Manikaran.",
+  "accommodation": "2 nights in Manali and 1 night in Kasol. Hotel category and room type as per selected package.",
+  "transportation": "Private AC vehicle with professional chauffeur for the complete Chandigarh–Himachal–Chandigarh circuit.",
+  "meals": "Daily breakfast included. Lunch, dinner, snacks and beverages are not included.",
+  "difficulty": "Easy",
+  "altitude": "Manali approx. 2,050 m; Atal Tunnel approx. 3,100 m",
+  "weather": "Mountain weather can change rapidly. Temperatures vary considerably between Manali, Solang, Lahaul and Kasol.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Kullu & Manali",
+      "morning": "Pickup from Chandigarh and begin the scenic Himalayan drive towards Kullu and Manali.",
+      "afternoon": "Pass through the Beas Valley with scenic stops around the Kullu region. Continue towards Manali and check in.",
+      "evening": "Visit Hidimba Devi Temple, explore Old Manali and enjoy a relaxed walk around Mall Road.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Solang Valley, Atal Tunnel & Sissu",
+      "morning": "Drive towards Solang Valley and Dhundi. Enjoy the mountain scenery and optional seasonal adventure activities.",
+      "afternoon": "Proceed through Atal Tunnel into Lahaul and explore Sissu, including the waterfall and valley surroundings.",
+      "evening": "Return to Manali. Optional relaxed stop at Vashisht village and its hot-water springs.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Manali to Kasol, Chalal & Manikaran",
+      "morning": "Check out and travel through Kullu and Bhuntar towards the Parvati Valley.",
+      "afternoon": "Explore Kasol and take the riverside walk towards Chalal, a quieter village experience away from the main tourist road.",
+      "evening": "Continue to Manikaran Sahib, visit the Gurudwara and hot springs, then return to Kasol.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Kasol to Chandigarh",
+      "morning": "Breakfast and check out from Kasol.",
+      "afternoon": "Begin the return journey through Bhuntar, Mandi and the Chandigarh approach.",
+      "evening": "Drop-off in Chandigarh. The final day is intentionally transfer-focused to keep the package realistic.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Chandigarh pickup and drop",
+    "Private AC vehicle with professional driver",
+    "2 nights accommodation in Manali",
+    "1 night accommodation in Kasol",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Entry fees to monuments and attractions",
+    "Adventure activities",
+    "Rohtang permit and applicable charges",
+    "Local guides or special vehicle charges",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Warm layers and light jacket",
+    "Comfortable walking shoes",
+    "Sunscreen and sunglasses",
+    "Personal medicines",
+    "Power bank",
+    "Valid government ID"
+  ],
+  "faq": [
+    {
+      "question": "Why is Chandigarh recommended instead of Delhi?",
+      "answer": "For a four-day mountain package, Chandigarh reduces the long plains transfer and gives travellers more usable time in Manali and Kasol."
+    },
+    {
+      "question": "Is Rohtang included?",
+      "answer": "Rohtang can be added only when officially accessible and applicable permit and vehicle conditions are satisfied. Sissu through Atal Tunnel is the planned alternative."
+    },
+    {
+      "question": "What is the hidden gem in this package?",
+      "answer": "Chalal is included as the main hidden-gem experience, with Vashisht as an optional quieter village stop."
+    }
+  ]
+  },
+  {
+  "id": "trip-himachal-kasol-manali-4n5d",
+  "slug": "kasol-manali-rohtang-solang-4n5d-tour-package",
+  "title": "Kasol, Manali & Rohtang Himalayan Adventure Tour",
+  "location": "Delhi • Kasol • Manikaran • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu • Rohtang",
+  "categories": [
+    "Domestic",
+    "Adventure",
+    "Nature",
+    "Friends",
+    "Family"
+  ],
+  "price": null,
+  "duration": "5 Days / 4 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "Explore the Parvati Valley, Kasol and Manikaran before moving into Kullu and Manali for Solang Valley, Atal Tunnel, Sissu and a conditional Rohtang excursion.",
+  "heroImage": "https://unsplash.com/photos/XbS76mRgMig/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/68fgPaI9dRA/download?force=true",
+    "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true",
+    "https://unsplash.com/photos/1v5wZ3mmE2M/download?force=true"
+  ],
+  "highlights": [
+    "Kasol and Parvati Valley",
+    "Manikaran Sahib and natural hot springs",
+    "Hidden Gem: Chalal and Katagla",
+    "Kullu Valley",
+    "Hidimba Devi Temple and Old Manali",
+    "Solang Valley",
+    "Atal Tunnel and Sissu",
+    "Rohtang Pass subject to permit and road conditions",
+    "Naggar Castle and Jana Waterfall as optional hidden gems"
+  ],
+  "overview": "A well-paced five-day Himalayan circuit beginning in Delhi and entering Himachal through the Parvati Valley. Kasol and Manikaran are completed first, followed by Kullu and Manali. The final Manali day focuses on the Solang–Atal Tunnel–Sissu corridor, with Rohtang added only when conditions allow.",
+  "accommodation": "2 nights in Kasol and 2 nights in Manali. Hotel category and room type as per selected package.",
+  "transportation": "Private AC vehicle with professional chauffeur from Delhi and throughout the Himachal circuit.",
+  "meals": "Daily breakfast included. Other meals are excluded.",
+  "difficulty": "Easy",
+  "altitude": "Manali approx. 2,050 m; Rohtang approx. 3,978 m when accessible",
+  "weather": "Mountain weather is highly variable. Higher elevations can be significantly colder and road conditions can change quickly.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Kasol",
+      "morning": "Pickup from Delhi and begin the journey towards Himachal via Chandigarh, Bilaspur, Mandi and Bhuntar.",
+      "afternoon": "Continue into the Parvati Valley and reach Kasol.",
+      "evening": "Check in and relax by the Parvati River. Explore Kasol market and cafés.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Kasol, Manikaran, Chalal & Katagla",
+      "morning": "Visit Manikaran Sahib and experience the famous hot-spring area.",
+      "afternoon": "Return to Kasol and explore the Chalal trail. Continue towards Katagla if conditions and time permit.",
+      "evening": "Relaxed evening in Kasol by the Parvati River.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Kasol to Kullu & Manali",
+      "morning": "Check out and drive towards Bhuntar and Kullu.",
+      "afternoon": "Enjoy a short Kullu Valley stop before continuing to Manali.",
+      "evening": "Visit Hidimba Devi Temple, Old Manali and Mall Road.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Solang Valley, Atal Tunnel, Sissu & Rohtang Option",
+      "morning": "Drive through Solang Valley towards Dhundi and the Atal Tunnel corridor.",
+      "afternoon": "Explore Sissu and the Lahaul Valley. If Rohtang is officially open and permitted, the route can be adjusted for the Rohtang excursion.",
+      "evening": "Return to Manali and relax.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Manali to Delhi via Naggar",
+      "morning": "Breakfast and check out. Visit Naggar Castle if traffic and timing permit.",
+      "afternoon": "Optional short stop at Jana Waterfall before descending through Kullu.",
+      "evening": "Continue towards Delhi and complete the drop.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Delhi pickup and drop",
+    "Private AC vehicle with professional driver",
+    "2 nights Kasol accommodation",
+    "2 nights Manali accommodation",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Entry fees",
+    "Rohtang permit and applicable charges",
+    "Adventure activities",
+    "Local jeep or guide charges",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Warm clothing",
+    "Comfortable walking shoes",
+    "Sunscreen and sunglasses",
+    "Personal medicines",
+    "Power bank",
+    "Government ID"
+  ],
+  "faq": [
+    {
+      "question": "Why start with Kasol?",
+      "answer": "Kasol and Manikaran lie naturally along the Parvati Valley route before the journey moves back towards Kullu and then climbs into Manali."
+    },
+    {
+      "question": "Can Rohtang definitely be covered?",
+      "answer": "No. Rohtang is a regulated high-altitude excursion and depends on official access, permits, weather and road conditions."
+    }
+  ]
+  },
+  {
+  "id": "trip-rishikesh-kasol-manali-5n6d",
+  "slug": "rishikesh-kasol-manali-5n6d-tour-package",
+  "title": "Rishikesh, Kasol & Manali Himalayan Adventure Tour",
+  "location": "Delhi • Rishikesh • Kasol • Manikaran • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu",
+  "categories": [
+    "Domestic",
+    "Adventure",
+    "Nature",
+    "Spiritual",
+    "Friends"
+  ],
+  "price": null,
+  "duration": "6 Days / 5 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "Combine the spiritual energy of Rishikesh with the Himalayan landscapes of Kasol and Manali, including Ganga Aarti, rafting options, Parvati Valley, Solang Valley, Atal Tunnel and Sissu.",
+  "heroImage": "https://unsplash.com/photos/vDempbPR52w/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/YiS7laeCbk4/download?force=true",
+    "https://unsplash.com/photos/XbS76mRgMig/download?force=true",
+    "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true"
+  ],
+  "highlights": [
+    "Triveni Ghat Ganga Aarti",
+    "Beatles Ashram",
+    "Shivpuri / Byasi rafting option",
+    "Hidden Gem: Kunjapuri or Rishikesh waterfall trail",
+    "Kasol and Parvati Valley",
+    "Manikaran Sahib and hot springs",
+    "Hidden Gem: Chalal and Katagla",
+    "Kullu Valley",
+    "Manali local sightseeing",
+    "Solang Valley",
+    "Atal Tunnel and Sissu"
+  ],
+  "overview": "This six-day route combines two very different Himalayan experiences: the spiritual and adventure culture of Rishikesh followed by the high mountain landscapes of Himachal Pradesh. Rishikesh is placed first because it is south of the Himachal circuit; the route then moves north-west through the plains into Kasol and finally Manali.",
+  "accommodation": "1 night Rishikesh, 2 nights Kasol and 2 nights Manali.",
+  "transportation": "Private AC vehicle with professional chauffeur throughout the itinerary.",
+  "meals": "Daily breakfast included. Other meals are excluded.",
+  "difficulty": "Easy to Moderate",
+  "altitude": "Rishikesh approx. 340 m; Manali approx. 2,050 m; higher excursions significantly higher",
+  "weather": "Rishikesh is warmer and subtropical; Kasol and Manali are considerably cooler, particularly mornings and evenings.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Rishikesh",
+      "morning": "Pickup from Delhi and drive towards Rishikesh.",
+      "afternoon": "Check in and explore the Ganga-side areas around Swargashram and Ram Jhula.",
+      "evening": "Attend the Ganga Aarti at Triveni Ghat.",
+      "hotel": "Hotel in Rishikesh",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Rishikesh Adventure & Transfer Towards Kasol",
+      "morning": "Visit Beatles Ashram and explore the Swargashram area.",
+      "afternoon": "Optional rafting at Shivpuri or Byasi, depending on season, river conditions and authorised operator availability. Begin the onward transfer towards the Himachal side.",
+      "evening": "Continue towards the Parvati Valley. Overnight travel may be required depending on the final package timing.",
+      "hotel": "Transit / hotel arrangement as per final departure timing",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Arrival in Kasol & Parvati Valley",
+      "morning": "Reach Kasol and check in after the long transfer.",
+      "afternoon": "Relaxed Kasol riverside exploration and local market.",
+      "evening": "Visit Manikaran Sahib and return to Kasol.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Kasol Hidden Gems to Kullu & Manali",
+      "morning": "Explore the Chalal trail and, if conditions permit, continue towards Katagla.",
+      "afternoon": "Check out and travel through Bhuntar and Kullu towards Manali.",
+      "evening": "Check in at Manali. Visit Old Manali, Hidimba Devi Temple or Vashisht depending on arrival time.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Solang Valley, Atal Tunnel & Sissu",
+      "morning": "Drive through Solang Valley and Dhundi towards Atal Tunnel.",
+      "afternoon": "Cross into Lahaul and explore Sissu and its waterfall/lake surroundings.",
+      "evening": "Return to Manali and enjoy a relaxed evening.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Manali to Delhi",
+      "morning": "Breakfast and check out.",
+      "afternoon": "Begin the descent through Kullu and Mandi towards Delhi.",
+      "evening": "Reach Delhi and complete the drop-off depending on traffic.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Delhi pickup and drop",
+    "Private AC vehicle with professional driver",
+    "1 night Rishikesh accommodation",
+    "2 nights Kasol accommodation",
+    "2 nights Manali accommodation",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Rafting charges",
+    "Entry fees",
+    "Adventure activity charges",
+    "Rohtang permit and applicable charges",
+    "Local guide / special vehicle charges",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Comfortable clothing for Rishikesh",
+    "Warm layers for Himachal",
+    "Comfortable walking shoes",
+    "Quick-dry clothes if rafting",
+    "Sunscreen and sunglasses",
+    "Personal medicines",
+    "Power bank"
+  ],
+  "faq": [
+    {
+      "question": "Why is Rishikesh placed before Kasol?",
+      "answer": "Rishikesh is geographically south of the Himachal circuit, making Delhi → Rishikesh → Himachal more logical than inserting Rishikesh after Manali."
+    },
+    {
+      "question": "Is rafting included?",
+      "answer": "No. It is an optional activity and should be booked with an authorised operator based on river conditions and operating season."
+    }
+  ]
+  },
+  {
+  "id": "trip-rishikesh-kasol-manali-6n7d",
+  "slug": "rishikesh-kasol-manali-6n7d-himalayan-tour-package",
+  "title": "Ultimate Rishikesh, Kasol & Manali Himalayan Tour Package",
+  "location": "Delhi • Rishikesh • Kasol • Manikaran • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu",
+  "categories": [
+    "Domestic",
+    "Adventure",
+    "Nature",
+    "Spiritual",
+    "Family",
+    "Friends"
+  ],
+  "price": null,
+  "duration": "7 Days / 6 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "The most balanced Himalayan combination covering Rishikesh, Ganga experiences, Kasol and Parvati Valley, Kullu, Manali, Solang Valley, Atal Tunnel and Sissu with two nights in each major destination.",
+  "heroImage": "https://unsplash.com/photos/YiS7laeCbk4/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/vDempbPR52w/download?force=true",
+    "https://unsplash.com/photos/XbS76mRgMig/download?force=true",
+    "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true"
+  ],
+  "highlights": [
+    "Rishikesh Ganga Aarti at Triveni Ghat",
+    "Beatles Ashram and Swargashram",
+    "Shivpuri / Byasi river rafting option",
+    "Hidden Gem: Kunjapuri or waterfall trail",
+    "Kasol riverside experience",
+    "Manikaran Sahib and hot springs",
+    "Hidden Gem: Chalal and Katagla",
+    "Kullu Valley",
+    "Hidimba Devi Temple and Old Manali",
+    "Solang Valley",
+    "Atal Tunnel",
+    "Sissu and Lahaul Valley",
+    "Rohtang Pass optional when officially accessible"
+  ],
+  "overview": "This seven-day Himalayan circuit is designed for travellers who want Rishikesh, Kasol and Manali in one trip without rushing every destination. Two nights are allocated to each core destination, while the final day is used for the return to Delhi. The geographic progression is Delhi → Rishikesh → Kasol → Manali → Delhi.",
+  "accommodation": "2 nights Rishikesh, 2 nights Kasol and 2 nights Manali.",
+  "transportation": "Private AC vehicle with professional chauffeur throughout the trip.",
+  "meals": "Daily breakfast included. Other meals are excluded.",
+  "difficulty": "Easy to Moderate",
+  "altitude": "Rishikesh approx. 340 m; Manali approx. 2,050 m; Atal Tunnel/Lahaul substantially higher",
+  "weather": "Conditions vary from warm Rishikesh weather to cool Himalayan evenings and cold high-altitude excursions.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Rishikesh",
+      "morning": "Pickup from Delhi and proceed towards Rishikesh.",
+      "afternoon": "Check in and explore Swargashram, Ram Jhula and the Ganga riverfront.",
+      "evening": "Attend Triveni Ghat Ganga Aarti.",
+      "hotel": "Hotel in Rishikesh",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Rishikesh Adventure & Hidden Gems",
+      "morning": "Visit Beatles Ashram and explore the spiritual side of Rishikesh.",
+      "afternoon": "Optional rafting at Shivpuri or Byasi. Alternatively, choose a waterfall trail or Kunjapuri excursion.",
+      "evening": "Return to Rishikesh and enjoy a relaxed riverside evening.",
+      "hotel": "Hotel in Rishikesh",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Rishikesh to Kasol",
+      "morning": "Breakfast and check out. Begin the long transfer towards the Himachal Pradesh side.",
+      "afternoon": "Continue through the plains and Beas Valley approach.",
+      "evening": "Reach Kasol, check in and relax beside the Parvati River.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Kasol, Manikaran, Chalal & Katagla",
+      "morning": "Visit Manikaran Sahib and the hot-spring area.",
+      "afternoon": "Return to Kasol and walk through Chalal. Continue towards Katagla if desired.",
+      "evening": "Free time for cafés, local market and Parvati riverside.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Kasol to Kullu & Manali",
+      "morning": "Check out and drive through Bhuntar and Kullu.",
+      "afternoon": "Short Kullu Valley stop before continuing towards Manali.",
+      "evening": "Check in and explore Old Manali, Hidimba Temple and Vashisht depending on arrival time.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Solang Valley, Atal Tunnel & Sissu",
+      "morning": "Drive through Solang Valley and Dhundi towards Atal Tunnel.",
+      "afternoon": "Cross into Lahaul and explore Sissu and its waterfall/lake surroundings. Rohtang can be considered only if officially accessible and permitted.",
+      "evening": "Return to Manali for a relaxed final evening.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Manali to Delhi",
+      "morning": "Breakfast and check out.",
+      "afternoon": "Drive through Kullu and Mandi towards Delhi.",
+      "evening": "Complete the Delhi drop-off depending on traffic and road conditions.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Delhi pickup and drop",
+    "Private AC vehicle with professional driver",
+    "2 nights Rishikesh accommodation",
+    "2 nights Kasol accommodation",
+    "2 nights Manali accommodation",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Rafting and adventure activities",
+    "Entry fees",
+    "Rohtang permit and applicable charges",
+    "Local guides / special vehicle charges",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Light cotton clothing for Rishikesh",
+    "Warm layers for Himachal",
+    "Comfortable walking shoes",
+    "Quick-dry clothes for rafting",
+    "Sunscreen and sunglasses",
+    "Personal medicines",
+    "Power bank",
+    "Government ID"
+  ],
+  "faq": [
+    {
+      "question": "Which of the four packages is the most comfortable?",
+      "answer": "The 6 Nights / 7 Days package is the most balanced because it gives two nights each in Rishikesh, Kasol and Manali."
+    },
+    {
+      "question": "Can we add Rohtang?",
+      "answer": "Yes, when officially accessible and permitted. It should be treated as a conditional high-altitude excursion rather than a guaranteed attraction."
+    },
+    {
+      "question": "Can rafting be replaced?",
+      "answer": "Yes. Rafting can be replaced with a Rishikesh waterfall trail, Kunjapuri or a longer Ganga-side exploration."
+    }
+  ]
+  },
+  {
+  "id": "trip-himachal-manali-jibhi-3n4d",
+  "slug": "manali-jibhi-solang-atal-tunnel-3n4d-tour-package",
+  "title": "Manali & Jibhi Himalayan Escape Tour Package",
+  "location": "Chandigarh • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu • Jibhi • Jalori Pass",
+  "categories": [
+    "Domestic",
+    "Nature",
+    "Adventure",
+    "Family",
+    "Friends"
+  ],
+  "price": null,
+  "duration": "4 Days / 3 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "A refreshing Himalayan escape combining the popular Manali circuit with the peaceful forests and waterfalls of Jibhi, including Solang Valley, Atal Tunnel, Kullu Valley and Jalori Pass.",
+  "heroImage": "https://unsplash.com/photos/sWuY2RSVLBk/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/EU2QprQTR-s/download?force=true",
+    "https://unsplash.com/photos/68fgPaI9dRA/download?force=true",
+    "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true"
+  ],
+  "highlights": [
+    "Scenic Chandigarh to Kullu–Manali Himalayan drive",
+    "Kullu Valley and Beas River landscapes",
+    "Hidimba Devi Temple and Old Manali",
+    "Solang Valley",
+    "Atal Tunnel and Sissu",
+    "Hidden Gem: Jibhi Waterfall",
+    "Jibhi village and forest trails",
+    "Jalori Pass and panoramic Himalayan viewpoints",
+    "Optional Serolsar Lake short trek",
+    "Breakfast included throughout the stay"
+  ],
+  "overview": "This compact four-day Himalayan itinerary combines the lively mountain atmosphere of Manali with the quieter forest landscapes of Jibhi. The route first covers the Manali and Lahaul-side attractions before moving through Kullu towards Banjar and Jibhi. The final day focuses on Jibhi and Jalori Pass before returning towards Chandigarh.",
+  "accommodation": "2 nights in Manali and 1 night in Jibhi. Hotel category and room type as per selected package.",
+  "transportation": "Private AC vehicle with professional chauffeur for the complete Chandigarh–Himachal–Chandigarh circuit.",
+  "meals": "Daily breakfast included. Lunch, dinner, snacks and beverages are not included.",
+  "difficulty": "Easy to Moderate",
+  "altitude": "Manali approx. 2,050 m; Jibhi approx. 1,500 m; Jalori Pass approx. 3,120 m",
+  "weather": "Mountain weather can change quickly. Jalori Pass may experience colder conditions and temporary road restrictions depending on season.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Chandigarh to Kullu & Manali",
+      "morning": "Pickup from Chandigarh and begin the scenic drive towards the Beas Valley and Kullu.",
+      "afternoon": "Continue through Kullu with scenic river and mountain views before reaching Manali. Check in and relax.",
+      "evening": "Visit Hidimba Devi Temple, explore Old Manali and enjoy a relaxed walk around Mall Road.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Solang Valley, Atal Tunnel & Sissu",
+      "morning": "Drive towards Solang Valley and Dhundi. Enjoy the Himalayan scenery and optional seasonal activities.",
+      "afternoon": "Proceed through Atal Tunnel into Lahaul and explore Sissu, including the waterfall and valley surroundings.",
+      "evening": "Return to Manali. Optional relaxed visit to Vashisht village and its hot-water springs.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Manali to Jibhi via Kullu & Banjar Valley",
+      "morning": "Check out and drive back through Kullu towards Aut and Banjar Valley.",
+      "afternoon": "Continue towards Jibhi and check in. Visit Jibhi Waterfall and explore the village's forest-lined lanes.",
+      "evening": "Relax beside the mountain streams and enjoy the peaceful Jibhi atmosphere.",
+      "hotel": "Hotel / Homestay in Jibhi",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Jalori Pass, Serolsar Option & Chandigarh",
+      "morning": "Breakfast and check out. Drive towards Jalori Pass and enjoy panoramic Himalayan viewpoints.",
+      "afternoon": "Optional short trek towards Serolsar Lake if weather, trail conditions and time permit. Begin the descent through Banjar and Aut towards Chandigarh.",
+      "evening": "Continue to Chandigarh and complete the drop-off.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Chandigarh pickup and drop",
+    "Private AC vehicle with professional driver",
+    "2 nights accommodation in Manali",
+    "1 night accommodation in Jibhi",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Entry fees to attractions",
+    "Adventure activities",
+    "Serolsar Lake trekking or guide charges",
+    "Local vehicle / permit charges if required",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Warm layers and light jacket",
+    "Comfortable trekking shoes",
+    "Sunscreen and sunglasses",
+    "Small day backpack",
+    "Personal medicines",
+    "Power bank",
+    "Valid government ID"
+  ],
+  "faq": [
+    {
+      "question": "Why include Jibhi in a four-day Manali trip?",
+      "answer": "Jibhi provides a different experience from busy Manali, with forests, waterfalls, streams and quieter mountain villages."
+    },
+    {
+      "question": "Can Serolsar Lake be covered?",
+      "answer": "Yes, as an optional short trek from Jalori Pass when weather, trail conditions and available daylight permit."
+    },
+    {
+      "question": "Why is Chandigarh used for pickup and drop?",
+      "answer": "For a short Himachal package, Chandigarh generally reduces the plains travel component compared with Delhi."
+    }
+  ]
+  },
+  {
+  "id": "trip-rishikesh-kasol-manali-jibhi-6n7d",
+  "slug": "rishikesh-kasol-manali-jibhi-6n7d-himalayan-tour-package",
+  "title": "Ultimate Rishikesh, Kasol, Manali & Jibhi Himalayan Tour",
+  "location": "Delhi • Rishikesh • Kasol • Manikaran • Kullu • Manali • Solang Valley • Atal Tunnel • Sissu • Jibhi • Jalori Pass",
+  "categories": [
+    "Domestic",
+    "Adventure",
+    "Nature",
+    "Spiritual",
+    "Family",
+    "Friends"
+  ],
+  "price": null,
+  "duration": "7 Days / 6 Nights",
+  "travelDates": [],
+  "seatsLeft": null,
+  "rating": null,
+  "reviewsCount": null,
+  "shortDescription": "A complete Himalayan journey combining Rishikesh, Kasol, Manali and the hidden forest valleys of Jibhi and Tirthan, with adventure, spirituality, waterfalls and high-altitude landscapes.",
+  "heroImage": "https://unsplash.com/photos/EU2QprQTR-s/download?force=true",
+  "gallery": [
+    "https://unsplash.com/photos/vDempbPR52w/download?force=true",
+    "https://unsplash.com/photos/XbS76mRgMig/download?force=true",
+    "https://unsplash.com/photos/sWuY2RSVLBk/download?force=true",
+    "https://unsplash.com/photos/CMpr5o8CH2E/download?force=true"
+  ],
+  "highlights": [
+    "Triveni Ghat Ganga Aarti in Rishikesh",
+    "Beatles Ashram and Swargashram",
+    "Optional Shivpuri / Byasi rafting",
+    "Hidden Gem: Kunjapuri or Rishikesh waterfall trail",
+    "Kasol and Parvati Valley",
+    "Manikaran Sahib and hot springs",
+    "Hidden Gem: Chalal and Katagla",
+    "Kullu Valley",
+    "Hidimba Devi Temple and Old Manali",
+    "Solang Valley",
+    "Atal Tunnel and Sissu",
+    "Jibhi Waterfall",
+    "Hidden Gem: Tirthan Valley",
+    "Jalori Pass",
+    "Optional Serolsar Lake trek",
+    "Traditional village and forest experiences"
+  ],
+  "overview": "This seven-day Himalayan circuit is designed for travellers who want considerably more than the standard Manali package. The journey begins with Rishikesh and its Ganga-side experiences, continues north into Kasol and the Parvati Valley, then moves through Kullu to Manali. After exploring the Solang–Atal Tunnel–Sissu corridor, the route heads towards Banjar and Jibhi, ending with the forests and high viewpoints around Jalori Pass before returning to Delhi.",
+  "accommodation": "1 night Rishikesh, 2 nights Kasol, 2 nights Manali and 1 night Jibhi.",
+  "transportation": "Private AC vehicle with professional chauffeur throughout the itinerary.",
+  "meals": "Daily breakfast included. Lunch, dinner, snacks and beverages are not included.",
+  "difficulty": "Easy to Moderate",
+  "altitude": "Rishikesh approx. 340 m; Jibhi approx. 1,500 m; Manali approx. 2,050 m; Jalori Pass approx. 3,120 m",
+  "weather": "Conditions vary significantly across the route. Higher mountain roads can experience sudden weather changes, snow, rain or temporary closures.",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Delhi to Rishikesh",
+      "morning": "Pickup from Delhi and proceed towards Rishikesh.",
+      "afternoon": "Check in and explore Swargashram, the Ganga riverfront and nearby ashram areas.",
+      "evening": "Attend the Ganga Aarti at Triveni Ghat and enjoy a relaxed evening.",
+      "hotel": "Hotel in Rishikesh",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Rishikesh Adventure & Hidden Gems",
+      "morning": "Visit Beatles Ashram and explore the spiritual side of Rishikesh.",
+      "afternoon": "Optional rafting around Shivpuri or Byasi, subject to season, river conditions and authorised operator availability. Alternatively, choose a waterfall or Kunjapuri excursion.",
+      "evening": "Continue the onward journey towards Himachal if the final transport schedule allows.",
+      "hotel": "Hotel / transit arrangement as per final departure timing",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Arrival in Kasol & Manikaran",
+      "morning": "Complete the transfer towards Kasol and check in after arrival.",
+      "afternoon": "Relaxed Kasol riverside exploration and local market.",
+      "evening": "Visit Manikaran Sahib and its famous hot-spring area before returning to Kasol.",
+      "hotel": "Hotel in Kasol",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Kasol Hidden Gems to Kullu & Manali",
+      "morning": "Explore the Chalal trail and, if desired, continue towards Katagla for a quieter Parvati Valley experience.",
+      "afternoon": "Check out and travel through Bhuntar and Kullu towards Manali.",
+      "evening": "Check in at Manali. Visit Old Manali, Hidimba Devi Temple or Vashisht depending on arrival time.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Solang Valley, Atal Tunnel & Sissu",
+      "morning": "Drive towards Solang Valley and Dhundi before entering the Atal Tunnel corridor.",
+      "afternoon": "Cross into Lahaul and explore Sissu and its waterfall/lake surroundings. Rohtang can be considered only if officially open and permitted.",
+      "evening": "Return to Manali and enjoy a relaxed final evening.",
+      "hotel": "Hotel in Manali",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Manali to Jibhi & Tirthan Valley",
+      "morning": "Breakfast and check out. Descend through Kullu towards Aut and Banjar Valley.",
+      "afternoon": "Continue to Jibhi. Visit Jibhi Waterfall and explore the surrounding village and forest paths.",
+      "evening": "Explore the quieter Tirthan Valley side or relax by the stream at the accommodation.",
+      "hotel": "Hotel / Homestay in Jibhi",
+      "mealsIncluded": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Jalori Pass, Serolsar Option & Delhi",
+      "morning": "Breakfast and check out. Drive towards Jalori Pass for panoramic Himalayan views.",
+      "afternoon": "Optional trek to Serolsar Lake if weather, trail conditions and time permit. Descend via Banjar and Aut and begin the long return journey towards Delhi.",
+      "evening": "Continue towards Delhi and complete the drop-off depending on traffic and road conditions.",
+      "hotel": "Not Applicable",
+      "mealsIncluded": "Breakfast"
+    }
+  ],
+  "inclusions": [
+    "Delhi pickup and drop",
+    "Private AC vehicle with professional driver",
+    "1 night Rishikesh accommodation",
+    "2 nights Kasol accommodation",
+    "2 nights Manali accommodation",
+    "1 night Jibhi accommodation",
+    "Daily breakfast",
+    "Fuel, tolls, parking and driver charges"
+  ],
+  "exclusions": [
+    "Flights / train tickets",
+    "Lunch, dinner, snacks and beverages",
+    "Rafting and adventure activities",
+    "Entry fees to attractions",
+    "Rohtang permit and applicable charges",
+    "Serolsar Lake trek / guide charges",
+    "Local vehicle or special permit charges",
+    "Travel insurance and personal expenses"
+  ],
+  "packingList": [
+    "Light clothing for Rishikesh",
+    "Warm layers for Himachal",
+    "Comfortable walking / trekking shoes",
+    "Quick-dry clothes for rafting",
+    "Small day backpack",
+    "Sunscreen and sunglasses",
+    "Personal medicines",
+    "Power bank",
+    "Government ID"
+  ],
+  "faq": [
+    {
+      "question": "Why is Jibhi added after Manali?",
+      "answer": "Jibhi and the Tirthan/Banjar side lie naturally south-east of Manali. Placing Jibhi after Manali allows the route to descend through Kullu and Aut instead of returning to Manali later."
+    },
+    {
+      "question": "Why are two nights kept in Kasol and Manali?",
+      "answer": "These are the two larger sightseeing bases. Two nights prevent the itinerary from becoming a hotel-changing exercise and allow enough time for both the Parvati Valley and Manali–Lahaul circuits."
+    },
+    {
+      "question": "Is Jibhi suitable for families?",
+      "answer": "Yes. Jibhi is particularly suitable for travellers looking for a quieter mountain environment, short nature walks, waterfalls and village experiences."
+    },
+    {
+      "question": "Can Rohtang be included?",
+      "answer": "Rohtang can be added when officially accessible and the required permit and vehicle conditions are satisfied. Atal Tunnel and Sissu remain the planned Lahaul-side experience."
+    }
+  ]
   }
 ]

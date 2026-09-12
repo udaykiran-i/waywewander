@@ -24,6 +24,13 @@ export default function Footer() {
             <img src={brand.logoPath} alt="WayWeWander logo" />
             <span>{brand.name}</span>
           </Link>
+          <br></br>
+          <div className="trust-badge" aria-label="Udyam registered business">
+            <span className="trust-badge__mark" aria-hidden="true">
+              U
+            </span>
+            <span>Udyam Registered</span>
+          </div>
           <p>
             Premium adventure, luxury, family, honeymoon, weekend, domestic, and international
             journeys planned with care.
@@ -32,9 +39,11 @@ export default function Footer() {
             <a href={brand.instagramUrl} aria-label={`Instagram ${brand.instagramHandle}`}>
               <FaInstagram />
             </a>
-            <a href={brand.whatsappUrl} aria-label="WhatsApp">
-              <FaWhatsapp />
-            </a>
+            {brand.whatsappUrls.map((url, index) => (
+              <a key={url} href={url} aria-label={`WhatsApp ${brand.whatsappNumbers[index]}`}>
+                <FaWhatsapp />
+              </a>
+            ))}
           </div>
         </section>
 
@@ -75,12 +84,16 @@ export default function Footer() {
             <li>
               <a href={`mailto:${brand.email}`}>{brand.email}</a>
             </li>
-            <li>
-              <span>{brand.phone}</span>
-            </li>
-            <li>
-              <a href={brand.whatsappUrl}>WhatsApp: {brand.whatsapp}</a>
-            </li>
+            {brand.phoneNumbers.map((phone) => (
+              <li key={phone}>
+                <span>Phone: {phone}</span>
+              </li>
+            ))}
+            {brand.whatsappNumbers.map((number, index) => (
+              <li key={`${number}-${index}`}>
+                <a href={brand.whatsappUrls[index]}>WhatsApp: {number}</a>
+              </li>
+            ))}
             <li>
               <a href={brand.instagramUrl}>Instagram: @{brand.instagramHandle}</a>
             </li>

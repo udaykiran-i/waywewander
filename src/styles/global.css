@@ -256,13 +256,67 @@ p {
 .nav-panel {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 18px;
 }
 
 .nav-links {
   display: flex;
   align-items: center;
   gap: 4px;
+}
+
+.nav-trust,
+.trust-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid rgba(20, 184, 166, 0.28);
+  border-radius: 999px;
+  background: rgba(20, 184, 166, 0.08);
+  padding: 7px 12px;
+  color: #0f766e;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.nav-trust {
+  border-color: rgba(255, 255, 255, 0.24);
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.site-header--solid .nav-trust,
+.nav-trust--solid {
+  border-color: rgba(20, 184, 166, 0.28);
+  background: rgba(20, 184, 166, 0.08);
+  color: #0f766e;
+}
+
+.trust-badge {
+  margin-bottom: 18px;
+}
+
+.trust-badge__mark {
+  display: inline-grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #0f766e, #22c55e);
+  color: #ffffff;
+  font-size: 0.72rem;
+  font-weight: 900;
+  box-shadow: 0 6px 16px rgba(15, 118, 110, 0.22);
+}
+
+.trust-badge__mark--nav {
+  width: 20px;
+  height: 20px;
+  font-size: 0.68rem;
 }
 
 .nav-link {

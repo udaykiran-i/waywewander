@@ -30,12 +30,22 @@ export default function Contact() {
           <article>
             <FaPhoneAlt />
             <h2>Phone</h2>
-            <p>{brand.phone}</p>
+            <div>
+              {brand.phoneNumbers.map((phone) => (
+                <p key={phone}>{phone}</p>
+              ))}
+            </div>
           </article>
           <article>
             <FaWhatsapp />
             <h2>WhatsApp</h2>
-            <a href={brand.whatsappUrl}>{brand.whatsapp}</a>
+            <div>
+              {brand.whatsappNumbers.map((number, index) => (
+                <a key={`${number}-${index}`} href={brand.whatsappUrls[index]}>
+                  {number}
+                </a>
+              ))}
+            </div>
           </article>
           <article>
             <FaMapMarkerAlt />

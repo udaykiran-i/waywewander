@@ -46,6 +46,15 @@ export default function Navbar() {
           <Link className="btn btn--primary nav-cta" to="/contact#callback">
             Request Callback
           </Link>
+          <div
+            className={`nav-trust ${hasScrolled || isOpen ? 'nav-trust--solid' : ''}`}
+            aria-label="Udyam registered business"
+          >
+            <span className="trust-badge__mark trust-badge__mark--nav" aria-hidden="true">
+              U
+            </span>
+            <span>Udyam Registered</span>
+          </div>
         </div>
       </nav>
     </header>
